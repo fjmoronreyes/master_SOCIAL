@@ -1,0 +1,286 @@
+{
+  "created_at": "Thu Jan 14 10:41:22 +0000 2021",
+  "id": 1349667921237303296,
+  "id_str": "1349667921237303296",
+  "full_text": "Han hecho una obra maravillosa con una interpretaci\u00f3n extraordinaria de S\u00edlvia de Pe. Vi un ensayo y qued\u00e9 entusiasmada. No te la pierdas https://t.co/SIfY5cJtux",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    137
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/SIfY5cJtux",
+        "expanded_url": "https://twitter.com/lineaamarilla/status/1349657880853696512",
+        "display_url": "twitter.com/lineaamarilla/\u2026",
+        "indices": [
+          138,
+          161
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92415862,
+    "id_str": "92415862",
+    "name": "Rosa Montero",
+    "screen_name": "BrunaHusky",
+    "location": "Madrid",
+    "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj",
+    "url": "https://t.co/BNS4CN8yJd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/BNS4CN8yJd",
+            "expanded_url": "http://www.rosamontero.es",
+            "display_url": "rosamontero.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/Hl9mM9RSIj",
+            "expanded_url": "http://bit.ly/3l13Ck3",
+            "display_url": "bit.ly/3l13Ck3",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164036,
+    "friends_count": 600,
+    "listed_count": 1463,
+    "created_at": "Wed Nov 25 01:17:12 +0000 2009",
+    "favourites_count": 70939,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 35286,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/92415862/1597906940",
+    "profile_link_color": "598AEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1349657880853696512,
+  "quoted_status_id_str": "1349657880853696512",
+  "quoted_status_permalink": {
+    "url": "https://t.co/SIfY5cJtux",
+    "expanded": "https://twitter.com/lineaamarilla/status/1349657880853696512",
+    "display": "twitter.com/lineaamarilla/\u2026"
+  },
+  "quoted_status": {
+    "created_at": "Thu Jan 14 10:01:28 +0000 2021",
+    "id": 1349657880853696512,
+    "id_str": "1349657880853696512",
+    "full_text": "#agenda Sugerente estreno en el @TeatroEspanol. Texto de @LailaRipoll a partir de un personaje de Rosa Montero (@BrunaHusky) e interpretado por @SilviadPe \ud83d\udc47\n\u2018El caballero incierto\u2019, de Laila Ripoll (Teatro Espa\u00f1ol) Hasta el 7/2 https://t.co/t7qAROk2NN a trav\u00e9s de @lineaamarilla",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "agenda",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TeatroEspanol",
+          "name": "Teatro Espa\u00f1ol",
+          "id": 861149438,
+          "id_str": "861149438",
+          "indices": [
+            32,
+            46
+          ]
+        },
+        {
+          "screen_name": "LailaRipoll",
+          "name": "Laila Ripoll",
+          "id": 1338911346,
+          "id_str": "1338911346",
+          "indices": [
+            57,
+            69
+          ]
+        },
+        {
+          "screen_name": "BrunaHusky",
+          "name": "Rosa Montero",
+          "id": 92415862,
+          "id_str": "92415862",
+          "indices": [
+            112,
+            123
+          ]
+        },
+        {
+          "screen_name": "SilviadPe",
+          "name": "Silvia de P\u00e9",
+          "id": 386023224,
+          "id_str": "386023224",
+          "indices": [
+            144,
+            154
+          ]
+        },
+        {
+          "screen_name": "lineaamarilla",
+          "name": "La l\u00ednea amarilla",
+          "id": 2816866735,
+          "id_str": "2816866735",
+          "indices": [
+            264,
+            278
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t7qAROk2NN",
+          "expanded_url": "https://lalineaamarilla.es/el-caballero-incierto-de-laila-ripoll-teatro-espanol-hasta-el-7-2/",
+          "display_url": "lalineaamarilla.es/el-caballero-i\u2026",
+          "indices": [
+            228,
+            251
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2816866735,
+      "id_str": "2816866735",
+      "name": "La l\u00ednea amarilla",
+      "screen_name": "lineaamarilla",
+      "location": "Cities",
+      "description": "Magazine cultural. Slow journalism. La cultura y el periodismo independiente no son negociables #culturaobarbarie Instagram: lalineaamarilla",
+      "url": "https://t.co/RVPXfIcrTn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/RVPXfIcrTn",
+              "expanded_url": "http://www.lalineaamarilla.es",
+              "display_url": "lalineaamarilla.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 812,
+      "friends_count": 418,
+      "listed_count": 31,
+      "created_at": "Thu Sep 18 11:11:06 +0000 2014",
+      "favourites_count": 328,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2193,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1191395173542088707/f1nPSHO9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191395173542088707/f1nPSHO9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2816866735/1606150359",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "retweet_count": 0,
+  "favorite_count": 7,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

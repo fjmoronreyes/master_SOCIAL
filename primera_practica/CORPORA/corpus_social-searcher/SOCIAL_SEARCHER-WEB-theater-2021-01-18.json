@@ -1,0 +1,230 @@
+{
+    "meta": {
+        "requestid": "f5da235e79404d37b57ad5fcab9427a5",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askWhat is the difference between theater and Theatre?What theater means?What are the types of theater?What is another word for theater?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Theatre",
+            "text": "Theatre or theater is a collaborative form of performing art that uses live performers, usually actors or actresses, to present the experience of a real or imagined\u00a0...\u200eHistory of theatre \u00b7 \u200eAncient Greece \u00b7 \u200eDisambiguation \u00b7 \u200eTwentieth-century theatre",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/Theatre",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Theatre",
+                    "text": "Theatre - Wikipediaen.wikipedia.org \u203a wiki \u203a Theatre"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://www.amctheatres.com/",
+            "text": "Find movies near you, view show times, watch movie trailers and buy movie tickets. AMC Theatres has the newest movies near you.\u200eSee A Movie \u00b7 \u200eOur Theatres \u00b7 \u200eShowtimes \u00b7 \u200eFood & Drinks",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.amctheatres.com/",
+            "user": {
+                "name": "www.amctheatres.com",
+                "url": "https:://www.amctheatres.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.amctheatres.com/",
+                    "text": "AMC Theatres - movie times, movie trailers, buy tickets and gift ...www.amctheatres.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://www.merriam-webster.com/dictionary/theater",
+            "text": "6 days ago \u2014 Theater definition is - a building or area for dramatic performances. How to use theater in a sentence.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://www.merriam-webster.com/dictionary/theater",
+            "user": {
+                "name": "www.merriam-webster.com",
+                "url": "https:://www.merriam-webster.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.merriam-webster.com/dictionary/theater",
+                    "text": "Theater | Definition of Theater by Merriam-Websterwww.merriam-webster.com \u203a dictionary \u203a theater"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://www.nytimes.com/section/theater",
+            "text": "Read the latest news about Broadway, Off Broadway, London and West End performances, casts and more. Theater reviews from co-chief critics Ben Brantley\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://www.nytimes.com/section/theater",
+            "user": {
+                "name": "www.nytimes.com",
+                "url": "https:://www.nytimes.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.nytimes.com/section/theater",
+                    "text": "Theater - NYC - The New York Timeswww.nytimes.com \u203a section \u203a theater"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://www.dictionary.com/browse/theater",
+            "text": "Theater definition, a building, part of a building, or outdoor area for housing dramatic performances or stage entertainments, or for showing movies. See more.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.dictionary.com/browse/theater",
+            "user": {
+                "name": "www.dictionary.com",
+                "url": "https:://www.dictionary.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.dictionary.com/browse/theater",
+                    "text": "Theater | Definition of Theater at Dictionary.comwww.dictionary.com \u203a browse \u203a theater"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://www.guthrietheater.org/",
+            "text": "Welcome to the Guthrie Theater located at 818 South 2nd Street in Minneapolis, Minnesota. See what's playing, buy tickets, become a subscriber or make a\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.guthrietheater.org/",
+            "user": {
+                "name": "www.guthrietheater.org",
+                "url": "https:://www.guthrietheater.org"
+            },
+            "urls": [
+                {
+                    "url": "https://www.guthrietheater.org/",
+                    "text": "Guthrie Theater: Homepage - Minneapoliswww.guthrietheater.org"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://publictheater.org/",
+            "text": "There was an error with your Public Theater Login. Please try again or click the forgot password link below. Public Theater Login. E-mail Address Password.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://publictheater.org/",
+            "user": {
+                "name": "publictheater.org",
+                "url": "https:://publictheater.org"
+            },
+            "urls": [
+                {
+                    "url": "https://publictheater.org/",
+                    "text": "Public Theaterpublictheater.org"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://www.ticketmaster.com/discover/arts-theater",
+            "text": "Buy tickets for upcoming arts and theater events, including Broadway shows, musicals, plays, operas and more. Find your seat location, show and venue details\u00a0...Wed, Jan 27Sheng WangThu, Jan 28Sheng WangFri, Jan 29Sheng Wang",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.ticketmaster.com/discover/arts-theater",
+            "user": {
+                "name": "www.ticketmaster.com",
+                "url": "https:://www.ticketmaster.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.ticketmaster.com/discover/arts-theater",
+                    "text": "Arts & Theater Events Tickets & Showtimes | Buy Ticketmaster ...www.ticketmaster.com \u203a discover \u203a arts-theater"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "https://www.harristheaterchicago.org/",
+            "text": "View the entire calendar listing to learn what is coming up at the Harris Theater for Music and Dance.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.harristheaterchicago.org/",
+            "user": {
+                "name": "www.harristheaterchicago.org",
+                "url": "https:://www.harristheaterchicago.org"
+            },
+            "urls": [
+                {
+                    "url": "https://www.harristheaterchicago.org/",
+                    "text": "Dance, Music, Performing Arts in Chicago | Harris Theater ...www.harristheaterchicago.org"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:01 +00000",
+            "postid": "/search?q=Theatre&stick=H4sIAAAAAAAAAONgecQ4h5Fb4OWPe8JSkxgnrTl5jbGbkYsrOCO_3DWvJLOkUkiDiw3KkuPik-LSz9U3MC4sTinI1mCQ4uFC4isFG7nvujTtHJujIAMQLEkJdpDS1BLiYvcs9slPTswRfGr53P5t8kZ7LWEujpDEivy8_NxKsFIGhg_2SpycQPrBpE337LUYmvatOMTGwsEowMCziJU9JCM1saQoFQDL9SmIrAAAAA&sa=X&ved=2ahUKEwjR3eTCmKXuAhUB-6wKHR0VDXgQ6RMwGHoECCoQAg",
+            "text": "See results aboutTheatreTheatre or theater is a collaborative form of ...Theatre or theater is a collaborative form of performing art that uses live performers, ...TheaterStructureStructuretheaterDictionary definitionDictionary definitionMovie theaterBuilding useBuilding use",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=Theatre&stick=H4sIAAAAAAAAAONgecQ4h5Fb4OWPe8JSkxgnrTl5jbGbkYsrOCO_3DWvJLOkUkiDiw3KkuPik-LSz9U3MC4sTinI1mCQ4uFC4isFG7nvujTtHJujIAMQLEkJdpDS1BLiYvcs9slPTswRfGr53P5t8kZ7LWEujpDEivy8_NxKsFIGhg_2SpycQPrBpE337LUYmvatOMTGwsEowMCziJU9JCM1saQoFQDL9SmIrAAAAA&sa=X&ved=2ahUKEwjR3eTCmKXuAhUB-6wKHR0VDXgQ6RMwGHoECCoQAg",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=Theatre&stick=H4sIAAAAAAAAAONgecQ4h5Fb4OWPe8JSkxgnrTl5jbGbkYsrOCO_3DWvJLOkUkiDiw3KkuPik-LSz9U3MC4sTinI1mCQ4uFC4isFG7nvujTtHJujIAMQLEkJdpDS1BLiYvcs9slPTswRfGr53P5t8kZ7LWEujpDEivy8_NxKsFIGhg_2SpycQPrBpE337LUYmvatOMTGwsEowMCziJU9JCM1saQoFQDL9SmIrAAAAA&sa=X&ved=2ahUKEwjR3eTCmKXuAhUB-6wKHR0VDXgQ6RMwGHoECCoQAg",
+                    "text": "See results aboutTheatreTheatre or theater is a collaborative form of ...Theatre or theater is a collaborative form of performing art that uses live performers, ...TheaterStructureStructuretheaterDictionary definitionDictionary definitionMovie theaterBuilding useBuilding use"
+                }
+            ]
+        }
+    ]
+}

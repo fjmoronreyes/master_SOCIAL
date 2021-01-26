@@ -1,0 +1,181 @@
+{
+  "created_at": "Wed Jan 13 17:21:01 +0000 2021",
+  "id": 1349406106930581508,
+  "id_str": "1349406106930581508",
+  "full_text": "En el D\u00eda Mundial de la Lucha contra la #Depresi\u00f3n es vital seguir avanzando para acabar con el estigma que rodea a miles de personas con problemas de salud mental. Trabajemos con todos los recursos disponibles para combatir una enfermedad que, adem\u00e1s, la pandemia ha agudizado. https://t.co/iqte53DI1V",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    278
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Depresi\u00f3n",
+        "indices": [
+          40,
+          50
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1349405908707790848,
+        "id_str": "1349405908707790848",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/EroNhkZXUAANjxM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EroNhkZXUAANjxM.jpg",
+        "url": "https://t.co/iqte53DI1V",
+        "display_url": "pic.twitter.com/iqte53DI1V",
+        "expanded_url": "https://twitter.com/sanchezcastejon/status/1349406106930581508/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1600,
+            "h": 900,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1349405908707790848,
+        "id_str": "1349405908707790848",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/EroNhkZXUAANjxM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EroNhkZXUAANjxM.jpg",
+        "url": "https://t.co/iqte53DI1V",
+        "display_url": "pic.twitter.com/iqte53DI1V",
+        "expanded_url": "https://twitter.com/sanchezcastejon/status/1349406106930581508/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1600,
+            "h": 900,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68740712,
+    "id_str": "68740712",
+    "name": "Pedro S\u00e1nchez",
+    "screen_name": "sanchezcastejon",
+    "location": "",
+    "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+    "url": "https://t.co/f7tJrIKtIo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/f7tJrIKtIo",
+            "expanded_url": "http://www.lamoncloa.gob.es",
+            "display_url": "lamoncloa.gob.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1536955,
+    "friends_count": 6038,
+    "listed_count": 5920,
+    "created_at": "Tue Aug 25 16:45:56 +0000 2009",
+    "favourites_count": 4536,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 28687,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "94D487",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68740712/1610312124",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 624,
+  "favorite_count": 2241,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

@@ -1,0 +1,235 @@
+{
+  "created_at": "Wed Jan 13 16:29:43 +0000 2021",
+  "id": 1349393196254638083,
+  "id_str": "1349393196254638083",
+  "full_text": "Hoy he mantenido un almuerzo de trabajo con la ministra de @Defensagob y los mandos militares para analizar la situaci\u00f3n de nuestros ej\u00e9rcitos. Mi gratitud por los esfuerzos que han realizado a lo largo de los \u00faltimos meses, frente al #COVID19 y ahora con la #OlaDeFr\u00edo y nieve. https://t.co/0Vk9cK46YD",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    278
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "COVID19",
+        "indices": [
+          235,
+          243
+        ]
+      },
+      {
+        "text": "OlaDeFr\u00edo",
+        "indices": [
+          259,
+          269
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Defensagob",
+        "name": "Ministerio Defensa",
+        "id": 274035504,
+        "id_str": "274035504",
+        "indices": [
+          59,
+          70
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1349392273977602048,
+        "id_str": "1349392273977602048",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/EroBH7EXcAADMwM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EroBH7EXcAADMwM.jpg",
+        "url": "https://t.co/0Vk9cK46YD",
+        "display_url": "pic.twitter.com/0Vk9cK46YD",
+        "expanded_url": "https://twitter.com/sanchezcastejon/status/1349393196254638083/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 452,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1363,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 798,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1349392273977602048,
+        "id_str": "1349392273977602048",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/EroBH7EXcAADMwM.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EroBH7EXcAADMwM.jpg",
+        "url": "https://t.co/0Vk9cK46YD",
+        "display_url": "pic.twitter.com/0Vk9cK46YD",
+        "expanded_url": "https://twitter.com/sanchezcastejon/status/1349393196254638083/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 452,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1363,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 798,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1349392282164846592,
+        "id_str": "1349392282164846592",
+        "indices": [
+          279,
+          302
+        ],
+        "media_url": "http://pbs.twimg.com/media/EroBIZkW4AA3ZBC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EroBIZkW4AA3ZBC.jpg",
+        "url": "https://t.co/0Vk9cK46YD",
+        "display_url": "pic.twitter.com/0Vk9cK46YD",
+        "expanded_url": "https://twitter.com/sanchezcastejon/status/1349393196254638083/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1363,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 798,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 452,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68740712,
+    "id_str": "68740712",
+    "name": "Pedro S\u00e1nchez",
+    "screen_name": "sanchezcastejon",
+    "location": "",
+    "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+    "url": "https://t.co/f7tJrIKtIo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/f7tJrIKtIo",
+            "expanded_url": "http://www.lamoncloa.gob.es",
+            "display_url": "lamoncloa.gob.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1536955,
+    "friends_count": 6038,
+    "listed_count": 5920,
+    "created_at": "Tue Aug 25 16:45:56 +0000 2009",
+    "favourites_count": 4536,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 28687,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "94D487",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68740712/1610312124",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 272,
+  "favorite_count": 1053,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

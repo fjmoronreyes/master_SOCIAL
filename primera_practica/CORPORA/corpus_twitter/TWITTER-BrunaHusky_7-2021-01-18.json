@@ -1,0 +1,472 @@
+{
+  "created_at": "Thu Jan 14 01:35:20 +0000 2021",
+  "id": 1349530507957194752,
+  "id_str": "1349530507957194752",
+  "full_text": "RT @BrunaHusky: \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    22
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BrunaHusky",
+        "name": "Rosa Montero",
+        "id": 92415862,
+        "id_str": "92415862",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92415862,
+    "id_str": "92415862",
+    "name": "Rosa Montero",
+    "screen_name": "BrunaHusky",
+    "location": "Madrid",
+    "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj",
+    "url": "https://t.co/BNS4CN8yJd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/BNS4CN8yJd",
+            "expanded_url": "http://www.rosamontero.es",
+            "display_url": "rosamontero.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/Hl9mM9RSIj",
+            "expanded_url": "http://bit.ly/3l13Ck3",
+            "display_url": "bit.ly/3l13Ck3",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164036,
+    "friends_count": 600,
+    "listed_count": 1463,
+    "created_at": "Wed Nov 25 01:17:12 +0000 2009",
+    "favourites_count": 70939,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 35286,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/92415862/1597906940",
+    "profile_link_color": "598AEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jan 14 00:18:40 +0000 2021",
+    "id": 1349511212330065923,
+    "id_str": "1349511212330065923",
+    "full_text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f https://t.co/1GIO57bPPe",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      6
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1GIO57bPPe",
+          "expanded_url": "https://twitter.com/ramonroldanh/status/1349452443122348033",
+          "display_url": "twitter.com/ramonroldanh/s\u2026",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 92415862,
+      "id_str": "92415862",
+      "name": "Rosa Montero",
+      "screen_name": "BrunaHusky",
+      "location": "Madrid",
+      "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj",
+      "url": "https://t.co/BNS4CN8yJd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/BNS4CN8yJd",
+              "expanded_url": "http://www.rosamontero.es",
+              "display_url": "rosamontero.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/Hl9mM9RSIj",
+              "expanded_url": "http://bit.ly/3l13Ck3",
+              "display_url": "bit.ly/3l13Ck3",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 164036,
+      "friends_count": 600,
+      "listed_count": 1463,
+      "created_at": "Wed Nov 25 01:17:12 +0000 2009",
+      "favourites_count": 70939,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 35286,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/92415862/1597906940",
+      "profile_link_color": "598AEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1349452443122348033,
+    "quoted_status_id_str": "1349452443122348033",
+    "quoted_status_permalink": {
+      "url": "https://t.co/1GIO57bPPe",
+      "expanded": "https://twitter.com/ramonroldanh/status/1349452443122348033",
+      "display": "twitter.com/ramonroldanh/s\u2026"
+    },
+    "quoted_status": {
+      "created_at": "Wed Jan 13 20:25:08 +0000 2021",
+      "id": 1349452443122348033,
+      "id_str": "1349452443122348033",
+      "full_text": "Este viernes 15 la asociaci\u00f3n @CaballoVerdeB de #Boadilla organiza una tertulia literaria por Zoom con Rosa Montero (@BrunaHusky) sobre #LaBuenaSuerte. No os la perd\u00e1is. M\u00e1s info \ud83d\udc47 https://t.co/235l9ZyDrO \n@AlfaguaraES https://t.co/pjYXGREJQw",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Boadilla",
+            "indices": [
+              48,
+              57
+            ]
+          },
+          {
+            "text": "LaBuenaSuerte",
+            "indices": [
+              136,
+              150
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CaballoVerdeB",
+            "name": "Caballo Verde",
+            "id": 2422460803,
+            "id_str": "2422460803",
+            "indices": [
+              30,
+              44
+            ]
+          },
+          {
+            "screen_name": "BrunaHusky",
+            "name": "Rosa Montero",
+            "id": 92415862,
+            "id_str": "92415862",
+            "indices": [
+              117,
+              128
+            ]
+          },
+          {
+            "screen_name": "AlfaguaraES",
+            "name": "Alfaguara",
+            "id": 135195371,
+            "id_str": "135195371",
+            "indices": [
+              206,
+              218
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/235l9ZyDrO",
+            "expanded_url": "https://fb.me/e/fKinzkfju",
+            "display_url": "fb.me/e/fKinzkfju",
+            "indices": [
+              181,
+              204
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1349452440232488962,
+            "id_str": "1349452440232488962",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ero32D1XcAI3Ohc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ero32D1XcAI3Ohc.jpg",
+            "url": "https://t.co/pjYXGREJQw",
+            "display_url": "pic.twitter.com/pjYXGREJQw",
+            "expanded_url": "https://twitter.com/ramonroldanh/status/1349452443122348033/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 362,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 362,
+                "h": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 362,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1349452440232488962,
+            "id_str": "1349452440232488962",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ero32D1XcAI3Ohc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ero32D1XcAI3Ohc.jpg",
+            "url": "https://t.co/pjYXGREJQw",
+            "display_url": "pic.twitter.com/pjYXGREJQw",
+            "expanded_url": "https://twitter.com/ramonroldanh/status/1349452443122348033/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 362,
+                "h": 512,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 362,
+                "h": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 362,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2259167113,
+        "id_str": "2259167113",
+        "name": "Ram\u00f3n Rold\u00e1n",
+        "screen_name": "ramonroldanh",
+        "location": "Boadilla del Monte",
+        "description": "Profesor de Literatura y escritor. Autor de dos libros de poes\u00eda, #CancionesParaAylan y #LasAlasDel\u00c1ngel",
+        "url": "https://t.co/TwsWE3kjUG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/TwsWE3kjUG",
+                "expanded_url": "https://caminandoporvelintonia.wordpress.com/",
+                "display_url": "caminandoporvelintonia.wordpress.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1253,
+        "friends_count": 1182,
+        "listed_count": 0,
+        "created_at": "Mon Dec 23 16:56:49 +0000 2013",
+        "favourites_count": 14193,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6852,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623784139439906816/tKRdPNcq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623784139439906816/tKRdPNcq_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1349452443122348033,
+  "quoted_status_id_str": "1349452443122348033",
+  "quoted_status_permalink": {
+    "url": "https://t.co/1GIO57bPPe",
+    "expanded": "https://twitter.com/ramonroldanh/status/1349452443122348033",
+    "display": "twitter.com/ramonroldanh/s\u2026"
+  },
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "und"
+}

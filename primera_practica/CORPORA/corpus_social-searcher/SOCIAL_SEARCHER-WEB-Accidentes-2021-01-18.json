@@ -1,0 +1,211 @@
+{
+    "meta": {
+        "requestid": "361914f9bab34aabb575b30d151dd32d",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "#",
+            "text": "Current traffic for United States ",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://es.wikipedia.org/wiki/Accidente",
+            "text": "Se define como accidente (del lat\u00edn acc\u012ddens, -entis), en otras palabras, un suceso no planeado y no deseado que provoca un da\u00f1o, lesi\u00f3n u otra incidencia\u00a0...\u200eCausas b\u00e1sicas y causas... \u00b7 \u200eCausas b\u00e1sicas \u00b7 \u200eTipos de accidentes",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://es.wikipedia.org/wiki/Accidente",
+            "user": {
+                "name": "es.wikipedia.org",
+                "url": "https:://es.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://es.wikipedia.org/wiki/Accidente",
+                    "text": "Accidente - Wikipedia, la enciclopedia librees.wikipedia.org \u203a wiki \u203a Accidente"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://cnnespanol.cnn.com/category/accidentes/",
+            "text": "\u00daltimas noticias sobre Accidentes en CNN.com \u2705 \u00daltimas noticias, fotos, videos e informaci\u00f3n sobre Accidentes.",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://cnnespanol.cnn.com/category/accidentes/",
+            "user": {
+                "name": "cnnespanol.cnn.com",
+                "url": "https:://cnnespanol.cnn.com"
+            },
+            "urls": [
+                {
+                    "url": "https://cnnespanol.cnn.com/category/accidentes/",
+                    "text": "Accidentes \u25b7 Noticias Accidentes \u25b7 \u00daltimas noticias sobre ...cnnespanol.cnn.com \u203a category \u203a acc..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://medlineplus.gov/spanish/stroke.html",
+            "text": "Un accidente cerebrovascular o derrame cerebral es una emergencia m\u00e9dica. Ent\u00e9rese sobre los s\u00edntomas y tratamiento.",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://medlineplus.gov/spanish/stroke.html",
+            "user": {
+                "name": "medlineplus.gov",
+                "url": "https:://medlineplus.gov"
+            },
+            "urls": [
+                {
+                    "url": "https://medlineplus.gov/spanish/stroke.html",
+                    "text": "Accidente cerebrovascular: MedlinePlus en espa\u00f1olmedlineplus.gov \u203a ... \u203a Temas de salud"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://medlineplus.gov/spanish/ency/article/000726.htm",
+            "text": "Esto se denomina embolia cerebral o accidente cerebrovascular emb\u00f3lico. Los accidentes cerebrovasculares isqu\u00e9micos tambi\u00e9n pueden ser causados por una\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://medlineplus.gov/spanish/ency/article/000726.htm",
+            "user": {
+                "name": "medlineplus.gov",
+                "url": "https:://medlineplus.gov"
+            },
+            "urls": [
+                {
+                    "url": "https://medlineplus.gov/spanish/ency/article/000726.htm",
+                    "text": "Accidente cerebrovascular: MedlinePlus enciclopedia m\u00e9dicamedlineplus.gov \u203a ency \u203a article"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://www.law.cornell.edu/wex/es/accidentes_y_lesiones",
+            "text": "Read in English Los accidentes y las lesiones afectan a individuos y a familias de manera f\u00edsica, econ\u00f3mica y emocional. Cuando conductores, fabricantes\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://www.law.cornell.edu/wex/es/accidentes_y_lesiones",
+            "user": {
+                "name": "www.law.cornell.edu",
+                "url": "https:://www.law.cornell.edu"
+            },
+            "urls": [
+                {
+                    "url": "https://www.law.cornell.edu/wex/es/accidentes_y_lesiones",
+                    "text": "Accidentes y Lesiones | Wex Legal Dictionary / Encyclopedia ...www.law.cornell.edu \u203a wex \u203a accide..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://www.law.cornell.edu/wex/es/accidentes_automovil%C3%ADsticos",
+            "text": "El demandante, o la parte lesionada, debe probar que el demandado fue negligente y tambi\u00e9n la causa directa del accidente y de la lesi\u00f3n. En los casos simples\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://www.law.cornell.edu/wex/es/accidentes_automovil%C3%ADsticos",
+            "user": {
+                "name": "www.law.cornell.edu",
+                "url": "https:://www.law.cornell.edu"
+            },
+            "urls": [
+                {
+                    "url": "https://www.law.cornell.edu/wex/es/accidentes_automovil%C3%ADsticos",
+                    "text": "Accidentes Automovil\u00edsticos | Wex Legal Dictionary ...www.law.cornell.edu \u203a wex \u203a accide..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "http://www.dgt.es/es/explora/en-cifras/accidentes.shtml",
+            "text": "Accidentes. A continuaci\u00f3n encontrar\u00e1 todas las cifras relacionadas con los \"Accidentes\" en las siguientes secciones. Seguridad Vial - Estadistica e indicadores\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "http://www.dgt.es/es/explora/en-cifras/accidentes.shtml",
+            "user": {
+                "name": "www.dgt.es",
+                "url": "http:://www.dgt.es"
+            },
+            "urls": [
+                {
+                    "url": "http://www.dgt.es/es/explora/en-cifras/accidentes.shtml",
+                    "text": "Accidentes - DGTwww.dgt.es \u203a explora \u203a en-cifras \u203a a..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://elpais.com/noticias/accidentes/",
+            "text": "Los Mossos concluyen que un ch\u00f3fer falleci\u00f3 en un accidente por el mal estado de los neum\u00e1ticos del veh\u00edculo, que acumulaba mas de un mill\u00f3n de kil\u00f3metros\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://elpais.com/noticias/accidentes/",
+            "user": {
+                "name": "elpais.com",
+                "url": "https:://elpais.com"
+            },
+            "urls": [
+                {
+                    "url": "https://elpais.com/noticias/accidentes/",
+                    "text": "Accidentes en EL PA\u00cdSelpais.com \u203a noticias \u203a accidentes"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:17 +00000",
+            "postid": "https://www.cdc.gov/dhdsp/spanish/fs_stroke_spanish.htm",
+            "text": "Un accidente cerebrovascular, a veces llamado ataque cerebral, ocurre cuando un co\u00e1gulo bloquea el flujo de sangre al cerebro o cuando se rompe un vaso\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://www.cdc.gov/dhdsp/spanish/fs_stroke_spanish.htm",
+            "user": {
+                "name": "www.cdc.gov",
+                "url": "https:://www.cdc.gov"
+            },
+            "urls": [
+                {
+                    "url": "https://www.cdc.gov/dhdsp/spanish/fs_stroke_spanish.htm",
+                    "text": "Hoja informativa sobre los accidentes cerebrovasculares|Data ...www.cdc.gov \u203a fs_stroke_spanish"
+                }
+            ]
+        }
+    ]
+}

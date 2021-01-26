@@ -1,0 +1,289 @@
+{
+  "created_at": "Thu Jan 14 08:49:26 +0000 2021",
+  "id": 1349639750274211841,
+  "id_str": "1349639750274211841",
+  "full_text": "RT @abalosmeco: Desde ayer por la tarde ya no existe ning\u00fan tipo de restricci\u00f3n por la nieve en toda la Red de Carreteras del Estado, depen\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "abalosmeco",
+        "name": "Jos\u00e9 Luis \u00c1balos",
+        "id": 202372417,
+        "id_str": "202372417",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68740712,
+    "id_str": "68740712",
+    "name": "Pedro S\u00e1nchez",
+    "screen_name": "sanchezcastejon",
+    "location": "",
+    "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+    "url": "https://t.co/f7tJrIKtIo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/f7tJrIKtIo",
+            "expanded_url": "http://www.lamoncloa.gob.es",
+            "display_url": "lamoncloa.gob.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1536955,
+    "friends_count": 6038,
+    "listed_count": 5920,
+    "created_at": "Tue Aug 25 16:45:56 +0000 2009",
+    "favourites_count": 4536,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 28687,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "94D487",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68740712/1610312124",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jan 14 08:46:02 +0000 2021",
+    "id": 1349638897362472962,
+    "id_str": "1349638897362472962",
+    "full_text": "Desde ayer por la tarde ya no existe ning\u00fan tipo de restricci\u00f3n por la nieve en toda la Red de Carreteras del Estado, dependiente de @mitmagob. Enhorabuena a los m\u00e1s de 3.000 trabajadores que con su esfuerzo lo han hecho posible. https://t.co/fMZBpRRBkD",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      229
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mitmagob",
+          "name": "Ministerio Transportes, Movilidad y A. Urbana",
+          "id": 249616596,
+          "id_str": "249616596",
+          "indices": [
+            133,
+            142
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1349638891616292864,
+          "id_str": "1349638891616292864",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/media/Errha9XXUAAUcYb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Errha9XXUAAUcYb.jpg",
+          "url": "https://t.co/fMZBpRRBkD",
+          "display_url": "pic.twitter.com/fMZBpRRBkD",
+          "expanded_url": "https://twitter.com/abalosmeco/status/1349638897362472962/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1349638891616292864,
+          "id_str": "1349638891616292864",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/media/Errha9XXUAAUcYb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Errha9XXUAAUcYb.jpg",
+          "url": "https://t.co/fMZBpRRBkD",
+          "display_url": "pic.twitter.com/fMZBpRRBkD",
+          "expanded_url": "https://twitter.com/abalosmeco/status/1349638897362472962/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 202372417,
+      "id_str": "202372417",
+      "name": "Jos\u00e9 Luis \u00c1balos",
+      "screen_name": "abalosmeco",
+      "location": "",
+      "description": "Ministro de @mitmagob del Gobierno de Espa\u00f1a. Secretario de Organizaci\u00f3n del @PSOE. \ud83c\uddea\ud83c\udde6",
+      "url": "https://t.co/UJQJuoxTW2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UJQJuoxTW2",
+              "expanded_url": "http://www.psoe.es",
+              "display_url": "psoe.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 84096,
+      "friends_count": 1939,
+      "listed_count": 798,
+      "created_at": "Wed Oct 13 22:20:57 +0000 2010",
+      "favourites_count": 9730,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18858,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1236789036783730688/4XtXMrr1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236789036783730688/4XtXMrr1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/202372417/1610314686",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 393,
+    "favorite_count": 982,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "is_quote_status": false,
+  "retweet_count": 393,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

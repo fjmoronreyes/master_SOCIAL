@@ -1,0 +1,329 @@
+{
+  "created_at": "Wed Jan 13 15:09:28 +0000 2021",
+  "id": 1349373001888894978,
+  "id_str": "1349373001888894978",
+  "full_text": "El Centro Nacional de Seguimiento y Coordinaci\u00f3n de Emergencias de @proteccioncivil cumple 30 a\u00f1os de servicio diario imprescindible. Les hemos visitado para agradecerles su enorme labor, especialmente frente a situaciones tan adversas como el temporal que atraviesa nuestro pa\u00eds. https://t.co/5InqLdDKeg",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "proteccioncivil",
+        "name": "DG Protecci\u00f3n Civil y Emergencias. Espa\u00f1a",
+        "id": 1065544873145769984,
+        "id_str": "1065544873145769984",
+        "indices": [
+          67,
+          83
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/5InqLdDKeg",
+        "expanded_url": "https://twitter.com/proteccioncivil/status/1349329221378830347",
+        "display_url": "twitter.com/proteccioncivi\u2026",
+        "indices": [
+          281,
+          304
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68740712,
+    "id_str": "68740712",
+    "name": "Pedro S\u00e1nchez",
+    "screen_name": "sanchezcastejon",
+    "location": "",
+    "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+    "url": "https://t.co/f7tJrIKtIo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/f7tJrIKtIo",
+            "expanded_url": "http://www.lamoncloa.gob.es",
+            "display_url": "lamoncloa.gob.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1536955,
+    "friends_count": 6038,
+    "listed_count": 5920,
+    "created_at": "Tue Aug 25 16:45:56 +0000 2009",
+    "favourites_count": 4536,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 28687,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "94D487",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68740712/1610312124",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1349329221378830347,
+  "quoted_status_id_str": "1349329221378830347",
+  "quoted_status_permalink": {
+    "url": "https://t.co/5InqLdDKeg",
+    "expanded": "https://twitter.com/proteccioncivil/status/1349329221378830347",
+    "display": "twitter.com/proteccioncivi\u2026"
+  },
+  "quoted_status": {
+    "created_at": "Wed Jan 13 12:15:30 +0000 2021",
+    "id": 1349329221378830347,
+    "id_str": "1349329221378830347",
+    "full_text": "Tras la reuni\u00f3n del #CECOD, el presidente @sanchezcastejon ha visitado las instalaciones del Centro Nacional de Seguimiento y Coordinaci\u00f3n de Emergencias #CENEM donde se trabaja 24h, los 365 d\u00edas del a\u00f1o, gestionando y coordinando la informaci\u00f3n en materia de #Protecci\u00f3nCivil https://t.co/c33FV0io1K",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CECOD",
+          "indices": [
+            20,
+            26
+          ]
+        },
+        {
+          "text": "CENEM",
+          "indices": [
+            154,
+            160
+          ]
+        },
+        {
+          "text": "Protecci\u00f3nCivil",
+          "indices": [
+            260,
+            276
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sanchezcastejon",
+          "name": "Pedro S\u00e1nchez",
+          "id": 68740712,
+          "id_str": "68740712",
+          "indices": [
+            42,
+            58
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1349329218317012992,
+          "id_str": "1349329218317012992",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErnHxmbXUAA2hQz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErnHxmbXUAA2hQz.jpg",
+          "url": "https://t.co/c33FV0io1K",
+          "display_url": "pic.twitter.com/c33FV0io1K",
+          "expanded_url": "https://twitter.com/proteccioncivil/status/1349329221378830347/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1349329218317012992,
+          "id_str": "1349329218317012992",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErnHxmbXUAA2hQz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErnHxmbXUAA2hQz.jpg",
+          "url": "https://t.co/c33FV0io1K",
+          "display_url": "pic.twitter.com/c33FV0io1K",
+          "expanded_url": "https://twitter.com/proteccioncivil/status/1349329221378830347/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1065544873145769984,
+      "id_str": "1065544873145769984",
+      "name": "DG Protecci\u00f3n Civil y Emergencias. Espa\u00f1a",
+      "screen_name": "proteccioncivil",
+      "location": "Espa\u00f1a",
+      "description": "Cuenta Oficial de la Direcci\u00f3n General de Protecci\u00f3n Civil y Emergencias. Ministerio del Interior \n#proteccioncivil #emergencias #DGPCE #ENPC  \ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddfa",
+      "url": "https://t.co/P3FOSjzNXR",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P3FOSjzNXR",
+              "expanded_url": "http://www.proteccioncivil.es",
+              "display_url": "proteccioncivil.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 33196,
+      "friends_count": 0,
+      "listed_count": 242,
+      "created_at": "Thu Nov 22 09:57:49 +0000 2018",
+      "favourites_count": 2394,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 2448,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269879147880472577/FRKk50Lk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269879147880472577/FRKk50Lk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1065544873145769984/1610359892",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 89,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "retweet_count": 194,
+  "favorite_count": 494,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

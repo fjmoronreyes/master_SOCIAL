@@ -1,0 +1,230 @@
+{
+    "meta": {
+        "requestid": "0de16a1122ec424cb95e525e567b4be3",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askHow do u spell Nieve?What does it mean when someone is nieve?How do you spell the word duchess?Is nieve a name?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.dictionary.com/browse/nieve",
+            "text": "Nieve definition, a clenched or closed hand; fist. See more.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.dictionary.com/browse/nieve",
+            "user": {
+                "name": "www.dictionary.com",
+                "url": "https:://www.dictionary.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.dictionary.com/browse/nieve",
+                    "text": "Nieve | Definition of Nieve at Dictionary.comwww.dictionary.com \u203a browse \u203a nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.merriam-webster.com/dictionary/nieve",
+            "text": "Nieve definition is - a person's hand.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.merriam-webster.com/dictionary/nieve",
+            "user": {
+                "name": "www.merriam-webster.com",
+                "url": "https:://www.merriam-webster.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.merriam-webster.com/dictionary/nieve",
+                    "text": "Nieve | Definition of Nieve by Merriam-Websterwww.merriam-webster.com \u203a dictionary \u203a nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.yourdictionary.com/nieve",
+            "text": "Nieve is defined as a fist or a hand in Scotland. Nieve is also a common misspelling for na\u00efve. An example of a nieve is a closed hand. noun.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.yourdictionary.com/nieve",
+            "user": {
+                "name": "www.yourdictionary.com",
+                "url": "https:://www.yourdictionary.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.yourdictionary.com/nieve",
+                    "text": "Nieve Meaning | Best 3 Definitions of Nieve - YourDictionarywww.yourdictionary.com \u203a nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://brians.wsu.edu/2016/05/19/nieve/",
+            "text": "May 19, 2016 \u2014 In French there is also a masculine form: \u201cnaif\u201d; and both words can be nouns meaning \u201cnaive person\u201d as well as adjectives. \u201cNieve\u201d is actually\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://brians.wsu.edu/2016/05/19/nieve/",
+            "user": {
+                "name": "brians.wsu.edu",
+                "url": "https:://brians.wsu.edu"
+            },
+            "urls": [
+                {
+                    "url": "https://brians.wsu.edu/2016/05/19/nieve/",
+                    "text": "nieve | Common Errors in English Usage and More ...brians.wsu.edu \u203a 2016/05/19 \u203a nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.urbandictionary.com/define.php?term=Nieve",
+            "text": "A Nieve is the best kind of person to have as a friend, she can: help you with your maths homework with her intelligence, fight anyone being mean to you, always\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.urbandictionary.com/define.php?term=Nieve",
+            "user": {
+                "name": "www.urbandictionary.com",
+                "url": "https:://www.urbandictionary.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.urbandictionary.com/define.php?term=Nieve",
+                    "text": "Nieve - Urban Dictionarywww.urbandictionary.com \u203a define \u203a term=Nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.spanishdict.com/translate/nieve",
+            "text": "Translate Nieve. See 5 authoritative translations of Nieve in English with example sentences, phrases and audio pronunciations.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://www.spanishdict.com/translate/nieve",
+            "user": {
+                "name": "www.spanishdict.com",
+                "url": "https:://www.spanishdict.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.spanishdict.com/translate/nieve",
+                    "text": "Nieve | Spanish to English Translation - SpanishDictwww.spanishdict.com \u203a Translate"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.collinsdictionary.com/us/dictionary/english/nieve",
+            "text": "Nieve definition: the closed hand ; fist | Meaning, pronunciation, translations and examples.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.collinsdictionary.com/us/dictionary/english/nieve",
+            "user": {
+                "name": "www.collinsdictionary.com",
+                "url": "https:://www.collinsdictionary.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.collinsdictionary.com/us/dictionary/english/nieve",
+                    "text": "Nieve definition and meaning | Collins English Dictionarywww.collinsdictionary.com \u203a dictionary \u203a english \u203a nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://en.wiktionary.org/wiki/nieve",
+            "text": "From Latin nix, nivem. NounEdit. nieve f (plural nieves). snow. Related termsEdit.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wiktionary.org/wiki/nieve",
+            "user": {
+                "name": "en.wiktionary.org",
+                "url": "https:://en.wiktionary.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wiktionary.org/wiki/nieve",
+                    "text": "nieve - Wiktionaryen.wiktionary.org \u203a wiki \u203a nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.definitions.net/definition/nieve",
+            "text": "a hazy or indistinct representation \u00b7 A. inspire \u00b7 B. blur \u00b7 C. adventure \u00b7 D. jeopardize\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.definitions.net/definition/nieve",
+            "user": {
+                "name": "www.definitions.net",
+                "url": "https:://www.definitions.net"
+            },
+            "urls": [
+                {
+                    "url": "https://www.definitions.net/definition/nieve",
+                    "text": "What does nieve mean? - Definitions.netwww.definitions.net \u203a definition \u203a nieve"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:46:51 +00000",
+            "postid": "https://www.wordnik.com/words/nieve",
+            "text": "That's Rich: If you are going to disparage a person and call them \"nieve\" [i.e., stupid], YOU at at least ought to have the intelligence to spell it correctly. \u00b7 Be realistic\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.wordnik.com/words/nieve",
+            "user": {
+                "name": "www.wordnik.com",
+                "url": "https:://www.wordnik.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.wordnik.com/words/nieve",
+                    "text": "nieve - definition and meaning - Wordnikwww.wordnik.com \u203a words \u203a nieve"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+  "created_at": "Fri Jan 15 00:23:40 +0000 2021",
+  "id": 1349874857480081409,
+  "id_str": "1349874857480081409",
+  "full_text": "I love the occasional fifty-cent word, but \"fabulist\" here chaps my ass.\n\n*I* am a fabulist. I create fables. More precisely (since this derives from the Latin fabula) I create stories.\n\nIt's important to call liars, con-artists, perjurers, and fascists by their true names. https://t.co/zbDFHA4V0N",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    274
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/zbDFHA4V0N",
+        "expanded_url": "https://twitter.com/kylegriffin1/status/1348842136288993280",
+        "display_url": "twitter.com/kylegriffin1/s\u2026",
+        "indices": [
+          275,
+          298
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 490039192,
+    "id_str": "490039192",
+    "name": "Pat Rothfuss",
+    "screen_name": "PatrickRothfuss",
+    "location": "Wisconsin",
+    "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc",
+    "url": "https://t.co/rJ9Jhrc88E",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/rJ9Jhrc88E",
+            "expanded_url": "http://blog.patrickrothfuss.com/",
+            "display_url": "blog.patrickrothfuss.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/qJvmkq9oSc",
+            "expanded_url": "https://www.twitch.tv/patrickrothfuss",
+            "display_url": "twitch.tv/patrickrothfuss",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 273696,
+    "friends_count": 244,
+    "listed_count": 2187,
+    "created_at": "Sun Feb 12 04:57:24 +0000 2012",
+    "favourites_count": 11217,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16041,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/490039192/1390571149",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1348842136288993280,
+  "quoted_status_id_str": "1348842136288993280",
+  "quoted_status_permalink": {
+    "url": "https://t.co/zbDFHA4V0N",
+    "expanded": "https://twitter.com/kylegriffin1/status/1348842136288993280",
+    "display": "twitter.com/kylegriffin1/s\u2026"
+  },
+  "quoted_status": {
+    "created_at": "Tue Jan 12 04:00:00 +0000 2021",
+    "id": 1348842136288993280,
+    "id_str": "1348842136288993280",
+    "full_text": "\"Let it be known to the business world: Hire any of Trump's fellow fabulists above, and Forbes will assume that everything your company or firm talks about is a lie. We're going to scrutinize ... with the same skepticism we'd approach a Trump tweet.\" https://t.co/caR3Zn2tdF",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/caR3Zn2tdF",
+          "expanded_url": "https://bit.ly/3bv9QpW",
+          "display_url": "bit.ly/3bv9QpW",
+          "indices": [
+            251,
+            274
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 32871086,
+      "id_str": "32871086",
+      "name": "Kyle Griffin",
+      "screen_name": "kylegriffin1",
+      "location": "Manhattan, NY",
+      "description": "Senior Producer. MSNBC's @TheLastWord. Opinions mine. Suburban women, will you please like me?",
+      "url": "https://t.co/lgyZmnczMB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/lgyZmnczMB",
+              "expanded_url": "https://www.instagram.com/griffinkyle/",
+              "display_url": "instagram.com/griffinkyle/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1073345,
+      "friends_count": 840,
+      "listed_count": 8431,
+      "created_at": "Sat Apr 18 12:45:48 +0000 2009",
+      "favourites_count": 37684,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 69826,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/961462238732275712/omWV1cZs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/32871086/1455243585",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3211,
+    "favorite_count": 10707,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 77,
+  "favorite_count": 745,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

@@ -1,0 +1,4526 @@
+{
+    "posts": [
+        {
+            "text": "\ud83d\udcc5 \u00a1Buenos d\u00edas! Esta es la agenda de Gobierno para hoy. #FelizLunes https://t.co/mvquopV6Wf https://t.co/FSQtZdJU59",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1351073342707691520",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1351073342707691520",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23FelizLunes",
+                    "text": "FelizLunes"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/Er_6CuDXUAMjjC6.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 3
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-18 07:46:01",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopV6Wf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u25b6\ufe0f @IdiazAyuso visita municipios de la regi\u00f3n que han sido afectados por la #BorrascaFilomena.  \ud83d\udd08 \u201cDentro de muy poco la Comunidad de Madrid recuperar\u00e1 la normalidad\u201d. https://t.co/C5ADYICQjV",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350932987878191105",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350932987878191105",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "image": "https://pbs.twimg.com/amplify_video_thumb/1350926986231881731/img/cZHFBcOlW1yVB0mS.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 23
+                },
+                {
+                    "name": "likes",
+                    "count": 86
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-17 22:28:18",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 Estas son las previsiones del Gobierno regional para ma\u00f1ana. \u00a1Buenas noches! https://t.co/mvquopV6Wf https://t.co/BfTjgzzj1U",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350899198976208899",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350899198976208899",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/Er9bpd_XcAIpxZ4.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 3
+                },
+                {
+                    "name": "likes",
+                    "count": 11
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-17 20:14:02",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopV6Wf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udfe2 #AgentesForestalesCM en colaboraci\u00f3n con @medioambientecm est\u00e1n realizando trabajos de valoraci\u00f3n de da\u00f1os en masas forestales e infraestructuras ante el riesgo para personas y bienes.  \u26f0 En 214 montes gestionados por la @ComunidadMadrid   #BorrascaFilomena  #ASEM112 https://t.co/5TEHoOKWKr",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350878586127974403",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350878586127974403",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23AgentesForestalesCM",
+                    "text": "AgentesForestalesCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/medioambientecm",
+                    "text": "medioambientecm"
+                },
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-17 18:52:07",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udd34 ACTUALIZAMOS INFO \ud83d\udd34  Durante estos d\u00edas hemos apoyado a ayuntamientos en la limpieza de accesos a centros escolares y a paradas de transporte p\u00fablico.  Recordad que la movilidad en coche sigue estando complicada y que todav\u00eda es + dif\u00edcil poder aparcar.  #Madrid112  #ASEM112 https://t.co/rIMvyJBwL6",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350862304557080580",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350862304557080580",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Madrid112",
+                    "text": "Madrid112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-17 17:47:25",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83e\udda0 Activamos dispositivos de test de ant\u00edgenos en dos nuevas ZBS y siete campus universitarios.  \ud83d\udcc5 Las pruebas en los campus ser\u00e1n durante las tres pr\u00f3ximas semanas bajo cita previa en https://t.co/ZEXJFUhSDU Si tienes entre 18 y 29 a\u00f1os, ap\u00fantate \ud83d\udcaa  https://t.co/YvXz5QXawC",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350842070307581953",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350842070307581953",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 127
+                },
+                {
+                    "name": "likes",
+                    "count": 299
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-17 16:27:01",
+            "urls": [
+                {
+                    "url": "https://bit.ly/2NedquE",
+                    "text": "bit.ly/2NedquE",
+                    "short_url": "https://t.co/ZEXJFUhSDU"
+                },
+                {
+                    "url": "https://bit.ly/39EHKGr",
+                    "text": "bit.ly/39EHKGr",
+                    "short_url": "https://t.co/YvXz5QXawC"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 @IdiazAyuso resalta la labor de los ayuntamientos para volver a la normalidad tras la nevada.  \ud83d\udc49 Contin\u00faa con su agenda de visitas a municipios afectados por la borrasca: Colmenar del Arroyo, Rozas de Puerto Real y Cenicientos.  https://t.co/unyVtQreys",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350821629409026050",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350821629409026050",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 20
+                },
+                {
+                    "name": "likes",
+                    "count": 90
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-17 15:05:48",
+            "urls": [
+                {
+                    "url": "https://bit.ly/35OwTse",
+                    "text": "bit.ly/35OwTse",
+                    "short_url": "https://t.co/unyVtQreys"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 @IdiazAyuso anuncia 16 millones de euros en ayudas para que agricultores y ganaderos puedan hacer frente a las p\u00e9rdidas ocasionadas por el temporal.  \ud83d\udc49 La presidenta ha visitado Colmenar de Arroyo para conocer los efectos de la #BorrascaFilomena  https://t.co/RsZOvt2O5s",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350787609266696196",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350787609266696196",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 29
+                },
+                {
+                    "name": "likes",
+                    "count": 118
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-17 12:50:37",
+            "urls": [
+                {
+                    "url": "https://bit.ly/2KoaL0r",
+                    "text": "bit.ly/2KoaL0r",
+                    "short_url": "https://t.co/RsZOvt2O5s"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udea8 Ma\u00f1ana se retoman las clases en la @UAHes y en los campus de #Getafe y #Legan\u00e9s de la @uc3m.   Los #BomberosCM trabajan para habilitar los accesos y garantizar la seguridad.  Su Unidad de #Drones est\u00e1 siendo fundamental para se\u00f1alar los puntos con problemas.   #ASEM112 https://t.co/vcLkNCLCk1",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350776379898519552",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350776379898519552",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Getafe",
+                    "text": "Getafe"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Legan\u00e9s",
+                    "text": "Legan\u00e9s"
+                },
+                {
+                    "url": "http://twitter.com/search/%23BomberosCM",
+                    "text": "BomberosCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Drones",
+                    "text": "Drones"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/UAHes",
+                    "text": "UAHes"
+                },
+                {
+                    "url": "https://twitter.com/uc3m",
+                    "text": "uc3m"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-17 12:05:59",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udea8 Desde 8 de enero, con la llegada de la #BorrascaFilomena, en #Madrid112 hemos recibido casi 165.000 llamadas.  Hoy una de las prioridades es garantizar y asegurar los accesos a la @UAHes y a los campus de #Getafe y #Legan\u00e9s de la @uc3m. Ma\u00f1ana retoman su actividad.  #ASEM112 https://t.co/fyk8aMBzks",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350735935965712389",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350735935965712389",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Madrid112",
+                    "text": "Madrid112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Getafe",
+                    "text": "Getafe"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Legan\u00e9s",
+                    "text": "Legan\u00e9s"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/UAHes",
+                    "text": "UAHes"
+                },
+                {
+                    "url": "https://twitter.com/uc3m",
+                    "text": "uc3m"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-17 09:25:17",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcda Instalamos filtros antivirus en la Red de Bibliotecas P\u00fablicas y otros centros culturales  \ud83d\udc49La prioridad es proteger la salud de los usuarios de los servicios culturales y garantizar que #LaCulturaEsSegura https://t.co/c5wqAO6qli",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350732151474577409",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350732151474577409",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23LaCulturaEsSegura",
+                    "text": "LaCulturaEsSegura"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 20
+                },
+                {
+                    "name": "likes",
+                    "count": 65
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-17 09:10:14",
+            "urls": [
+                {
+                    "url": "https://bit.ly/2XOlioQ",
+                    "text": "bit.ly/2XOlioQ",
+                    "short_url": "https://t.co/c5wqAO6qli"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \u26a0\ufe0f ATENCI\u00d3N \u26a0\ufe0f  Los aparcamientos de #Navacerrada, #Cotos y #Valdesqu\u00ed est\u00e1n completos. La @guardiacivil ha cortado ya el acceso por las carreteras #M601 y #M604.  \ud83d\udcf8 #AgentesForestalesCM y @DGTes   #ASEM112 https://t.co/DcUSPFPsHy",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350726405064192001",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350726405064192001",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Navacerrada",
+                    "text": "Navacerrada"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Cotos",
+                    "text": "Cotos"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Valdesqu\u00ed",
+                    "text": "Valdesqu\u00ed"
+                },
+                {
+                    "url": "http://twitter.com/search/%23M601",
+                    "text": "M601"
+                },
+                {
+                    "url": "http://twitter.com/search/%23M604",
+                    "text": "M604"
+                },
+                {
+                    "url": "http://twitter.com/search/%23AgentesForestalesCM",
+                    "text": "AgentesForestalesCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/guardiacivil",
+                    "text": "guardiacivil"
+                },
+                {
+                    "url": "https://twitter.com/DGTes",
+                    "text": "DGTes"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-17 08:47:24",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 \u00a1Buenos d\u00edas! Esta es la agenda de Gobierno para hoy. #FelizDomingo https://t.co/mvquopDvxF https://t.co/ntR57jAKBf",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350723030104698881",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350723030104698881",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23FelizDomingo",
+                    "text": "FelizDomingo"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/Er3sZztXEAEXG4w.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 11
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-17 08:34:00",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopDvxF"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 Estas son las previsiones del Gobierno regional para ma\u00f1ana. \u00a1Buenas noches! https://t.co/mvquopDvxF https://t.co/pkcEaqoyoO",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350564233809854464",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350564233809854464",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/Er4mj0OXAAMQ3y-.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 12
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-16 22:03:00",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopDvxF"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83c\udfac Mostramos nuestro respaldo al cine y a la cultura en los XXVI Premios Jos\u00e9 Mar\u00eda Forqu\u00e9.  \ud83d\udc49 @ignacioaguado y @CiudadanaMartaR han asistido al acto de entrega de los galardones. https://t.co/DFhkfWR2mR",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350561710852222976",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350561710852222976",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 8
+                },
+                {
+                    "name": "likes",
+                    "count": 43
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                },
+                {
+                    "url": "https://twitter.com/CiudadanaMartaR",
+                    "text": "CiudadanaMartaR"
+                }
+            ],
+            "posted": "2021-01-16 21:52:58",
+            "urls": [
+                {
+                    "url": "https://bit.ly/35OXjtT",
+                    "text": "bit.ly/35OXjtT",
+                    "short_url": "https://t.co/DFhkfWR2mR"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \u26a0\ufe0f ATENCI\u00d3N \u26a0\ufe0f  Desde @AEMET_Madrid nos indican que el mi\u00e9rcoles llega una borrasca con lluvia y viento.  Pedimos a ayuntamientos y organismos:  - Eliminaci\u00f3n de elementos con riesgo de ca\u00edda. - Limpieza de imbornales y alcantarillado.   #PlanInclemenciasCM  #Madrid112   #ASEM112 https://t.co/oz1dl2Pkkj",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350555545707675649",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350555545707675649",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Madrid112",
+                    "text": "Madrid112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/AEMET_Madrid",
+                    "text": "AEMET_Madrid"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-16 21:28:28",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83e\udda0 Informe diario de la situaci\u00f3n COVID-19:   \ud83d\udd34 5847 nuevos casos positivos notificados. \ud83d\udd34 491 pacientes ingresados en UCI. \ud83d\udd34 45 fallecidos en hospitales. \ud83d\udd34 326 nuevas altas  \u203c\ufe0f Debemos seguir las recomendaciones de las autoridades sanitarias para hacer frente al virus",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350530973755174912",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350530973755174912",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 65
+                },
+                {
+                    "name": "likes",
+                    "count": 153
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-16 19:50:50",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\u2744\ufe0f @IdiazAyuso visita la zona del sureste para evaluar los da\u00f1os tras la nevada  \ud83d\udc49 Ha estado en Villamanrique de Tajo, Valdelaguna y Perales de Taju\u00f1a para conocer su situaci\u00f3n tras el paso de la borrasca Filomena https://t.co/3RJIdhXyvC",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350509828049932290",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350509828049932290",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 20
+                },
+                {
+                    "name": "likes",
+                    "count": 71
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-16 18:26:48",
+            "urls": [
+                {
+                    "url": "https://bit.ly/3irKcUI",
+                    "text": "bit.ly/3irKcUI",
+                    "short_url": "https://t.co/3RJIdhXyvC"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u2744\ufe0f Hemos reforzado la colaboraci\u00f3n con los ayuntamientos para retirar la nieve sus infraestructuras y facilitar el acceso en transporte p\u00fablico  \ud83d\udc49Se ha priorizado despejar la nieve de nuestra red de carreteras y los accesos a hospitales y centros de salud https://t.co/cZTQf4vv1b",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350501196579135490",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350501196579135490",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 12
+                },
+                {
+                    "name": "likes",
+                    "count": 44
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-16 17:52:31",
+            "urls": [
+                {
+                    "url": "https://bit.ly/39Bmilu",
+                    "text": "bit.ly/39Bmilu",
+                    "short_url": "https://t.co/cZTQf4vv1b"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 El consejero de @AdmonLocalCM, @davidperez, ha enviado a los alcaldes de la regi\u00f3n una carta para que remitan al Gobierno regional un informe con los da\u00f1os registrados en cada municipio por la #BorrascaFilomena.   \ud83d\udcc6 Antes del pr\u00f3ximo 21 de enero. https://t.co/67QH5qqGHQ",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350492405548646400",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350492405548646400",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/Er3pLGEXYAEuIyj.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 28
+                },
+                {
+                    "name": "likes",
+                    "count": 71
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/AdmonLocalCM",
+                    "text": "AdmonLocalCM"
+                },
+                {
+                    "url": "https://twitter.com/davidperez",
+                    "text": "davidperez"
+                }
+            ],
+            "posted": "2021-01-16 17:17:35",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udea8 Este s\u00e1bado 177 miembros de las #BrigadasForestalesCM se encuentran trabajando en 32 municipios de la @ComunidadMadrid:  \ud83d\udc49\ud83c\udffd Liberando accesos cubiertos por la nieve. \ud83d\udc49\ud83c\udffd Retirando \u00e1rboles y ramas.  Desde el lunes han realizado 202 actuaciones en 79 localidades.  #ASEM112 https://t.co/eQJN1hP4us",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350485004493725698",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350485004493725698",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BrigadasForestalesCM",
+                    "text": "BrigadasForestalesCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-16 16:48:10",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\u2764\ufe0f Gracias a la solidaridad de los madrile\u00f1os hemos doblado el objetivo de donaci\u00f3n de sangre, con m\u00e1s de 6.500 bolsas en tres d\u00edas.  \ud83d\udc49 Necesitamos 900 donaciones cada d\u00eda para cubrir necesidades y mantener las reservas recuperadas. https://t.co/OKzdgGqHqz",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350470040324362240",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350470040324362240",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 68
+                },
+                {
+                    "name": "likes",
+                    "count": 273
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-16 15:48:42",
+            "urls": [
+                {
+                    "url": "https://bit.ly/2LTXYmI",
+                    "text": "bit.ly/2LTXYmI",
+                    "short_url": "https://t.co/OKzdgGqHqz"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 La presidenta @IdiazAyuso ha visitado Villamanrique de Tajo, Valdelaguna y Perales de Taju\u00f1a.   \u2744\ufe0f Una agenda iniciada el jueves para visitar localidades madrile\u00f1as especialmente afectadas por la #BorrascaFilomena. https://t.co/eYuyLjUZMZ",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350454624512258049",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350454624512258049",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/Er3HTRJXYAYXtLI.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 28
+                },
+                {
+                    "name": "likes",
+                    "count": 138
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-16 14:47:27",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\ude81 El helic\u00f3ptero de coordinaci\u00f3n de Bomberos ha realizado un vuelo valorativo para comprobar el estado de la regi\u00f3n una semana despu\u00e9s de la #BorrascaFilomena.  \ud83d\udc49 Se ha centrado en el acceso a hospitales, infraestructuras sanitarias, centros de log\u00edstica y carreteras. https://t.co/QBjionhGTJ",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350431726582046720",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350431726582046720",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "image": "https://pbs.twimg.com/amplify_video_thumb/1350430546778796033/img/FveZgkPzJq_UFPhR.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 65
+                },
+                {
+                    "name": "likes",
+                    "count": 164
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-16 13:16:28",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Los profesionales de Atenci\u00f3n Primaria siempre dan la talla, y lo han demostrado en la #BorrascaFilomena.   \u00a1Gracias! \ud83d\udc4f\ud83d\udc4f   https://t.co/LTFyNNbREY",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350412724992413696",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350412724992413696",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1350410749575909376/pu/img/tnOQsgOCd9WyyqGr.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 36
+                },
+                {
+                    "name": "likes",
+                    "count": 190
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-16 12:00:57",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @LibrosCMadrid: El lunes 18 volver\u00e1n a prestar servicio las bibliotecas de @LibrosCMadrid.  Por problemas t\u00e9cnicos derivados del temporal permanecer\u00e1n cerradas BP Moratalaz BP Mar\u00eda Moliner BP Antonio Mingote BP Luis Mart\u00edn Santos BP Pedro Salinas Bibliobuses",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350379586320814080",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350379586320814080",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/LibrosCMadrid",
+                    "text": "LibrosCMadrid"
+                },
+                {
+                    "url": "https://twitter.com/LibrosCMadrid",
+                    "text": "LibrosCMadrid"
+                }
+            ],
+            "posted": "2021-01-16 09:49:16",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \u26a0\ufe0f INFORMACI\u00d3N IMPORTANTE \u26a0\ufe0f  Los aparcamientos de #Navacerrada y #Cotos est\u00e1n completos y los accesos cerrados.   Seguimos trabajando para resolver los problemas derivados de la nevada y de las bajas temperaturas.   #Madrid112 #ASEM112 https://t.co/dMB5IOUOtc",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350371912103452673",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350371912103452673",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Navacerrada",
+                    "text": "Navacerrada"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Cotos",
+                    "text": "Cotos"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Madrid112",
+                    "text": "Madrid112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-16 09:18:47",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @metro_madrid: \u203c\u26a0 AVISO: en la noche de hoy, s\u00e1bado 16, Metro recupera su horario habitual y finaliza el servicio a la 1:30 de la madrugada. #DispositivoMetro",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350369918370377728",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350369918370377728",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23DispositivoMetro",
+                    "text": "DispositivoMetro"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/metro_madrid",
+                    "text": "metro_madrid"
+                }
+            ],
+            "posted": "2021-01-16 09:10:51",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udd34 \ud83d\udd34 Atenci\u00f3n \ud83d\udd34 \ud83d\udd34  Confirmamos el corte de la #M601 km. 12 para subir a los puertos de #Navacerrada y #Cotos de las 08,45.   Los aparcamientos est\u00e1n ya llenos desde hace unos minutos y la @guardiacivil ha procedido al corte de la v\u00eda. Imagen @InformacionDGT   #ASEM112 https://t.co/lv5GNvSq3R",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350350387136618496",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350350387136618496",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23M601",
+                    "text": "M601"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Navacerrada",
+                    "text": "Navacerrada"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Cotos",
+                    "text": "Cotos"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/guardiacivil",
+                    "text": "guardiacivil"
+                },
+                {
+                    "url": "https://twitter.com/InformacionDGT",
+                    "text": "InformacionDGT"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-16 07:53:15",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 \u00a1Buenos d\u00edas! Esta es la agenda de Gobierno para hoy. #FelizS\u00e1bado https://t.co/mvquopV6Wf https://t.co/YHnIEx3Kez",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350349323536642049",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350349323536642049",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23FelizS\u00e1bado",
+                    "text": "FelizS\u00e1bado"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/Er1njQ9WMAAfZai.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 0
+                },
+                {
+                    "name": "likes",
+                    "count": 8
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-16 07:49:01",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopV6Wf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @IdiazAyuso: Madrid ha respondido al llamamiento de @Madridonasangre y en solo 3 d\u00edas hemos conseguido 1.700 donaciones en la Real Casa de Correos.   En total, m\u00e1s de 6.000, el doble del objetivo marcado.  Muchas gracias a los donantes y a los profesionales que lo han hecho posible.",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350184239401226244",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350184239401226244",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Madridonasangre",
+                    "text": "Madridonasangre"
+                },
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-15 20:53:02",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udd34 Precauci\u00f3n \ud83d\udd34  \u27a1\ufe0f Este fin de semana habr\u00e1 placas de hielo en las carreteras lo que dificulta mucho la conducci\u00f3n.   \u25b6\ufe0f Recomendamos extremo cuidado si se decide coger el veh\u00edculo privado.  \u25b6\ufe0f En la sierra, se producir\u00e1n cortes cuando los aparcamientos se completen.   #ASEM112 https://t.co/H9snEFKxon",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350170619283959808",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350170619283959808",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-15 19:58:55",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Restablecemos esta noche el servicio en todas las l\u00edneas de autobuses interurbanos nocturnos, tras la #BorrascaFilomena.   \ud83d\ude87 Durante la noche de hoy se va a mantener la apertura de @metro_madrid.  https://t.co/nSAXaBTZ6o",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350147982532997120",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350147982532997120",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 41
+                },
+                {
+                    "name": "likes",
+                    "count": 89
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/metro_madrid",
+                    "text": "metro_madrid"
+                }
+            ],
+            "posted": "2021-01-15 18:28:58",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/15/restablecemos-noche-servicio-todas-lineas-autobuses-interurbanos-nocturnos",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/nSAXaBTZ6o"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 El Hospital Enfermera Isabel Zendal abre su pabell\u00f3n 1 de hospitalizaci\u00f3n.   \ud83d\udc49 Con 384 camas de capacidad para pacientes COVID-19.   \ud83d\udc49 Hoy se ponen en funcionamiento 72.  https://t.co/9Q3NurRFVP",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350142402649067521",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350142402649067521",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 49
+                },
+                {
+                    "name": "likes",
+                    "count": 137
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 18:06:47",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/15/zendal-abre-su-pabellon-1-384-camas-capacidad-pacientes-covid-19",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/9Q3NurRFVP"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u203c\ufe0fAclaraci\u00f3n\u203c\ufe0f   \ud83d\udc49 Las universidades de la regi\u00f3n retoman su actividad en las aulas este pr\u00f3ximo lunes, 18 de enero, tras la #BorrascaFilomena.   \ud83d\udc49 Salvo en aquellos casos puntuales donde ya se ha comunicado un retraso de fechas, como la Universidad Complutense y la Aut\u00f3noma.",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350101596693286912",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350101596693286912",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 65
+                },
+                {
+                    "name": "likes",
+                    "count": 94
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 15:24:38",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Trabajamos para recuperar la normalidad cuanto antes en las instalaciones deportivas afectadas por la #BorrascaFilomena.   \ud83c\udfc9 @ignacioaguado ha visitado el campo de rugby \u2018Las Terrazas\u2019 en Alcobendas.   https://t.co/nAbE7lZM42",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350090309217234944",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350090309217234944",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 6
+                },
+                {
+                    "name": "likes",
+                    "count": 39
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                }
+            ],
+            "posted": "2021-01-15 14:39:47",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/notas-prensa/2021/01/15/aguado-visita-instalaciones-deportivas-afectadas-temporal-trabajamos-recuperar-normalidad-cuanto-antes-0",
+                    "text": "comunidad.madrid/notas-prensa/2\u2026",
+                    "short_url": "https://t.co/nAbE7lZM42"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u203cAplazamos hasta el mi\u00e9rcoles la vuelta al colegio\u203c  \ud83d\udc49 As\u00ed lo han solicitado los ayuntamientos por los numerosos problemas de accesibilidad a los centros educativos.  \ud83d\udccb De los 2.557 centros p\u00fablicos y concertados, 1.474 presentan problemas.  https://t.co/YZRXV9vEcm",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350077618314481673",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350077618314481673",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 438
+                },
+                {
+                    "name": "likes",
+                    "count": 486
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 13:49:22",
+            "urls": [
+                {
+                    "url": "http://comunidad.madrid/noticias/2021/01/15/aplazamos-miercoles-vuelta-colegio-peticion-ayuntamientos",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/YZRXV9vEcm"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Nuevas medidas frente al COVID-19:  \ud83d\udc49 Restricci\u00f3n de movilidad nocturna desde las 23h hasta las 06h.  \ud83d\udc49 Se adelanta el cierre de la hosteler\u00eda a las 22h.  \ud83d\udc49 Recomendamos el uso permanente de la mascarilla y las reuniones en domicilios s\u00f3lo de convivientes. https://t.co/1cOdWPuhUx",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350061157646819331",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350061157646819331",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/Erxgu5VXEAMgBk9.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 565
+                },
+                {
+                    "name": "likes",
+                    "count": 564
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:43:57",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estas son las ZBS de la ciudad de Madrid con restricciones frente al COVID-19:  \ud83d\udccc Mirasierra y Las Tablas (Fuencarral-El Pardo) \ud83d\udccc Jazm\u00edn (Ciudad Lineal) \ud83d\udccc Montesa, General Or\u00e1a y Baviera (Salamanca) \ud83d\udccc Alpes y Rejas (San Blas-Canillejas) https://t.co/d7OSMzmj3n",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060185138712577",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060185138712577",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/Erxfsd1XAAES-X7.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 37
+                },
+                {
+                    "name": "likes",
+                    "count": 28
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:40:05",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estas son las ZBS de la ciudad de Madrid con restricciones frente al COVID-19:  \ud83d\udccc Andr\u00e9s Mellado (Chamber\u00ed) \ud83d\udccc Aravaca (Moncloa-Aravaca) \ud83d\udccc General Moscard\u00f3 (Tetu\u00e1n) \ud83d\udccc Sanchinarro, Virgen del Cortijo, Benita de \u00c1vila y Silvano (Hortaleza) \ud83d\udccc Distrito Barajas al completo https://t.co/agrjfKgN10",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060174027972609",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060174027972609",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErxfMr1XcAAhja_.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 35
+                },
+                {
+                    "name": "likes",
+                    "count": 28
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:40:03",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estas son las ZBS de la regi\u00f3n con restricciones frente al COVID-19:  \ud83d\udccc San Fernando y Los Alperchines (San Fernando de Henares) \ud83d\udccc Getafe Norte (Getafe) \ud83d\udccc Rivas La Paz (Rivas-Vaciamadrid)    \ud83d\udc49 Las nuevas zonas entran en vigor desde las 00:00h del 18 de enero. https://t.co/H6QBYuzS7L",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060165995892737",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060165995892737",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErxelaJXAAEOcIG.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 17
+                },
+                {
+                    "name": "likes",
+                    "count": 8
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:40:01",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estas son las Zonas B\u00e1sicas de Salud de la regi\u00f3n con restricciones frente al COVID-19:  \ud83d\udccc Felipe II, Alcalde Bartolom\u00e9, Presentaci\u00f3n Sabio, Dos de Mayo, El Soto y Parque Co\u00edmbra (M\u00f3stoles)    \ud83d\udc49 Las nuevas zonas entran en vigor desde las 00:00h del 18 de enero. https://t.co/BvEy5gvUcb",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350060158005764097",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060158005764097",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErxeJDIXUAEIK82.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 18
+                },
+                {
+                    "name": "likes",
+                    "count": 12
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:39:59",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estas son las Zonas B\u00e1sicas de Salud de la regi\u00f3n con restricciones frente al COVID-19:  \ud83d\udccc Las Matas (Las Rozas) \ud83d\udccc Sierra de Guadarrama (Collado Villalba) \ud83d\udccc Las Olivas y Aranjuez (Aranjuez)    \ud83d\udc49 Las nuevas zonas entran en vigor desde las 00:00h del 18 de enero. https://t.co/oPnglMDVNc",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060149730377728",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060149730377728",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/Erxd0CMXEAEUud7.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 27
+                },
+                {
+                    "name": "likes",
+                    "count": 23
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:39:57",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estos son los municipios con restricciones frente al COVID-19:  \ud83d\udccc Talamanca del Jarama. \ud83d\udccc Titulcia. \ud83d\udccc Torrelodones. \ud83d\udccc Valdeolmos-Alalpardo. \ud83d\udccc Velilla de San Antonio.  \ud83d\udccc Villarejo de Salvan\u00e9s.   \ud83d\udc49 Las nuevas zonas entran en vigor desde las 00:00h del 18 de enero. https://t.co/NmZQb5hCLM",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060143338270720",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060143338270720",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErxgJSdXIAEAFm9.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 18
+                },
+                {
+                    "name": "likes",
+                    "count": 9
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:39:55",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estos son los municipios de la regi\u00f3n con restricciones frente al COVID-19:  \ud83d\udccc La Cabrera. \ud83d\udccc Mejorada del Campo. \ud83d\udccc Navalcarnero. \ud83d\udccc Pedrezuela. \ud83d\udccc San Agust\u00edn de Guadalix. \ud83d\udccc San Sebasti\u00e1n de los Reyes.  \ud83d\udc49 Las nuevas zonas entran en vigor desde las 00:00h del 18 de enero. https://t.co/mW9xCHamnT",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060135373221888",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060135373221888",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErxgMYCW4AASwOu.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 29
+                },
+                {
+                    "name": "likes",
+                    "count": 19
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:39:53",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estos son los municipios de la regi\u00f3n con restricciones frente al COVID-19:  \ud83d\udccc El Molar. \ud83d\udccc Fuenlabrada. \ud83d\udccc Fuente el Saz. \ud83d\udccc Hoyo de Manzanares.    \ud83d\udc49 Las nuevas zonas entran en vigor desde las 00:00h del 18 de enero. https://t.co/3G6rbhkrMs",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060126372306944",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060126372306944",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErxcnoYW4AIuYJg.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 27
+                },
+                {
+                    "name": "likes",
+                    "count": 17
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:39:51",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Estos son los municipios de la regi\u00f3n con restricciones frente al COVID-19:  \ud83d\udccc Alcobendas. \ud83d\udccc Algete. \ud83d\udccc Arroyomolinos.  \ud83d\udccc Cadalso de los Vidrios. \ud83d\udccc Campo Real. \ud83d\udccc Ciempozuelos.  \ud83d\udccc Collado Mediano.   \ud83d\udc49 Las nuevas zonas entran en vigor desde las 00:00h del 18 de enero. https://t.co/K2P3iXgGG9",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1350060117602000896",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350060117602000896",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErxcAzjXAAEwdWj.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 171
+                },
+                {
+                    "name": "likes",
+                    "count": 147
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 12:39:49",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @IdiazAyuso: Pedimos ayuda para despejar calles y aceras y la respuesta fue impresionante.   Pedimos que nos ayudarais a limpiar accesos a colegios y salisteis sin dudarlo.   Pedimos 3.000 donaciones de sangre y ya hab\u00e9is superado el objetivo.\u00a0  Gracias, madrile\u00f1os, por hacer Comunidad. https://t.co/iazsuAQXSw",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1350051940319842306",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350051940319842306",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-15 12:07:19",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 EN DIRECTO. A partir de las 12:00 horas el viceconsejero de Sanidad P\u00fablica y Plan COVID-19, @ZapateroAntonio, y la directora general de Salud P\u00fablica, Elena Andradas, actualizan la situaci\u00f3n epidemiol\u00f3gica y asistencial en la Comunidad de Madrid. https://t.co/7BEstBZ8Pl",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350033543821467653",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1350033543821467653",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 49
+                },
+                {
+                    "name": "likes",
+                    "count": 65
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ZapateroAntonio",
+                    "text": "ZapateroAntonio"
+                }
+            ],
+            "posted": "2021-01-15 10:54:13",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1vOxwEpnjBgGB",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/7BEstBZ8Pl"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udea8 D A T O S \ud83d\udea8  Informaci\u00f3n actualizada de Carlos Novillo, Director ASEM112, del trabajo realizado por los Cuerpos de Seguridad y Emergencias de la Comunidad de Madrid.  \ud83d\udc49\ud83c\udffb Continuamos recuperando la normalidad.  \u26a0\ufe0f Cuidado con ls tr\u00e1nsitos a pie por posibles desprendimientos. https://t.co/6NIq2eLoNz",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349995810138828805",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349995810138828805",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-15 08:24:17",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 \u00a1Buenos d\u00edas! Esta es la agenda de Gobierno para hoy. #FelizViernes https://t.co/mvquopV6Wf https://t.co/1JqKS159iq",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349992262940426240",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349992262940426240",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23FelizViernes",
+                    "text": "FelizViernes"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/ErwizoNXYAAce9X.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 10
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 08:10:11",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopV6Wf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 Estas son las previsiones del Gobierno regional para ma\u00f1ana. \u00a1Buenas noches! https://t.co/mvquopV6Wf https://t.co/FRtX4xy3YJ",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349839414223056901",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349839414223056901",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/EruXyj7XIAAXhXs.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 18
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 22:02:49",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopV6Wf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Tenemos operativo y sin restricciones la totalidad de nuestra red principal de carreteras, tras la #BorrascaFilomena.   \ud83d\udc49 Tan s\u00f3lo permanece cortado al tr\u00e1fico un tramo de un kil\u00f3metro en la red secundaria.   https://t.co/zKKjwyubl2",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349830171784859648",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349830171784859648",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 16
+                },
+                {
+                    "name": "likes",
+                    "count": 71
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 21:26:06",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/ya-tenemos-operativo-restricciones-totalidad-red-principal-carreteras",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/zKKjwyubl2"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 El abastecimiento en la regi\u00f3n recupera la normalidad tras la #BorrascaFilomena.   \ud83c\udf53 Se ha restablecido casi en su totalidad la distribuci\u00f3n de productos y funcionan de manera regular Mercamadrid, los mercados municipales y las plataformas log\u00edsticas.  https://t.co/iN8lRfqH0L",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349823696307892224",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349823696307892224",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 18
+                },
+                {
+                    "name": "likes",
+                    "count": 62
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 21:00:22",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/abastecimiento-comunidad-madrid-recupera-normalidad-borrasca",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/iN8lRfqH0L"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Agradecemos el esfuerzo colectivo de los madrile\u00f1os frente a la #BorrascaFilomena.   Un comportamiento c\u00edvico, prudente y solidario.   \u00a1Gracias! \ud83d\udc4f\ud83d\udc4f   https://t.co/syClGOlhZ0",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349817518924439554",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349817518924439554",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 11
+                },
+                {
+                    "name": "likes",
+                    "count": 71
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 20:35:49",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/destacamos-esfuerzo-colectivo-sociedad-madrilena-frente-borrasca-filomena",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/syClGOlhZ0"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Seguimos trabajando para habilitar los accesos a los centros educativos de la regi\u00f3n, tras la #BorrascaFilomena.   \ud83d\udccb Hasta el momento, se han desplazado a los centros 270 aparejadores que han emitido 450 informes de la situaci\u00f3n de los centros.  https://t.co/DYqgCv3Xjv",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349811727907622913",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349811727907622913",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 6
+                },
+                {
+                    "name": "likes",
+                    "count": 28
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 20:12:48",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/agradecemos-trabajo-realizado-habilitar-accesos-centros-educativos",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/DYqgCv3Xjv"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Ante el a\u00f1o 2021, la Comunidad de Madrid ser\u00e1 el motor de la recuperaci\u00f3n econ\u00f3mica y social que impulsar\u00e1 la vuelta a la prosperidad en Espa\u00f1a. \ud83d\udcaa  \ud83d\udc49 La presidenta @IdiazAyuso durante la clausura de la XI edici\u00f3n del #SpainInvestorsDay.   https://t.co/dHVkzvShLr",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349794783112400899",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349794783112400899",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23SpainInvestorsDay",
+                    "text": "SpainInvestorsDay"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 28
+                },
+                {
+                    "name": "likes",
+                    "count": 118
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-14 19:05:28",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/diaz-ayuso-quiero-presentar-madrid-motor-recuperacion-economica-social",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/dHVkzvShLr"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Las instalaciones y centros deportivos continuar\u00e1n cerrados hasta la pr\u00f3xima semana, tras la #BorrascaFilomena.   \ud83d\udc49 Siempre que las condiciones de seguridad y adecuaci\u00f3n de estos espacios lo permitan.   https://t.co/IklMslhdrJ",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349789685019783171",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349789685019783171",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 15
+                },
+                {
+                    "name": "likes",
+                    "count": 21
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 18:45:13",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/instalaciones-centros-deportivos-continuaran-cerrados-proxima-semana",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/IklMslhdrJ"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Reorganizamos los recursos de centros de salud y SUMMA 112 para garantizar la atenci\u00f3n sanitaria, tras la #BorrascaFilomena.   \ud83d\udcf2 Los profesionales del SUMMA112 han atendido m\u00e1s de 31.000 llamadas desde el s\u00e1bado.   https://t.co/kP0EtC4yLY",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349781399717490689",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349781399717490689",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 8
+                },
+                {
+                    "name": "likes",
+                    "count": 34
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 18:12:18",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/reorganizamos-recursos-centros-salud-summa-112-garantizar-atencion-sanitaria",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/kP0EtC4yLY"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 EN DIRECTO. A partir de las 18.30 horas rueda de prensa desde la sede de la Agencia de Seguridad y Emergencias Madrid 112, para informar sobre la situaci\u00f3n en la regi\u00f3n por la borrasca Filomena. https://t.co/ATA5UHUuQx",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349769735626481664",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349769735626481664",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 4
+                },
+                {
+                    "name": "likes",
+                    "count": 19
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 17:25:57",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1OdKrVwOBnvKX",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/ATA5UHUuQx"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Ponemos en marcha un operativo de apoyo a municipios del entorno de los Parques Regionales, tras la #BorrascaFilomena.   \ud83d\udc49 Formado por 30 efectivos repartidos en 8 cuadrillas de trabajo.  https://t.co/fluljAn2Lb",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349765898568146947",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349765898568146947",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 3
+                },
+                {
+                    "name": "likes",
+                    "count": 24
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 17:10:42",
+            "urls": [
+                {
+                    "url": "https://comunidad.madrid/noticias/2021/01/14/ponemos-marcha-operativo-apoyo-municipios-entorno-parques-regionales",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/fluljAn2Lb"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Multiplicamos casi por tres el n\u00famero de usuarios de EducaMadrid durante la cancelaci\u00f3n de las clases presenciales por la #BorrascaFilomena.   \u2705 En el d\u00eda de ayer cerca de 200.000 alumnos y 20.000 docentes de la regi\u00f3n se conectaron.  https://t.co/jGrNoT98wI",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349758932798107655",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349758932798107655",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 12
+                },
+                {
+                    "name": "likes",
+                    "count": 51
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 16:43:01",
+            "urls": [
+                {
+                    "url": "https://comunidad.madrid/noticias/2021/01/14/multiplicamos-casi-tres-alumnos-docentes-online-educamadrid-220000-simultaneos",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/jGrNoT98wI"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @Madridonasangre: JORNADA HIST\u00d3RICA 2700 donaciones de #sangre ayer mi\u00e9rcoles+1500 martes.  Reservas recuperadas. Mil gracias a los madrile\u00f1os que est\u00e1n acudiendo a donar x vuestra solidaridad\u2764 Ahora hay que mantenerlas. Cada d\u00eda se necesitan 900 donaciones. Leer mensaje\ud83d\udc49 https://t.co/BZ6OGYny5h",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349745551466770436",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349745551466770436",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23sangre",
+                    "text": "sangre"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Madridonasangre",
+                    "text": "Madridonasangre"
+                }
+            ],
+            "posted": "2021-01-14 15:49:51",
+            "urls": [
+                {
+                    "url": "http://bit.ly/3oEeFRD",
+                    "text": "bit.ly/3oEeFRD",
+                    "short_url": "https://t.co/BZ6OGYny5h"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Las universidades de la Comunidad de Madrid han decidido mantener la presencialidad en los ex\u00e1menes.   \ud83d\udc49 Se mantiene la programaci\u00f3n establecida a principio del curso acad\u00e9mico.   \ud83d\udc49 Con todas las medidas necesarias para garantizar la salud.  https://t.co/K4zAwoAyqi",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349738723823538176",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349738723823538176",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 49
+                },
+                {
+                    "name": "likes",
+                    "count": 75
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 15:22:43",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/14/universidades-madrilenas-mantienen-presencialidad-examenes",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/K4zAwoAyqi"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u2744 Los operarios del Plan de Vialidad Invernal han sido vitales para la recuperaci\u00f3n de la circulaci\u00f3n en los m\u00e1s de 2.500 kil\u00f3metros de carreteras competencia de la Comunidad de Madrid, tras la #BorrascaFilomena.   \u00a1Gracias! \ud83d\udc4f\ud83d\udc4f  https://t.co/2x3sazU8Jg",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349711624555388928",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349711624555388928",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 7
+                },
+                {
+                    "name": "likes",
+                    "count": 62
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 13:35:02",
+            "urls": [
+                {
+                    "url": "https://comunidad.madrid/noticias/2021/01/14/agradecemos-trabajadores-plan-vialidad-invernal-su-labor-temporal",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/2x3sazU8Jg"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 @metro_madrid permanecer\u00e1 abierto por sexta noche consecutiva.   \u2705 Seguimos garantizando los desplazamientos imprescindibles en la regi\u00f3n.",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349697370586558470",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349697370586558470",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 42
+                },
+                {
+                    "name": "likes",
+                    "count": 195
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/metro_madrid",
+                    "text": "metro_madrid"
+                }
+            ],
+            "posted": "2021-01-14 12:38:23",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @SaludMadrid: El Centro de Transfusi\u00f3n (@Madridonasangre) ha recuperado el nivel \u00f3ptimo de reservas de sangre en un solo d\u00eda  La respuesta de los madrile\u00f1os ha sido hist\u00f3rica, muchas gracias a todos!!\u2764\ufe0f\ud83d\udc99  El dispositivo continuar\u00e1 hoy y ma\u00f1ana pero el llamamiento ya no es urgente\ud83d\ude42  #Madrid",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349695252785987586",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349695252785987586",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Madrid",
+                    "text": "Madrid"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Madridonasangre",
+                    "text": "Madridonasangre"
+                },
+                {
+                    "url": "https://twitter.com/SaludMadrid",
+                    "text": "SaludMadrid"
+                }
+            ],
+            "posted": "2021-01-14 12:29:59",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 La presidenta @IdiazAyuso solicitar\u00e1 al Estado declarar la regi\u00f3n como zona de emergencia de protecci\u00f3n civil, tras la #BorrascaFilomena.   \u2705 Invertiremos, a trav\u00e9s del PIR, 30 millones de euros para ayudar a los municipios a reparar los da\u00f1os.  https://t.co/qs05GLzCeb",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349694431138619393",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349694431138619393",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 39
+                },
+                {
+                    "name": "likes",
+                    "count": 101
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-14 12:26:43",
+            "urls": [
+                {
+                    "url": "https://comunidad.madrid/noticias/2021/01/14/diaz-ayuso-solicitara-estado-declarar-comunidad-zona-emergencia-proteccion-civil",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/qs05GLzCeb"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u203c Reforzamos la educaci\u00f3n p\u00fablica con la mayor oferta de empleo de la historia \u203c  \ud83d\udcda Se incrementar\u00e1 el n\u00famero de profesores de carrera el pr\u00f3ximo curso 2021/22 con 3.700 nuevas plazas.   \u2705 As\u00ed lo ha anunciado la presidenta regional, @IdiazAyuso.    https://t.co/Tt62PPvoiT",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349676669712400385",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349676669712400385",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 57
+                },
+                {
+                    "name": "likes",
+                    "count": 157
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-14 11:16:08",
+            "urls": [
+                {
+                    "url": "https://comunidad.madrid/noticias/2021/01/14/diaz-ayuso-refuerza-educacion-publica-mayor-oferta-empleo-historia",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/Tt62PPvoiT"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @IdiazAyuso: \ud83d\udd34 Ofertamos la mayor convocatoria de empleo de la historia para la educaci\u00f3n p\u00fablica: 3.700 plazas, incluidos inspectores educativos.  Es la gran oportunidad para todos aquellos profesores que ahora refuerzan excepcionalmente nuestra Educaci\u00f3n con motivo de la pandemia. https://t.co/ql39BtzEIQ",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349667571264614401",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349667571264614401",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-14 10:39:59",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @SaludMadrid: La Dra. Olga Arroyo, jefa del Servicio de Rehabilitaci\u00f3n del Hospital Gregorio Mara\u00f1\u00f3n, nos da varios consejos para evitar ca\u00eddas tras una nevada o con suelo helado  #MadridNevado #hielo #Urgencias @ComunidadMadrid https://t.co/KXwfqtzI5E",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349663201949061121",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349663201949061121",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23MadridNevado",
+                    "text": "MadridNevado"
+                },
+                {
+                    "url": "http://twitter.com/search/%23hielo",
+                    "text": "hielo"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Urgencias",
+                    "text": "Urgencias"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                },
+                {
+                    "url": "https://twitter.com/SaludMadrid",
+                    "text": "SaludMadrid"
+                }
+            ],
+            "posted": "2021-01-14 10:22:37",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @LibrosCMadrid: \ud83d\udcdaRecordamos que las #BibliotecasP\u00fablicas permanecer\u00e1n cerradas hasta el d\u00eda 17 de enero incluido.  \ud83d\udcc5Todos los plazos tanto de devoluci\u00f3n como de recogida han sido ampliados.  \ud83d\udcf2Sigue disfrutando de nuestros servicios en l\u00ednea.  #Cu\u00eddate #Filomena #Madrid",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349641935468851202",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349641935468851202",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BibliotecasP\u00fablicas",
+                    "text": "BibliotecasP\u00fablicas"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Cu\u00eddate",
+                    "text": "Cu\u00eddate"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Filomena",
+                    "text": "Filomena"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Madrid",
+                    "text": "Madrid"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/LibrosCMadrid",
+                    "text": "LibrosCMadrid"
+                }
+            ],
+            "posted": "2021-01-14 08:58:07",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: Los servicios de emergencia contin\u00faan colaborando con los ayuntamientos y retirando elementos inestables que puedan ser peligrosos.   Seguimos pidiendo precauci\u00f3n con el hielo y con la posible ca\u00edda de ramas o de nieve desde los edificios.   #ASEM112 https://t.co/zvSJf4ElXr",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349633462542753792",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349633462542753792",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-14 08:24:27",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: Seguimos recomendando no utilizar el veh\u00edculo privado porque las carreteras, aunque muchas est\u00e9n limpias de nieve, siguen siendo peligrosas.  Consulta el estado de la red regional \u2b07\ufe0f  https://t.co/MxyDxoT5QW",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349625886736343041",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349625886736343041",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-14 07:54:20",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/servicios/transporte/vialidad-invernal-estado-carreteras",
+                    "text": "comunidad.madrid/servicios/tran\u2026",
+                    "short_url": "https://t.co/MxyDxoT5QW"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 \u00a1Buenos d\u00edas! Esta es la agenda de Gobierno para hoy. #FelizJueves https://t.co/mvquopV6Wf https://t.co/GyNlj7iQAp",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349624840236527616",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349624840236527616",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23FelizJueves",
+                    "text": "FelizJueves"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/ErrUo0FXMAExx8G.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 6
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 07:50:11",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopV6Wf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcc5 Estas son las previsiones del Gobierno regional para ma\u00f1ana. \u00a1Buenas noches! https://t.co/mvquopV6Wf https://t.co/QNT8Vse6Ur",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349467790852419589",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349467790852419589",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErpFzNSXYAEgVD4.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 4
+                },
+                {
+                    "name": "likes",
+                    "count": 14
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 21:26:07",
+            "urls": [
+                {
+                    "url": "http://bit.ly/agendacmadrid",
+                    "text": "bit.ly/agendacmadrid",
+                    "short_url": "https://t.co/mvquopV6Wf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Quintuplicamos el n\u00famero de t\u00e9cnicos en Canal de Isabel II para atender las incidencias por la #BorrascaFilomena.   \ud83d\udee0 280 efectivos organizados en 140 brigadas.  \ud83d\udc49 La mayor\u00eda vinculadas a la congelaci\u00f3n de los contadores y tuber\u00edas.  https://t.co/utpabhwA2N",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349450801727627265",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349450801727627265",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 11
+                },
+                {
+                    "name": "likes",
+                    "count": 37
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 20:18:37",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/13/quintuplicamos-numero-tecnicos-cyii-atender-incidencias-temporal",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/utpabhwA2N"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Ya conectamos por transporte p\u00fablico al 96% de los madrile\u00f1os con la red de autobuses del Consorcio.   \u2705 Seguimos garantizando la movilidad en la regi\u00f3n tras la #BorrascaFilomena.   https://t.co/9LuFuRnhBM",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349443841716326404",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349443841716326404",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 8
+                },
+                {
+                    "name": "likes",
+                    "count": 29
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 19:50:57",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/13/ya-conectamos-transporte-publico-96-poblacion-red-autobuses-consorcio",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/9LuFuRnhBM"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\ude81 Activamos una operaci\u00f3n por v\u00eda a\u00e9rea para alimentar ganado aislado por la #BorrascaFilomena.   \ud83d\udc04 Diez explotaciones extensivas de ganado vacuno con un total de 400 animales ubicados en Colmenar Viejo.   https://t.co/Z4f33SRsCv",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349436241067040770",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349436241067040770",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 17
+                },
+                {
+                    "name": "likes",
+                    "count": 86
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 19:20:45",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/13/activamos-operacion-via-aerea-alimentar-ganado-aislado-temporal",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/Z4f33SRsCv"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @Madridonasangre: ATENCI\u00d3N Dado el n\u00b0 de personas en cola, pedimos a quienes quieran acercarse hoy a donar #sangre a #Sol Real Casa de Correos, que se acerquen ma\u00f1ana o pasado. De 9 a 21 h.  Prevemos unas 600 donaciones al cierre. Mil gracias!!! Ma\u00f1ana m\u00e1s\u2764 https://t.co/NbsqCVQL82",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349436142186352646",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349436142186352646",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23sangre",
+                    "text": "sangre"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Sol",
+                    "text": "Sol"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Madridonasangre",
+                    "text": "Madridonasangre"
+                }
+            ],
+            "posted": "2021-01-13 19:20:22",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Remitimos a las comunidades de propietarios consejos de seguridad y habitabilidad tras la #BorrascaFilomena.   \u203c\ufe0f Evita desplazamientos innecesarios hasta que los espacios comunitarios y las v\u00edas p\u00fablicas puedan ser transitables con total seguridad.   https://t.co/Mjks4EMC6e",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349427035790319618",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349427035790319618",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 21
+                },
+                {
+                    "name": "likes",
+                    "count": 34
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 18:44:11",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/13/remitimos-comunidades-propietarios-consejos-seguridad-habitabilidad-temporal",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/Mjks4EMC6e"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u2764\ufe0f \u00a1Gracias, Madrid! \u2764\ufe0f  Pero a\u00fan quedan muchas m\u00e1s. Hasta el viernes puedes acercarte a la Real Casa de Correos. \u00a1An\u00edmate! \ud83d\udcaa https://t.co/WubkdPIFb9",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349423179513655297",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349423179513655297",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 47
+                },
+                {
+                    "name": "likes",
+                    "count": 167
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 18:28:51",
+            "urls": [
+                {
+                    "url": "https://twitter.com/saludmadrid/status/1349404299026194435",
+                    "text": "twitter.com/saludmadrid/st\u2026",
+                    "short_url": "https://t.co/WubkdPIFb9"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: 400 animales de 10 explotaciones ganaderas de #ColmenarViejo, aisladas por la nieve desde el viernes, han comenzado a ser alimentadas desde el aire por el helic\u00f3ptero de #GERA de #BomberosCM, con la colaboraci\u00f3n en tierra de #BrigadasForestalesCM. #ASEM112 https://t.co/FrkmXA2MHA",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349420897942315012",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349420897942315012",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ColmenarViejo",
+                    "text": "ColmenarViejo"
+                },
+                {
+                    "url": "http://twitter.com/search/%23GERA",
+                    "text": "GERA"
+                },
+                {
+                    "url": "http://twitter.com/search/%23BomberosCM",
+                    "text": "BomberosCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23BrigadasForestalesCM",
+                    "text": "BrigadasForestalesCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-13 18:19:47",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Mantenemos nuestra actividad de trasplantes de \u00f3rganos pese a la #BorrascaFilomena.   \ud83d\udc49 Ha contribuido a salvar a m\u00e1s de 23 personas.   https://t.co/beLCCqQ2ln",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349419115623178240",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349419115623178240",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 11
+                },
+                {
+                    "name": "likes",
+                    "count": 44
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 18:12:42",
+            "urls": [
+                {
+                    "url": "https://www.comunidad.madrid/noticias/2021/01/13/mantenemos-actividad-trasplantes-organos-pese-temporal",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/beLCCqQ2ln"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \u26a0\ufe0f @AEMET_Esp mantiene la alerta por temperaturas minimas en toda la @ComunidadMadrid   \ud83e\uddca La regi\u00f3n volver\u00e1 a registrar valores de hasta -10\u00b0 C con la consecuencia de nuevas heladas para esta madrugada.   \u2744\ufe0f Seguiremos viendo #Madrid blanca por unos d\u00edas m\u00e1s...  \ud83d\udcf8 @defis_eu https://t.co/xnOTU5G7hI",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349417684035903494",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349417684035903494",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Madrid",
+                    "text": "Madrid"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/AEMET_Esp",
+                    "text": "AEMET_Esp"
+                },
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                },
+                {
+                    "url": "https://twitter.com/defis_eu",
+                    "text": "defis_eu"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-13 18:07:01",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udcf2 Presentamos Factor\u00eda Digital.  \ud83d\udc49 Un espacio de colaboraci\u00f3n p\u00fablico-privada que canalizar\u00e1 el talento para aplicarlo en la digitalizaci\u00f3n de la Administraci\u00f3n.   \u2705 La Comunidad de Madrid, una Administraci\u00f3n 100% digital: el objetivo de @IdiazAyuso.   https://t.co/DhcdQr2pqT",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349406431892668418",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349406431892668418",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 12
+                },
+                {
+                    "name": "likes",
+                    "count": 47
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-13 17:22:18",
+            "urls": [
+                {
+                    "url": "https://comunidad.madrid/noticias/2021/01/13/diaz-ayuso-presenta-factoria-digital-proyecto-futuro",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/DhcdQr2pqT"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 EN DIRECTO. A partir de las 18:00 horas, @EnriqueLopezJIV, @angelgarridog y @palomamartinm comparecen en rueda de prensa para informar sobre la situaci\u00f3n en la regi\u00f3n por la borrasca Filomena. https://t.co/gDf5JNdR20",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349398890504740864",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349398890504740864",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 11
+                },
+                {
+                    "name": "likes",
+                    "count": 25
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/EnriqueLopezJIV",
+                    "text": "EnriqueLopezJIV"
+                },
+                {
+                    "url": "https://twitter.com/angelgarridog",
+                    "text": "angelgarridog"
+                },
+                {
+                    "url": "https://twitter.com/palomamartinm",
+                    "text": "palomamartinm"
+                }
+            ],
+            "posted": "2021-01-13 16:52:20",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1ZkJzevXryXGv",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/gDf5JNdR20"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u2705 Invertimos 2,9 millones de euros a la vigilancia de los elementos de telecontrol del ciclo del agua del Canal de Isabel II.   #ConsejoDeGobierno https://t.co/SD2Tjn5428 https://t.co/O7JsEeFBy4",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349394849619976199",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349394849619976199",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/EroDdgaXcAAsTO_.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 11
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 16:36:17",
+            "urls": [
+                {
+                    "url": "https://bit.ly/3bBgX0k",
+                    "text": "bit.ly/3bBgX0k",
+                    "short_url": "https://t.co/SD2Tjn5428"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Aprobamos las operaciones de endeudamiento para 2021, que ascienden a 3.090 millones de euros.   \u2705 Somos la regi\u00f3n sin r\u00e9gimen especial con menor deuda.   #ConsejoDeGobierno https://t.co/SPz0FURZjc https://t.co/P7ga4I3GAn",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349382688797569025",
+            "type": "photo",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349382688797569025",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/Ern4ZtVXIAUOYIN.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 7
+                },
+                {
+                    "name": "likes",
+                    "count": 19
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 15:47:57",
+            "urls": [
+                {
+                    "url": "https://bit.ly/3snls4k",
+                    "text": "bit.ly/3snls4k",
+                    "short_url": "https://t.co/SPz0FURZjc"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u25b6\ufe0f @ignacioaguado: \u201cHemos aprobado la creaci\u00f3n de un registro de funcionarios p\u00fablicos habilitados en el manejo digital, para asistir al conjunto de la ciudadan\u00eda en su contacto y relaci\u00f3n con la administraci\u00f3n\u201d. #ConsejoDeGobierno https://t.co/6kAHKBIElg https://t.co/q3kz67XRtc",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349354250334253058",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349354250334253058",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349354216041676800/pu/img/a-Y6tHcabP18bGp-.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 4
+                },
+                {
+                    "name": "likes",
+                    "count": 8
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                }
+            ],
+            "posted": "2021-01-13 13:54:57",
+            "urls": [
+                {
+                    "url": "https://bit.ly/2XA45PR",
+                    "text": "bit.ly/2XA45PR",
+                    "short_url": "https://t.co/6kAHKBIElg"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u25b6\ufe0f @ignacioaguado: \u201cDamos luz verde a la creaci\u00f3n de los Premios de Calidad de la Vivienda\u201d. #ConsejoDeGobierno https://t.co/2rv6Nuhpi8 https://t.co/C6GqX3Mok3",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349353092526055426",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349353092526055426",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349353059546259456/pu/img/da3HdDp8IgzTvXTR.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 3
+                },
+                {
+                    "name": "likes",
+                    "count": 8
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                }
+            ],
+            "posted": "2021-01-13 13:50:21",
+            "urls": [
+                {
+                    "url": "https://bit.ly/39qkJa1",
+                    "text": "bit.ly/39qkJa1",
+                    "short_url": "https://t.co/2rv6Nuhpi8"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u25b6\ufe0f @ignacioaguado: \u201cInvertimos 12 millones de euros en materia sanitaria para seguir adelant\u00e1ndonos al COVID-19\u201d. #ConsejoDeGobierno https://t.co/bXORGdkDSs https://t.co/LZsJuiN1fM",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349352537321844736",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349352537321844736",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349352509383598083/pu/img/qKOURvBGMxLC6XKM.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 3
+                },
+                {
+                    "name": "likes",
+                    "count": 9
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                }
+            ],
+            "posted": "2021-01-13 13:48:09",
+            "urls": [
+                {
+                    "url": "https://bit.ly/3nDl3Hl",
+                    "text": "bit.ly/3nDl3Hl",
+                    "short_url": "https://t.co/bXORGdkDSs"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u25b6\ufe0f @ignacioaguado: \u201cDamos luz verde al Decreto Omnibus para agilizar la gesti\u00f3n p\u00fablica, eliminando cargas administrativas y tr\u00e1mites obsoletos\u201d. #ConsejoDeGobierno  https://t.co/5bUUcTncPo https://t.co/N24rzcJxYC",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1349351776449777667",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349351776449777667",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349351743491092482/pu/img/ptRhKsdoZaVzwgDg.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 4
+                },
+                {
+                    "name": "likes",
+                    "count": 7
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                }
+            ],
+            "posted": "2021-01-13 13:45:07",
+            "urls": [
+                {
+                    "url": "https://bit.ly/35x7wLt",
+                    "text": "bit.ly/35x7wLt",
+                    "short_url": "https://t.co/5bUUcTncPo"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u25b6\ufe0f @ignacioaguado: \u201cBlindamos la educaci\u00f3n concertada en la Comunidad de Madrid hasta el a\u00f1o 2027\u201d. #ConsejoDeGobierno https://t.co/e72qgdXPdj https://t.co/d5inQ1Rq1T",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349351109635289089",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349351109635289089",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349351060842946562/pu/img/U6NJkfI8QZseGAi_.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 71
+                },
+                {
+                    "name": "likes",
+                    "count": 285
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                }
+            ],
+            "posted": "2021-01-13 13:42:28",
+            "urls": [
+                {
+                    "url": "https://bit.ly/39z2Ups",
+                    "text": "bit.ly/39z2Ups",
+                    "short_url": "https://t.co/e72qgdXPdj"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @IdiazAyuso: La Real Casa de Correos se convierte en un gran centro de donaci\u00f3n de sangre.  Por favor, acude solo si puedes hacerlo en condiciones de seguridad. https://t.co/9KHP6wMzTB",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349334776826703872",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349334776826703872",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                }
+            ],
+            "posted": "2021-01-13 12:37:34",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\u203c Animamos a los madrile\u00f1os a donar sangre en el dispositivo especial de la Real Casa de Correos \u203c  \ud83d\udcc6 Desde hoy y hasta el pr\u00f3ximo viernes, de forma ininterrumpida, entre las 9:00 y las 21:00 horas.   \ud83e\ude78 Hacen falta 3.000 unidades. \u00a1An\u00edmate!  https://t.co/X3CuDTu6wM",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349317578674626562",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349317578674626562",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 110
+                },
+                {
+                    "name": "likes",
+                    "count": 167
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 11:29:14",
+            "urls": [
+                {
+                    "url": "https://comunidad.madrid/noticias/2021/01/13/diaz-ayuso-anima-donar-sangre-dispositivo-especial-real-casa-correos",
+                    "text": "comunidad.madrid/noticias/2021/\u2026",
+                    "short_url": "https://t.co/X3CuDTu6wM"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 EN DIRECTO. A partir de las 12:30, @ignacioaguado comparece en rueda de prensa tras la reuni\u00f3n del #ConsejoDeGobierno.  https://t.co/GvcHH7qyIW",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349315807923363844",
+            "type": "link",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349315807923363844",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ConsejoDeGobierno",
+                    "text": "ConsejoDeGobierno"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 6
+                },
+                {
+                    "name": "likes",
+                    "count": 20
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                }
+            ],
+            "posted": "2021-01-13 11:22:12",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1vOGwEPyEMLxB",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/GvcHH7qyIW"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 @metro_madrid volver\u00e1 a abrir esta noche, tras la #BorrascaFilomena.   \u2705 Seguimos garantizando la movilidad en la regi\u00f3n.   \u2705 Ya alcanza las 124 horas de apertura ininterrumpida.",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349307981662453761",
+            "type": "status",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349307981662453761",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 24
+                },
+                {
+                    "name": "likes",
+                    "count": 90
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/metro_madrid",
+                    "text": "metro_madrid"
+                }
+            ],
+            "posted": "2021-01-13 10:51:06",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udd34 PRECAUCI\u00d3N por riesgo extremo de desprendimientos de bloques de hielo \ud83e\uddca\ud83d\udd34  \ud83d\ude92 #BomberosCM recomiendan:  1\ufe0f\u20e3 Evitar caminar cerca de cornisas o cubiertas inclinadas  2\ufe0f\u20e3 Acordonar la zona para evitar accidentes  3\ufe0f\u20e3 Avisar al 1-1-2 \u260e\ufe0f ante el riesgo de ca\u00edda  #Madrid112 #ASEM112 https://t.co/SqqQm20nBK",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1349306526872252417",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349306526872252417",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BomberosCM",
+                    "text": "BomberosCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Madrid112",
+                    "text": "Madrid112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-13 10:45:19",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udea8Quedan d\u00edas de mucho trabajo:  \ud83d\udc49\ud83c\udffb Continuamos recuperando esa ansiada normalidad para la @ComunidadMadrid.  \u274c Evitemos coger nuestro veh\u00edculo y prioricemos el transporte p\u00fablico.  \u26a0\ufe0f Precauci\u00f3n en los paseos a pie por posibles desprendimientos de ramas y cornisas.  #ASEM112 https://t.co/jcejIkoIig",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349281315921784832",
+            "type": "video",
+            "user": {
+                "userid": "122353251",
+                "url": "https://twitter.com/ComunidadMadrid",
+                "name": "Comunidad de Madrid",
+                "image": "https://pbs.twimg.com/profile_images/1270094570664198147/RE2z08Wz_normal.png",
+                "location": "Comunidad de Madrid, Espa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 634407
+                },
+                "description": "Perfil oficial de la Comunidad de Madrid."
+            },
+            "url": "https://twitter.com/ComunidadMadrid/status/1349281315921784832",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-13 09:05:08",
+            "urls": [],
+            "place": null
+        }
+    ]
+}

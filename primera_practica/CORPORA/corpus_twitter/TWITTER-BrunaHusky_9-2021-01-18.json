@@ -1,0 +1,275 @@
+{
+  "created_at": "Thu Jan 14 00:20:29 +0000 2021",
+  "id": 1349511669395955713,
+  "id_str": "1349511669395955713",
+  "full_text": "Guapa, genia, te quiero y te admiro, ya lo sabes https://t.co/u0uFoLi957",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    48
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/u0uFoLi957",
+        "expanded_url": "https://twitter.com/claragrima/status/1349448362798546948",
+        "display_url": "twitter.com/claragrima/sta\u2026",
+        "indices": [
+          49,
+          72
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92415862,
+    "id_str": "92415862",
+    "name": "Rosa Montero",
+    "screen_name": "BrunaHusky",
+    "location": "Madrid",
+    "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj",
+    "url": "https://t.co/BNS4CN8yJd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/BNS4CN8yJd",
+            "expanded_url": "http://www.rosamontero.es",
+            "display_url": "rosamontero.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/Hl9mM9RSIj",
+            "expanded_url": "http://bit.ly/3l13Ck3",
+            "display_url": "bit.ly/3l13Ck3",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164036,
+    "friends_count": 600,
+    "listed_count": 1463,
+    "created_at": "Wed Nov 25 01:17:12 +0000 2009",
+    "favourites_count": 70939,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 35286,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/92415862/1597906940",
+    "profile_link_color": "598AEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1349448362798546948,
+  "quoted_status_id_str": "1349448362798546948",
+  "quoted_status_permalink": {
+    "url": "https://t.co/u0uFoLi957",
+    "expanded": "https://twitter.com/claragrima/status/1349448362798546948",
+    "display": "twitter.com/claragrima/sta\u2026"
+  },
+  "quoted_status": {
+    "created_at": "Wed Jan 13 20:08:55 +0000 2021",
+    "id": 1349448362798546948,
+    "id_str": "1349448362798546948",
+    "full_text": "Poneos @hora25 que vamos a hablar de @NoMoreMatildas con @PepaBueno, Teresa Fenoll de @twitamit_es, @BrunaHusky y servidora :) \n\n#NoMoreMatildas",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      144
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NoMoreMatildas",
+          "indices": [
+            129,
+            144
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hora25",
+          "name": "Hora 25",
+          "id": 14814402,
+          "id_str": "14814402",
+          "indices": [
+            7,
+            14
+          ]
+        },
+        {
+          "screen_name": "NoMoreMatildas",
+          "name": "NoMoreMatildas",
+          "id": 1325777314806947845,
+          "id_str": "1325777314806947845",
+          "indices": [
+            37,
+            52
+          ]
+        },
+        {
+          "screen_name": "PepaBueno",
+          "name": "Pepa Bueno",
+          "id": 796684728,
+          "id_str": "796684728",
+          "indices": [
+            57,
+            67
+          ]
+        },
+        {
+          "screen_name": "twitamit_es",
+          "name": "AMIT",
+          "id": 1485077618,
+          "id_str": "1485077618",
+          "indices": [
+            86,
+            98
+          ]
+        },
+        {
+          "screen_name": "BrunaHusky",
+          "name": "Rosa Montero",
+          "id": 92415862,
+          "id_str": "92415862",
+          "indices": [
+            100,
+            111
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 108099486,
+      "id_str": "108099486",
+      "name": "Clara Grima",
+      "screen_name": "ClaraGrima",
+      "location": "Sevilla",
+      "description": "Mujer, matem\u00e1tica, casada, con hijos, feliz :D\n\nAh, y #moloinfinito \ud83d\ude09",
+      "url": "https://t.co/uK2OcqQj40",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/uK2OcqQj40",
+              "expanded_url": "http://claragrima.com",
+              "display_url": "claragrima.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 50395,
+      "friends_count": 5829,
+      "listed_count": 1263,
+      "created_at": "Sun Jan 24 21:12:12 +0000 2010",
+      "favourites_count": 36804,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 195268,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1346920968552374273/Yzh7QykX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346920968552374273/Yzh7QykX_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/108099486/1510656658",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 102,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+  },
+  "retweet_count": 0,
+  "favorite_count": 6,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

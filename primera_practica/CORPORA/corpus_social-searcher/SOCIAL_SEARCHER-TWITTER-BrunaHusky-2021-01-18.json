@@ -1,0 +1,1698 @@
+{
+    "posts": [
+        {
+            "text": "RT @rafa_morata: Da n\u00e1useas comprobar que quienes durante los meses de confinamiento acusaban a Pedro S\u00e1nchez de ser un dictador que secuestraba libertades, reclaman ahora medidas similares y responsabilizan al gobierno central de no endurecer las que rigen en el marco del actual estado de alarma",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350610649605414915",
+            "type": "status",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1350610649605414915",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/rafa_morata",
+                    "text": "rafa_morata"
+                }
+            ],
+            "posted": "2021-01-17 01:07:26",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\"Nombrar para cambiar\", mi art\u00edculo de hoy en @elpaissemanal   https://t.co/KhpbAhr5f3",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350586747978215435",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1350586747978215435",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 31
+                },
+                {
+                    "name": "likes",
+                    "count": 120
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/elpaissemanal",
+                    "text": "elpaissemanal"
+                }
+            ],
+            "posted": "2021-01-16 23:32:28",
+            "urls": [
+                {
+                    "url": "https://elpais.com/elpais/2021/01/11/eps/1610380968_856585.html",
+                    "text": "elpais.com/elpais/2021/01\u2026",
+                    "short_url": "https://t.co/KhpbAhr5f3"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "@mariajoao317 Jajajaja",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350388123344252929",
+            "type": "status",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1350388123344252929",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 6
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/mariajoao317",
+                    "text": "mariajoao317"
+                }
+            ],
+            "posted": "2021-01-16 10:23:12",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f https://t.co/CKCxXcR0TM",
+            "lang": null,
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350229602971615240",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1350229602971615240",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 24
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 23:53:18",
+            "urls": [
+                {
+                    "url": "https://twitter.com/homeopodcast/status/1350214882864586752",
+                    "text": "twitter.com/homeopodcast/s\u2026",
+                    "short_url": "https://t.co/CKCxXcR0TM"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Amigos, hoy viernes 15 a las 19:00 tendr\u00e9 Una tertulia sobre La buena suerte en este canal de YouTube con el club de lectura El Caballo Verde   https://t.co/EaOLBocssf",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350125630260703232",
+            "type": "video",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1350125630260703232",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 4
+                },
+                {
+                    "name": "likes",
+                    "count": 37
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-15 17:00:09",
+            "urls": [
+                {
+                    "url": "https://www.youtube.com/channel/UChqCpRE-dM5pSyBkeI1rOqA",
+                    "text": "youtube.com/channel/UChqCp\u2026",
+                    "short_url": "https://t.co/EaOLBocssf"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Han hecho una obra maravillosa con una interpretaci\u00f3n extraordinaria de S\u00edlvia de Pe. Vi un ensayo y qued\u00e9 entusiasmada. No te la pierdas https://t.co/SIfY5cJtux",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349667921237303296",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349667921237303296",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 0
+                },
+                {
+                    "name": "likes",
+                    "count": 7
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 10:41:22",
+            "urls": [
+                {
+                    "url": "https://twitter.com/lineaamarilla/status/1349657880853696512",
+                    "text": "twitter.com/lineaamarilla/\u2026",
+                    "short_url": "https://t.co/SIfY5cJtux"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @BrunaHusky: \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f https://t.co/1GIO57bPPe",
+            "lang": null,
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349530507957194752",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349530507957194752",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                }
+            ],
+            "posted": "2021-01-14 01:35:20",
+            "urls": [
+                {
+                    "url": "https://twitter.com/ramonroldanh/status/1349452443122348033",
+                    "text": "twitter.com/ramonroldanh/s\u2026",
+                    "short_url": "https://t.co/1GIO57bPPe"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @hora25: \ud83d\udd34 DIRECTO | Hablamos del Efecto Matilda: el prejuicio que hace que no nos enteremos de los logros de las mujeres cient\u00edficas, con @cfenoll_UCLM de @twitamit_es y @NoMoreMatildas, @BrunaHusky y @ClaraGrima en @hora25 con @PepaBueno https://t.co/1G3ZFzK0yP",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349511731622670336",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349511731622670336",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/cfenoll_UCLM",
+                    "text": "cfenoll_UCLM"
+                },
+                {
+                    "url": "https://twitter.com/twitamit_es",
+                    "text": "twitamit_es"
+                },
+                {
+                    "url": "https://twitter.com/NoMoreMatildas",
+                    "text": "NoMoreMatildas"
+                },
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                },
+                {
+                    "url": "https://twitter.com/ClaraGrima",
+                    "text": "ClaraGrima"
+                },
+                {
+                    "url": "https://twitter.com/hora25",
+                    "text": "hora25"
+                },
+                {
+                    "url": "https://twitter.com/PepaBueno",
+                    "text": "PepaBueno"
+                },
+                {
+                    "url": "https://twitter.com/hora25",
+                    "text": "hora25"
+                }
+            ],
+            "posted": "2021-01-14 00:20:44",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1lPKqXzbgpAxb",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/1G3ZFzK0yP"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Guapa, genia, te quiero y te admiro, ya lo sabes https://t.co/u0uFoLi957",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349511669395955713",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349511669395955713",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 0
+                },
+                {
+                    "name": "likes",
+                    "count": 6
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 00:20:29",
+            "urls": [
+                {
+                    "url": "https://twitter.com/claragrima/status/1349448362798546948",
+                    "text": "twitter.com/claragrima/sta\u2026",
+                    "short_url": "https://t.co/u0uFoLi957"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f https://t.co/1GIO57bPPe",
+            "lang": null,
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349511212330065923",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349511212330065923",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 20
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 00:18:40",
+            "urls": [
+                {
+                    "url": "https://twitter.com/ramonroldanh/status/1349452443122348033",
+                    "text": "twitter.com/ramonroldanh/s\u2026",
+                    "short_url": "https://t.co/1GIO57bPPe"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @dikturping: @FelixLopez_Rey @EloyCuellarTWIT @eduardoguti_ @ErnestoEkaizer @Monica_Garcia_G @MistralS @BrunaHusky @FRAVM @jorgegcastano @JorgeMoruno @PacoPerezRamos totalmente cierto, ayer nadie en Nu\u00f1ez de Balboa, calle totalmente colapsada por hielo, ramas, basura, car\u00e1mbanos, etc... la puerta de la finca la limpia el portero... NADIE CON PALAS, O CACEROLAS PARA QUITAR LA NIEVE/HIELO",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349511006783991808",
+            "type": "status",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349511006783991808",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/FelixLopez_Rey",
+                    "text": "FelixLopez_Rey"
+                },
+                {
+                    "url": "https://twitter.com/EloyCuellarTWIT",
+                    "text": "EloyCuellarTWIT"
+                },
+                {
+                    "url": "https://twitter.com/eduardoguti_",
+                    "text": "eduardoguti_"
+                },
+                {
+                    "url": "https://twitter.com/ErnestoEkaizer",
+                    "text": "ErnestoEkaizer"
+                },
+                {
+                    "url": "https://twitter.com/Monica_Garcia_G",
+                    "text": "Monica_Garcia_G"
+                },
+                {
+                    "url": "https://twitter.com/MistralS",
+                    "text": "MistralS"
+                },
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                },
+                {
+                    "url": "https://twitter.com/FRAVM",
+                    "text": "FRAVM"
+                },
+                {
+                    "url": "https://twitter.com/jorgegcastano",
+                    "text": "jorgegcastano"
+                },
+                {
+                    "url": "https://twitter.com/JorgeMoruno",
+                    "text": "JorgeMoruno"
+                },
+                {
+                    "url": "https://twitter.com/PacoPerezRamos",
+                    "text": "PacoPerezRamos"
+                },
+                {
+                    "url": "https://twitter.com/dikturping",
+                    "text": "dikturping"
+                }
+            ],
+            "posted": "2021-01-14 00:17:51",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Tremenda realidad https://t.co/DUTuQUS1ge",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349510842841235458",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349510842841235458",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 7
+                },
+                {
+                    "name": "likes",
+                    "count": 36
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 00:17:12",
+            "urls": [
+                {
+                    "url": "https://twitter.com/hora25/status/1349457931998285826",
+                    "text": "twitter.com/hora25/status/\u2026",
+                    "short_url": "https://t.co/DUTuQUS1ge"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Muy de acuerdo https://t.co/2n0lS9ofLs",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349510715674128389",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349510715674128389",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 7
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 00:16:41",
+            "urls": [
+                {
+                    "url": "https://twitter.com/azotaor/status/1349464973437775872",
+                    "text": "twitter.com/azotaor/status\u2026",
+                    "short_url": "https://t.co/2n0lS9ofLs"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @Helena59014587: @FelixLopez_Rey @EloyCuellarTWIT @eduardoguti_ @ErnestoEkaizer @Monica_Garcia_G @MistralS @BrunaHusky @FRAVM @jorgegcastano @JorgeMoruno @PacoPerezRamos Eso es mentira!! No limpian ning\u00fan barrio.. El Viso est\u00e1 infernal de nieve y el \u00fanico q ha cogido la pala ha sido el due\u00f1o de un restaurante para q la gente pudiera llegar..",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349510522966781952",
+            "type": "status",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349510522966781952",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/FelixLopez_Rey",
+                    "text": "FelixLopez_Rey"
+                },
+                {
+                    "url": "https://twitter.com/EloyCuellarTWIT",
+                    "text": "EloyCuellarTWIT"
+                },
+                {
+                    "url": "https://twitter.com/eduardoguti_",
+                    "text": "eduardoguti_"
+                },
+                {
+                    "url": "https://twitter.com/ErnestoEkaizer",
+                    "text": "ErnestoEkaizer"
+                },
+                {
+                    "url": "https://twitter.com/Monica_Garcia_G",
+                    "text": "Monica_Garcia_G"
+                },
+                {
+                    "url": "https://twitter.com/MistralS",
+                    "text": "MistralS"
+                },
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                },
+                {
+                    "url": "https://twitter.com/FRAVM",
+                    "text": "FRAVM"
+                },
+                {
+                    "url": "https://twitter.com/jorgegcastano",
+                    "text": "jorgegcastano"
+                },
+                {
+                    "url": "https://twitter.com/JorgeMoruno",
+                    "text": "JorgeMoruno"
+                },
+                {
+                    "url": "https://twitter.com/PacoPerezRamos",
+                    "text": "PacoPerezRamos"
+                },
+                {
+                    "url": "https://twitter.com/Helena59014587",
+                    "text": "Helena59014587"
+                }
+            ],
+            "posted": "2021-01-14 00:15:56",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Help for Mario Alberto House fire https://t.co/ygmMYty4ra",
+            "lang": "en",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349149577652416513",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349149577652416513",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 5
+                },
+                {
+                    "name": "likes",
+                    "count": 13
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 00:21:39",
+            "urls": [
+                {
+                    "url": "https://www.gofundme.com/f/28wkfiqcw0?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet",
+                    "text": "gofundme.com/f/28wkfiqcw0?u\u2026",
+                    "short_url": "https://t.co/ygmMYty4ra"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Esta es la mejor manera de ayudarlo https://t.co/FMB542v0jZ",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349149233698500612",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349149233698500612",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 3
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 00:20:17",
+            "urls": [
+                {
+                    "url": "https://twitter.com/Viejo_Cthulhu/status/1348834571643744259",
+                    "text": "twitter.com/Viejo_Cthulhu/\u2026",
+                    "short_url": "https://t.co/FMB542v0jZ"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Se me saltan la l\u00e1grimas  con esa foto https://t.co/uVozonLOOa",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1349148730973429760",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349148730973429760",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 14
+                },
+                {
+                    "name": "likes",
+                    "count": 118
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 00:18:18",
+            "urls": [
+                {
+                    "url": "https://twitter.com/FerCanalesF/status/1348755889755475968",
+                    "text": "twitter.com/FerCanalesF/st\u2026",
+                    "short_url": "https://t.co/uVozonLOOa"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Brava mi guerrera maravillosa https://t.co/czQ8bwxJ22",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349141692335710210",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349141692335710210",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 28
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-12 23:50:19",
+            "urls": [
+                {
+                    "url": "https://twitter.com/lapauliv/status/1349041369411567617",
+                    "text": "twitter.com/lapauliv/statu\u2026",
+                    "short_url": "https://t.co/czQ8bwxJ22"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Horror de horrores, totalmente INADMISIBLE https://t.co/kUxaBuylCa",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349141531077337088",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349141531077337088",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 5
+                },
+                {
+                    "name": "likes",
+                    "count": 18
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-12 23:49:41",
+            "urls": [
+                {
+                    "url": "https://twitter.com/carloscanencia1/status/1349043893615161348",
+                    "text": "twitter.com/carloscanencia\u2026",
+                    "short_url": "https://t.co/kUxaBuylCa"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Mil gracias!!!!! https://t.co/TNHBwW5WLG",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349029783439626242",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1349029783439626242",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 5
+                },
+                {
+                    "name": "likes",
+                    "count": 53
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-12 16:25:38",
+            "urls": [
+                {
+                    "url": "https://twitter.com/destrozalibros/status/1349007855551131656",
+                    "text": "twitter.com/destrozalibros\u2026",
+                    "short_url": "https://t.co/TNHBwW5WLG"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Ayuda https://t.co/OyphUjE38z",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348422529883500553",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348422529883500553",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 11
+                },
+                {
+                    "name": "likes",
+                    "count": 8
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:12:38",
+            "urls": [
+                {
+                    "url": "https://twitter.com/planetazarpa/status/1348214689893908481",
+                    "text": "twitter.com/planetazarpa/s\u2026",
+                    "short_url": "https://t.co/OyphUjE38z"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @melan_colly: @SilviadPe @LailaRipoll @BrunaHusky @recuencadas Vamos Silvia! Mucha suerte en tu estreno que seguro qu\u00e9 ser\u00e1 glorioso!  Ojal\u00e1 pueda verteeeee.........",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348422374241263619",
+            "type": "status",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348422374241263619",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/SilviadPe",
+                    "text": "SilviadPe"
+                },
+                {
+                    "url": "https://twitter.com/LailaRipoll",
+                    "text": "LailaRipoll"
+                },
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                },
+                {
+                    "url": "https://twitter.com/recuencadas",
+                    "text": "recuencadas"
+                },
+                {
+                    "url": "https://twitter.com/melan_colly",
+                    "text": "melan_colly"
+                }
+            ],
+            "posted": "2021-01-11 00:12:01",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @RevistaGodot: @SilviadPe @LailaRipoll @BrunaHusky @recuencadas \u00a1A ti, Silvia! Muchas ganas de descubrir m\u00e1s sobre este caballero \u00a1Muchos \u00e9xitos! \ud83d\udc9c\ud83d\ude18",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348422359456358404",
+            "type": "status",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348422359456358404",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/SilviadPe",
+                    "text": "SilviadPe"
+                },
+                {
+                    "url": "https://twitter.com/LailaRipoll",
+                    "text": "LailaRipoll"
+                },
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                },
+                {
+                    "url": "https://twitter.com/recuencadas",
+                    "text": "recuencadas"
+                },
+                {
+                    "url": "https://twitter.com/RevistaGodot",
+                    "text": "RevistaGodot"
+                }
+            ],
+            "posted": "2021-01-11 00:11:57",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Jajajaja pues si https://t.co/hnwgKzJuAK",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348421815249547268",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348421815249547268",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 0
+                },
+                {
+                    "name": "likes",
+                    "count": 7
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:09:47",
+            "urls": [
+                {
+                    "url": "https://twitter.com/FantasmaLengua/status/1348073367476310017",
+                    "text": "twitter.com/FantasmaLengua\u2026",
+                    "short_url": "https://t.co/hnwgKzJuAK"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Descomunal la obra de Ripoll y la actuaci\u00f3n de S\u00edlvia y la direcci\u00f3n de Recuenco. No dej\u00e9is de verlo https://t.co/i2YxiKAidi",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348421702473146373",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348421702473146373",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 0
+                },
+                {
+                    "name": "likes",
+                    "count": 4
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:09:20",
+            "urls": [
+                {
+                    "url": "https://twitter.com/CDFerrer/status/1347712531746467845",
+                    "text": "twitter.com/CDFerrer/statu\u2026",
+                    "short_url": "https://t.co/i2YxiKAidi"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Muy de acuerdo Diana https://t.co/q6HkNfg2zr",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348421433228222464",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348421433228222464",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 11
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:08:16",
+            "urls": [
+                {
+                    "url": "https://twitter.com/dianalzuleta/status/1348326169054216193",
+                    "text": "twitter.com/dianalzuleta/s\u2026",
+                    "short_url": "https://t.co/q6HkNfg2zr"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @dianalzuleta: \"Deber\u00edan erradicar de una vez las actitudes machistas que a\u00fan perduran en el mundo militar\". @BrunaHusky https://t.co/AdhkmJZYGm",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348421378308001792",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348421378308001792",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                },
+                {
+                    "url": "https://twitter.com/dianalzuleta",
+                    "text": "dianalzuleta"
+                }
+            ],
+            "posted": "2021-01-11 00:08:03",
+            "urls": [
+                {
+                    "url": "https://elpais.com/elpais/2021/01/04/eps/1609775968_400975.html",
+                    "text": "elpais.com/elpais/2021/01\u2026",
+                    "short_url": "https://t.co/AdhkmJZYGm"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Tal cual querida Diana https://t.co/naKqFqrJU4",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348421250461392898",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348421250461392898",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 10
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:07:33",
+            "urls": [
+                {
+                    "url": "https://twitter.com/dianalzuleta/status/1348326870329266179",
+                    "text": "twitter.com/dianalzuleta/s\u2026",
+                    "short_url": "https://t.co/naKqFqrJU4"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @Galicot1J: .@BrunaHusky : Columna: Un ramo de rosas rojas y amarillas | @elpaissemanal https://t.co/YXcsuRhdC8",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348421076804636672",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348421076804636672",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/BrunaHusky",
+                    "text": "BrunaHusky"
+                },
+                {
+                    "url": "https://twitter.com/elpaissemanal",
+                    "text": "elpaissemanal"
+                },
+                {
+                    "url": "https://twitter.com/Galicot1J",
+                    "text": "Galicot1J"
+                }
+            ],
+            "posted": "2021-01-11 00:06:51",
+            "urls": [
+                {
+                    "url": "https://elpais.com/elpais/2021/01/04/eps/1609775968_400975.html",
+                    "text": "elpais.com/elpais/2021/01\u2026",
+                    "short_url": "https://t.co/YXcsuRhdC8"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Mi apoyo https://t.co/QyceZCt8vX",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348420998446649349",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348420998446649349",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 1
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:06:33",
+            "urls": [
+                {
+                    "url": "https://twitter.com/lourdes45045139/status/1348375005420204032",
+                    "text": "twitter.com/lourdes4504513\u2026",
+                    "short_url": "https://t.co/QyceZCt8vX"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Mill\u00f3n de gracias https://t.co/LwQGEYX26b",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348419763924557824",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348419763924557824",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 33
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:01:38",
+            "urls": [
+                {
+                    "url": "https://twitter.com/soltracodiciada/status/1348412608483831812",
+                    "text": "twitter.com/soltracodiciad\u2026",
+                    "short_url": "https://t.co/LwQGEYX26b"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Gracias a vosotros https://t.co/VOXh2i3Wyz",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348419648518311936",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348419648518311936",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 5
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:01:11",
+            "urls": [
+                {
+                    "url": "https://twitter.com/maxferibar/status/1348417603853709312",
+                    "text": "twitter.com/maxferibar/sta\u2026",
+                    "short_url": "https://t.co/VOXh2i3Wyz"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "La buena labor como la vuestra, y la tuya en concreto, merece ser reconocida. Es m\u00e9rito tuyo https://t.co/cyk6wkMQRe",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348419597322563584",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348419597322563584",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 11
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 00:00:59",
+            "urls": [
+                {
+                    "url": "https://twitter.com/MjosePintor/status/1348360137786929156",
+                    "text": "twitter.com/MjosePintor/st\u2026",
+                    "short_url": "https://t.co/cyk6wkMQRe"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f https://t.co/VOXh2i3Wyz",
+            "lang": null,
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348419272645734401",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348419272645734401",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 4
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 23:59:41",
+            "urls": [
+                {
+                    "url": "https://twitter.com/Maxferibar/status/1348417603853709312",
+                    "text": "twitter.com/Maxferibar/sta\u2026",
+                    "short_url": "https://t.co/VOXh2i3Wyz"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Es una maravilla de obra, he visto un ensayo y me qued\u00e9 boquiabierta, S\u00edlvia esta descomunal, el texto de Ripoll es magnifico y la direcci\u00f3n de Jose Recuenco genial. No os la perd\u00e1is!!!! https://t.co/WGvHhZLQmk",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348382043860824077",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348382043860824077",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2
+                },
+                {
+                    "name": "likes",
+                    "count": 19
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 21:31:45",
+            "urls": [
+                {
+                    "url": "https://twitter.com/RevistaGodot/status/1348217819947790338",
+                    "text": "twitter.com/RevistaGodot/s\u2026",
+                    "short_url": "https://t.co/WGvHhZLQmk"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Es una maravilla de obra, he visto un ensayo y me qued\u00e9 boquiabierta, S\u00edlvia esta descomunal, el texto de Ripoll es magnifico y la direcci\u00f3n de Jose Recuenco genial. No os la perd\u00e1is!!!! https://t.co/cj4wzrpGFm",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348381673914773505",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348381673914773505",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 0
+                },
+                {
+                    "name": "likes",
+                    "count": 8
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 21:30:17",
+            "urls": [
+                {
+                    "url": "https://twitter.com/silviadpe/status/1348222022611066882",
+                    "text": "twitter.com/silviadpe/stat\u2026",
+                    "short_url": "https://t.co/cj4wzrpGFm"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Mil gracias cari\u00f1o https://t.co/uXFXPtxD0I",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348381099047661570",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348381099047661570",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 0
+                },
+                {
+                    "name": "likes",
+                    "count": 2
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 21:28:00",
+            "urls": [
+                {
+                    "url": "https://twitter.com/guzmanhennessey/status/1348227556504449024",
+                    "text": "twitter.com/guzmanhennesse\u2026",
+                    "short_url": "https://t.co/uXFXPtxD0I"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Millones de gracias coraz\u00f3n https://t.co/wTURGQjP8P",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348380960862203904",
+            "type": "link",
+            "user": {
+                "userid": "92415862",
+                "url": "https://twitter.com/BrunaHusky",
+                "name": "Rosa Montero",
+                "image": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+                "location": "Madrid",
+                "influence": {
+                    "name": "followers",
+                    "count": 164036
+                },
+                "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj"
+            },
+            "url": "https://twitter.com/BrunaHusky/status/1348380960862203904",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1
+                },
+                {
+                    "name": "likes",
+                    "count": 15
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 21:27:27",
+            "urls": [
+                {
+                    "url": "https://twitter.com/MartamoyaDiaz/status/1348247845728563200",
+                    "text": "twitter.com/MartamoyaDiaz/\u2026",
+                    "short_url": "https://t.co/wTURGQjP8P"
+                }
+            ],
+            "place": null
+        }
+    ]
+}

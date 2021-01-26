@@ -1,0 +1,270 @@
+{
+  "posts": [
+    {
+      "text": "RT @Heifer: Emmy has shot to the top of her class since she started getting a few square meals a day!  Read her story and learn how goats are helping her incredible great-grandmother provide for their entire family. \u2192 https://t.co/NlvUN6geo9 https://t.co/Uy3nnoD9cj",
+      "lang": "en",
+      "sentiment": "positive",
+      "network": "twitter",
+      "postid": "1349254826685845504",
+      "type": "photo",
+      "user": {
+        "userid": "490039192",
+        "url": "https://twitter.com/PatrickRothfuss",
+        "name": "Pat Rothfuss",
+        "image": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+        "location": "Wisconsin",
+        "influence": {
+          "name": "followers",
+          "count": 273642
+        },
+        "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc"
+      },
+      "url": "https://twitter.com/PatrickRothfuss/status/1349254826685845504",
+      "tags": [],
+      "popularity": null,
+      "user_mentions": [
+        {
+          "url": "https://twitter.com/Heifer",
+          "text": "Heifer"
+        }
+      ],
+      "posted": "2021-01-13 07:19:53",
+      "urls": [
+        {
+          "url": "http://ms.spr.ly/6017pY993",
+          "text": "ms.spr.ly/6017pY993",
+          "short_url": "https://t.co/NlvUN6geo9"
+        }
+      ],
+      "place": null
+    },
+    {
+      "text": "RT @TheRaDR: Just a reminder that making fun of the physical appearance of people you do not like is not kinder or more just than making fun of the physical appearance of people you do like.   Hold people accountable for their words and actions.   Focus and be just.",
+      "lang": "en",
+      "sentiment": "positive",
+      "network": "twitter",
+      "postid": "1349254130435567616",
+      "type": "status",
+      "user": {
+        "userid": "490039192",
+        "url": "https://twitter.com/PatrickRothfuss",
+        "name": "Pat Rothfuss",
+        "image": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+        "location": "Wisconsin",
+        "influence": {
+          "name": "followers",
+          "count": 273642
+        },
+        "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc"
+      },
+      "url": "https://twitter.com/PatrickRothfuss/status/1349254130435567616",
+      "tags": [],
+      "popularity": null,
+      "user_mentions": [
+        {
+          "url": "https://twitter.com/TheRaDR",
+          "text": "TheRaDR"
+        }
+      ],
+      "posted": "2021-01-13 07:17:07",
+      "urls": [],
+      "place": null
+    },
+    {
+      "text": "I just shut down Firefox in a way it didn't like, and lost all my open tabs.  There were at least 40 of them, many had been open for more than a year...  Half of me feels like my house just burned down.  The other half is looking around, thinking: \"Free. Finally. I'm free.\"",
+      "lang": "en",
+      "sentiment": "positive",
+      "network": "twitter",
+      "postid": "1349121487681318912",
+      "type": "status",
+      "user": {
+        "userid": "490039192",
+        "url": "https://twitter.com/PatrickRothfuss",
+        "name": "Pat Rothfuss",
+        "image": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+        "location": "Wisconsin",
+        "influence": {
+          "name": "followers",
+          "count": 273642
+        },
+        "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc"
+      },
+      "url": "https://twitter.com/PatrickRothfuss/status/1349121487681318912",
+      "tags": [],
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 249
+        },
+        {
+          "name": "likes",
+          "count": 6353
+        }
+      ],
+      "user_mentions": [],
+      "posted": "2021-01-12 22:30:02",
+      "urls": [],
+      "place": null
+    },
+    {
+      "text": "Oof. Maybe have a talk with your promotional team if they can't realize that right now, *nobody* is going to read this as \"Inflection.\" https://t.co/ekh3GKAXxv",
+      "lang": "en",
+      "sentiment": "neutral",
+      "network": "twitter",
+      "postid": "1348910389636063233",
+      "type": "link",
+      "user": {
+        "userid": "490039192",
+        "url": "https://twitter.com/PatrickRothfuss",
+        "name": "Pat Rothfuss",
+        "image": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+        "location": "Wisconsin",
+        "influence": {
+          "name": "followers",
+          "count": 273642
+        },
+        "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc"
+      },
+      "url": "https://twitter.com/PatrickRothfuss/status/1348910389636063233",
+      "tags": [],
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 42
+        },
+        {
+          "name": "likes",
+          "count": 734
+        }
+      ],
+      "user_mentions": [],
+      "posted": "2021-01-12 08:31:13",
+      "urls": [
+        {
+          "url": "https://twitter.com/GM/status/1346481605465010176",
+          "text": "twitter.com/GM/status/1346\u2026",
+          "short_url": "https://t.co/ekh3GKAXxv"
+        }
+      ],
+      "place": null
+    },
+    {
+      "text": "RT @cisgenderhaver: yet another unrealistic body standard for women https://t.co/oJ3INITaqk",
+      "lang": "en",
+      "sentiment": "neutral",
+      "network": "twitter",
+      "postid": "1348909033881821184",
+      "type": "photo",
+      "user": {
+        "userid": "490039192",
+        "url": "https://twitter.com/PatrickRothfuss",
+        "name": "Pat Rothfuss",
+        "image": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+        "location": "Wisconsin",
+        "influence": {
+          "name": "followers",
+          "count": 273642
+        },
+        "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc"
+      },
+      "url": "https://twitter.com/PatrickRothfuss/status/1348909033881821184",
+      "tags": [],
+      "image": "https://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+      "popularity": null,
+      "user_mentions": [
+        {
+          "url": "https://twitter.com/cisgenderhaver",
+          "text": "cisgenderhaver"
+        }
+      ],
+      "posted": "2021-01-12 08:25:49",
+      "urls": [],
+      "place": null
+    },
+    {
+      "text": "I don't know what's real anymore...  https://t.co/JmATsZqiOZ",
+      "lang": "en",
+      "sentiment": "neutral",
+      "network": "twitter",
+      "postid": "1348722979606245386",
+      "type": "link",
+      "user": {
+        "userid": "490039192",
+        "url": "https://twitter.com/PatrickRothfuss",
+        "name": "Pat Rothfuss",
+        "image": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+        "location": "Wisconsin",
+        "influence": {
+          "name": "followers",
+          "count": 273642
+        },
+        "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc"
+      },
+      "url": "https://twitter.com/PatrickRothfuss/status/1348722979606245386",
+      "tags": [],
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 50
+        },
+        {
+          "name": "likes",
+          "count": 594
+        }
+      ],
+      "user_mentions": [],
+      "posted": "2021-01-11 20:06:31",
+      "urls": [
+        {
+          "url": "https://www.state.gov/biographies/donald-j-trump/",
+          "text": "state.gov/biographies/do\u2026",
+          "short_url": "https://t.co/JmATsZqiOZ"
+        }
+      ],
+      "place": null
+    },
+    {
+      "text": "I don't know about you, but I'm pretty tired of reality right now, so I'm going to have a little Blanket Fort on my Twitch stream and escape to a world where things make sense: Numenera.   You can join me here if you like:  https://t.co/Xs4cX3QrHY https://t.co/d4Z0ghx1z6",
+      "lang": "en",
+      "sentiment": "neutral",
+      "network": "twitter",
+      "postid": "1347432591939530754",
+      "type": "photo",
+      "user": {
+        "userid": "490039192",
+        "url": "https://twitter.com/PatrickRothfuss",
+        "name": "Pat Rothfuss",
+        "image": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+        "location": "Wisconsin",
+        "influence": {
+          "name": "followers",
+          "count": 273642
+        },
+        "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc"
+      },
+      "url": "https://twitter.com/PatrickRothfuss/status/1347432591939530754",
+      "tags": [],
+      "image": "https://pbs.twimg.com/media/ErMKt2dXUAIORiT.jpg",
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 16
+        },
+        {
+          "name": "likes",
+          "count": 540
+        }
+      ],
+      "user_mentions": [],
+      "posted": "2021-01-08 06:38:58",
+      "urls": [
+        {
+          "url": "https://www.twitch.tv/patrickrothfuss/",
+          "text": "twitch.tv/patrickrothfus\u2026",
+          "short_url": "https://t.co/Xs4cX3QrHY"
+        }
+      ],
+      "place": null
+    }
+  ]
+}

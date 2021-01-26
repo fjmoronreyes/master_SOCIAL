@@ -1,0 +1,254 @@
+{
+  "created_at": "Thu Jan 14 00:16:41 +0000 2021",
+  "id": 1349510715674128389,
+  "id_str": "1349510715674128389",
+  "full_text": "Muy de acuerdo https://t.co/2n0lS9ofLs",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    14
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/2n0lS9ofLs",
+        "expanded_url": "https://twitter.com/azotaor/status/1349464973437775872",
+        "display_url": "twitter.com/azotaor/status\u2026",
+        "indices": [
+          15,
+          38
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92415862,
+    "id_str": "92415862",
+    "name": "Rosa Montero",
+    "screen_name": "BrunaHusky",
+    "location": "Madrid",
+    "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj",
+    "url": "https://t.co/BNS4CN8yJd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/BNS4CN8yJd",
+            "expanded_url": "http://www.rosamontero.es",
+            "display_url": "rosamontero.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/Hl9mM9RSIj",
+            "expanded_url": "http://bit.ly/3l13Ck3",
+            "display_url": "bit.ly/3l13Ck3",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164036,
+    "friends_count": 600,
+    "listed_count": 1463,
+    "created_at": "Wed Nov 25 01:17:12 +0000 2009",
+    "favourites_count": 70939,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 35286,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/92415862/1597906940",
+    "profile_link_color": "598AEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1349464973437775872,
+  "quoted_status_id_str": "1349464973437775872",
+  "quoted_status_permalink": {
+    "url": "https://t.co/2n0lS9ofLs",
+    "expanded": "https://twitter.com/azotaor/status/1349464973437775872",
+    "display": "twitter.com/azotaor/status\u2026"
+  },
+  "quoted_status": {
+    "created_at": "Wed Jan 13 21:14:56 +0000 2021",
+    "id": 1349464973437775872,
+    "id_str": "1349464973437775872",
+    "full_text": "@FelixLopez_Rey @MistralS @BrunaHusky @vanessa_lec @comechenator He estado en otros pa\u00edses, y la ciudadan\u00eda, ante problemas de este calibre, en vez de culpar a los pol\u00edticos, arriman el hombro y salen antes del atolladero.\nMe gustar\u00eda verle a usted gestionando un desastre de tal magnitud.",
+    "truncated": false,
+    "display_text_range": [
+      65,
+      289
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "FelixLopez_Rey",
+          "name": "F\u00e9lix L\u00f3pez-Rey (M\u00e1s #Usera )",
+          "id": 1206546724996702208,
+          "id_str": "1206546724996702208",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "MistralS",
+          "name": "Maruja Torres",
+          "id": 567389065,
+          "id_str": "567389065",
+          "indices": [
+            16,
+            25
+          ]
+        },
+        {
+          "screen_name": "BrunaHusky",
+          "name": "Rosa Montero",
+          "id": 92415862,
+          "id_str": "92415862",
+          "indices": [
+            26,
+            37
+          ]
+        },
+        {
+          "screen_name": "vanessa_lec",
+          "name": "Vanessa Mad Sky #saldremosencomun \u2600\ufe0f",
+          "id": 2435076410,
+          "id_str": "2435076410",
+          "indices": [
+            38,
+            50
+          ]
+        },
+        {
+          "screen_name": "comechenator",
+          "name": "Alberto Comeche",
+          "id": 119012804,
+          "id_str": "119012804",
+          "indices": [
+            51,
+            64
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1349355354631634948,
+    "in_reply_to_status_id_str": "1349355354631634948",
+    "in_reply_to_user_id": 1206546724996702208,
+    "in_reply_to_user_id_str": "1206546724996702208",
+    "in_reply_to_screen_name": "FelixLopez_Rey",
+    "user": {
+      "id": 722496489101094912,
+      "id_str": "722496489101094912",
+      "name": "Azotaor",
+      "screen_name": "azotaor",
+      "location": "Espa\u00f1a",
+      "description": "Azote de tramposos.\nEspa\u00f1ol a mucha honra.\nAlgunas veces escribo. \nTu regere Imperio Iuctus Hispane memento.\n\ud83c\uddea\ud83c\uddf8",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 206,
+      "friends_count": 187,
+      "listed_count": 0,
+      "created_at": "Tue Apr 19 18:46:01 +0000 2016",
+      "favourites_count": 12496,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5889,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1116044588425388032/yrjT8qK5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116044588425388032/yrjT8qK5_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/722496489101094912/1584222516",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+  },
+  "retweet_count": 1,
+  "favorite_count": 7,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

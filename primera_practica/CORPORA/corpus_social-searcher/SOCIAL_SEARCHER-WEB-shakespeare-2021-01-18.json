@@ -1,0 +1,245 @@
+{
+    "meta": {
+        "requestid": "4aad5ff1c5bb42f08160a79295514ec8",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://en.wikipedia.org/wiki/William_Shakespeare",
+            "text": "William Shakespeare (bapt. 26 April 1564 \u2013 23 April 1616) was an English playwright, poet, and actor, widely regarded as the greatest writer in the English\u00a0...Years active: c. 1585\u20131613Era: Elizabethan; \u200eJacobean\u200eOccupation: Playwright; poet; actorBaptised: 26 April 1564\u200eShakespeare's plays \u00b7 \u200eLife of William Shakespeare \u00b7 \u200eHamnet Shakespeare \u00b7 \u200eEssay",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/William_Shakespeare",
+                    "text": "William Shakespeare - Wikipediaen.wikipedia.org \u203a wiki \u203a William_Shakespeare"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askWhat is Shakespeare's most famous line?What is William Shakespeare's real name?What are 5 facts about Shakespeare?Did Shakespeare write until he died?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "http://shakespeare.mit.edu/",
+            "text": "Welcome to the Web's first edition of the Complete Works of William Shakespeare. This site has offered Shakespeare's plays and poetry to the Internet\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "http://shakespeare.mit.edu/",
+            "user": {
+                "name": "shakespeare.mit.edu",
+                "url": "http:://shakespeare.mit.edu"
+            },
+            "urls": [
+                {
+                    "url": "http://shakespeare.mit.edu/",
+                    "text": "The Complete Works of William Shakespeareshakespeare.mit.edu"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/william-shakespeare-biography/",
+            "text": "William Shakespeare was a renowned English poet, playwright, and actor born in 1564 in Stratford-upon-Avon ...Jul 7, 2020 \u00b7 Uploaded by Shakespeare Birthplace Trust",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/william-shakespeare-biography/",
+            "user": {
+                "name": "www.shakespeare.org.uk",
+                "url": "https:://www.shakespeare.org.uk"
+            },
+            "urls": [
+                {
+                    "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/william-shakespeare-biography/",
+                    "text": "William Shakespeare Biography - Shakespeare Birthplace Trustwww.shakespeare.org.uk \u203a shakespedia \u203a william-shakesp..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://www.biography.com/writer/william-shakespeare",
+            "text": "Dec 10, 2020 \u2014 Who Was William Shakespeare? \u00b7 When Was Shakespeare Born? \u00b7 Family \u00b7 Childhood and Education \u00b7 Wife and Children \u00b7 Shakespeare's Lost\u00a0...Death Date: April 23, 1616Education: King's New SchoolBirth Date: c. April 23, 1564",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.biography.com/writer/william-shakespeare",
+            "user": {
+                "name": "www.biography.com",
+                "url": "https:://www.biography.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.biography.com/writer/william-shakespeare",
+                    "text": "William Shakespeare - Quotes, Plays & Wife - Biographywww.biography.com \u203a writer \u203a william-shakespeare"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://www.britannica.com/biography/William-Shakespeare",
+            "text": "Nov 4, 2020 \u2014 William Shakespeare, Shakespeare also spelled Shakspere, byname Bard of Avon or Swan of Avon, (baptized April 26, 1564, Stratford-upon-Avon, Warwickshire, England\u2014died April 23, 1616, Stratford-upon-Avon), English poet, dramatist, and actor often called the English national poet and considered by many to be the ...Date of death: April 23, 1616",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.britannica.com/biography/William-Shakespeare",
+            "user": {
+                "name": "www.britannica.com",
+                "url": "https:://www.britannica.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.britannica.com/biography/William-Shakespeare",
+                    "text": "William Shakespeare | Plays, Poems, Biography, Quotes ...www.britannica.com \u203a Literature \u203a Poetry \u203a Poets L-Z"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://poets.org/poet/william-shakespeare",
+            "text": "William Shakespeare was born on April 23, 1564, in Stratford-upon-Avon. The son of John Shakespeare and Mary Arden, he was probably educated at the King\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://poets.org/poet/william-shakespeare",
+            "user": {
+                "name": "poets.org",
+                "url": "https:://poets.org"
+            },
+            "urls": [
+                {
+                    "url": "https://poets.org/poet/william-shakespeare",
+                    "text": "About William Shakespeare | Academy of American Poetspoets.org \u203a poet \u203a william-shakespeare"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://www.rsc.org.uk/shakespeares-life-and-times",
+            "text": "In 1594, Shakespeare became a founding member, actor, playwright and shareholder of the Lord Chamberlain's Men. Richard Burbage was the company's\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.rsc.org.uk/shakespeares-life-and-times",
+            "user": {
+                "name": "www.rsc.org.uk",
+                "url": "https:://www.rsc.org.uk"
+            },
+            "urls": [
+                {
+                    "url": "https://www.rsc.org.uk/shakespeares-life-and-times",
+                    "text": "William Shakespeare's life and times | Royal Shakespeare ...www.rsc.org.uk \u203a shakespeares-life-and-times"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://www.folger.edu/shakespeares-life",
+            "text": "We do know that Shakespeare's life revolved around two locations: Stratford and London. He grew up, had a family, and bought property in Stratford, but he\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.folger.edu/shakespeares-life",
+            "user": {
+                "name": "www.folger.edu",
+                "url": "https:://www.folger.edu"
+            },
+            "urls": [
+                {
+                    "url": "https://www.folger.edu/shakespeares-life",
+                    "text": "Shakespeare's Life | Folger Shakespeare Librarywww.folger.edu \u203a shakespeares-life"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:58 +00000",
+            "postid": "https://www.folger.edu/shakespeares-works",
+            "text": "Explore the complete works of William Shakespeare. Find more information about Shakespeare plays and poems, including a plot synopsis for each work and\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.folger.edu/shakespeares-works",
+            "user": {
+                "name": "www.folger.edu",
+                "url": "https:://www.folger.edu"
+            },
+            "urls": [
+                {
+                    "url": "https://www.folger.edu/shakespeares-works",
+                    "text": "Shakespeare's Works | Folger Shakespeare Librarywww.folger.edu \u203a shakespeares-works"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:59 +00000",
+            "postid": "/search?q=shakespeare&tbm=isch&source=iu&ictx=1&fir=JI4KuqMUDCiACM%252CImk0yS1zvxmFyM%252C%252Fm%252F081k8&vet=1&usg=AI4_-kQLYg9rYMB5GSWs8ojmMmL-sNZhdA&sa=X&ved=2ahUKEwiWjeD6mKXuAhUDWqwKHe_sCbMQ_B16BAgwEAE#imgrc=JI4KuqMUDCiACM",
+            "text": "Feedback",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=shakespeare&tbm=isch&source=iu&ictx=1&fir=JI4KuqMUDCiACM%252CImk0yS1zvxmFyM%252C%252Fm%252F081k8&vet=1&usg=AI4_-kQLYg9rYMB5GSWs8ojmMmL-sNZhdA&sa=X&ved=2ahUKEwiWjeD6mKXuAhUDWqwKHe_sCbMQ_B16BAgwEAE#imgrc=JI4KuqMUDCiACM",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=shakespeare&tbm=isch&source=iu&ictx=1&fir=JI4KuqMUDCiACM%252CImk0yS1zvxmFyM%252C%252Fm%252F081k8&vet=1&usg=AI4_-kQLYg9rYMB5GSWs8ojmMmL-sNZhdA&sa=X&ved=2ahUKEwiWjeD6mKXuAhUDWqwKHe_sCbMQ_B16BAgwEAE#imgrc=JI4KuqMUDCiACM",
+                    "text": "ImagesMore imagesWilliam ShakespeareEnglish playwright"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:59 +00000",
+            "postid": "/search?q=The+Complete+Works+of+Shakespeare+Book+by+William+Shakespeare&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNkjKy0k0KNBikeLiQ-EoaRjK7Lk07xyYmyAAE6xh9HJQ4OYEshUCxQHsthqZ9Kw6xsXAwCjDwLGK1DclIVXDOzy3ISS1JVQjPL8ouVshPUwjOSMxOLS5ITSxKVXDKz89WSKpUCM_MyclMzEWWAwB7B-jHtAAAAA&sa=X&ved=2ahUKEwiWjeD6mKXuAhUDWqwKHe_sCbMQ6RMwJnoECCgQAg",
+            "text": "See results aboutThe Complete Works of ShakespeareBook by William ShakespeareBook by William ShakespeareShakespeare's playsShakespeare's plays are a canon of approximately 39 ...Shakespeare's plays are a canon of approximately 39 dramatic works written ...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=The+Complete+Works+of+Shakespeare+Book+by+William+Shakespeare&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNkjKy0k0KNBikeLiQ-EoaRjK7Lk07xyYmyAAE6xh9HJQ4OYEshUCxQHsthqZ9Kw6xsXAwCjDwLGK1DclIVXDOzy3ISS1JVQjPL8ouVshPUwjOSMxOLS5ITSxKVXDKz89WSKpUCM_MyclMzEWWAwB7B-jHtAAAAA&sa=X&ved=2ahUKEwiWjeD6mKXuAhUDWqwKHe_sCbMQ6RMwJnoECCgQAg",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=The+Complete+Works+of+Shakespeare+Book+by+William+Shakespeare&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNkjKy0k0KNBikeLiQ-EoaRjK7Lk07xyYmyAAE6xh9HJQ4OYEshUCxQHsthqZ9Kw6xsXAwCjDwLGK1DclIVXDOzy3ISS1JVQjPL8ouVshPUwjOSMxOLS5ITSxKVXDKz89WSKpUCM_MyclMzEWWAwB7B-jHtAAAAA&sa=X&ved=2ahUKEwiWjeD6mKXuAhUDWqwKHe_sCbMQ6RMwJnoECCgQAg",
+                    "text": "See results aboutThe Complete Works of ShakespeareBook by William ShakespeareBook by William ShakespeareShakespeare's playsShakespeare's plays are a canon of approximately 39 ...Shakespeare's plays are a canon of approximately 39 dramatic works written ..."
+                }
+            ]
+        }
+    ]
+}

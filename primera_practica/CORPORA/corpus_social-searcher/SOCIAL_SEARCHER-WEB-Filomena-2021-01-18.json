@@ -1,0 +1,249 @@
+{
+    "meta": {
+        "requestid": "1fd0e4c9e62b4346b91479816585d29b",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "http://filomena.com/",
+            "text": "Filomena Ristorante - One of the premier Italian food restaurants for over 30 years in Washington DC. Reserve a table. Call now at (202) 338-8800.\u200eMenu \u00b7 \u200eDinner \u00b7 \u200eTake Out and Delivery \u00b7 \u200eHolidays at Filomena",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "http://filomena.com/",
+            "user": {
+                "name": "filomena.com",
+                "url": "http:://filomena.com"
+            },
+            "urls": [
+                {
+                    "url": "http://filomena.com/",
+                    "text": "Filomena Ristorante - Best Italian Restaurant in Washington DCfilomena.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askWhat does Filomena mean?Is Filomena an Italian name?Does Filomena have a dress code?Who owns Filomena?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://www.filomenasoc.com/",
+            "text": "Filomena's Italian Kitchen in Costa Mesa, CA. Call us at (949) 642-3810. Check out our location and hours, and latest menu with photos and reviews.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.filomenasoc.com/",
+            "user": {
+                "name": "www.filomenasoc.com",
+                "url": "https:://www.filomenasoc.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.filomenasoc.com/",
+                    "text": "Filomena's Italian Kitchen - Italian Restaurant in Costa Mesa, CAwww.filomenasoc.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "http://www.filomenascafe.com/",
+            "text": "Thinly pounded breast of chicken, layered with house red sauce, mozzarella and parmigiano reggiano cheeses. Served with linguine. $16. $23. Braised Salmon.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "http://www.filomenascafe.com/",
+            "user": {
+                "name": "www.filomenascafe.com",
+                "url": "http:://www.filomenascafe.com"
+            },
+            "urls": [
+                {
+                    "url": "http://www.filomenascafe.com/",
+                    "text": "Filomena'swww.filomenascafe.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Filomena",
+            "text": "Filomena is a form of the Greek female given name Philomena. It means \"friend of strength or \"loved one\" (\u03c6\u03b9\u03bb\u03bf\u03bc\u03b7\u03bd\u03b7 (philomene) meaning \"loved\"). Filomena is\u00a0...Meaning: friend of strengthLanguage(s): Italian, Spanish, Portuguese, DutchPronunciation: fee-lo-ME-nahSee also: Philomena",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://en.wikipedia.org/wiki/Filomena",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Filomena",
+                    "text": "Filomena - Wikipediaen.wikipedia.org \u203a wiki \u203a Filomena"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://www.filomenasberlin.com/",
+            "text": "Welcome to Filomena Cucina Rustica Italiana Caffe & Bar. We are located at 13 Cross Keys Road in West Berlin, New Jersey. Our phone number is\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.filomenasberlin.com/",
+            "user": {
+                "name": "www.filomenasberlin.com",
+                "url": "https:://www.filomenasberlin.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.filomenasberlin.com/",
+                    "text": "Filomena Cucina Rustica Italiana Caffe and Bar - Homewww.filomenasberlin.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://www.myfilomenas.com/",
+            "text": "Since 1973, Filomena's has been the first name that comes to mind when Franklin Square wants to celebrate. Known for our authentic Italian cooking and\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.myfilomenas.com/",
+            "user": {
+                "name": "www.myfilomenas.com",
+                "url": "https:://www.myfilomenas.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.myfilomenas.com/",
+                    "text": "Filomenas Restaurant - Prepared to order with ... - Franklin ...www.myfilomenas.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://www.opentable.com/filomena-ristorante",
+            "text": "Established in 1983 Filomena is one of Washington's most Landmark restaurants located in the heart of Historic Georgetown overlooking the C&O Canal. Rating: 4.9 \u00b7 \u200e13,093 reviews \u00b7 \u200ePrice range: $31 to $50How is Filomena Ristorante restaurant rated?Is Filomena Ristorante currently accepting reservations?",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.opentable.com/filomena-ristorante",
+            "user": {
+                "name": "www.opentable.com",
+                "url": "https:://www.opentable.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.opentable.com/filomena-ristorante",
+                    "text": "Filomena Ristorante Restaurant - Washington, DC | OpenTablewww.opentable.com \u203a ... \u203a District of Columbia"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://www.filomenaspizza.com/",
+            "text": "Copyright 2017 Filomena's Pizzeria. We deliver to all of Manchester & Bolton, and parts of East Hartford, Vernon & Glastonbury. (Standard fuel & delivery fee\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.filomenaspizza.com/",
+            "user": {
+                "name": "www.filomenaspizza.com",
+                "url": "https:://www.filomenaspizza.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.filomenaspizza.com/",
+                    "text": "filomenas: Home - Manchesterwww.filomenaspizza.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://www.yelp.com/biz/filomena-ristorante-washington",
+            "text": "Jun 22, 2020 \u2014 COVID update: Filomena Ristorante has updated their hours, takeout & delivery options. 2651 reviews of Filomena Ristorante \"I have been to\u00a0... Rating: 4 \u00b7 \u200e2,650 reviews \u00b7 \u200ePrice range: $31-60",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.yelp.com/biz/filomena-ristorante-washington",
+            "user": {
+                "name": "www.yelp.com",
+                "url": "https:://www.yelp.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.yelp.com/biz/filomena-ristorante-washington",
+                    "text": "Filomena Ristorante - Updated COVID-19 Hours & Services ...www.yelp.com \u203a Restaurants \u203a Italian"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:52 +00000",
+            "postid": "https://www.filomenascucina.com/",
+            "text": "Filomena Cucina Italiana is a premier dining establishment located in Blackwood, NJ. For almost 30 years, Filomena has been serving delicious, traditional\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.filomenascucina.com/",
+            "user": {
+                "name": "www.filomenascucina.com",
+                "url": "https:://www.filomenascucina.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.filomenascucina.com/",
+                    "text": "Filomena Cucina Italiana | Italian Restaurant & Bar in ...www.filomenascucina.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:50:53 +00000",
+            "postid": "/maps/uv?pb=!1s0x89b7b64bfd853a3d:0x603d1999c9518ff6!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipNYeym3bwc2qoDsFj-zQiG1Q1970ENUpxn7YixV%3Dw213-h160-k-no!5sFilomena+-+Google+Search!15zQ2dJZ0FRPT0&imagekey=!1e10!2sAF1QipNYeym3bwc2qoDsFj-zQiG1Q1970ENUpxn7YixV&hl=en&sa=X&ved=2ahUKEwiX6NKKjaXuAhUPTKwKHfhZC4QQoiowH3oECEgQAw",
+            "text": "Knowledge ResultSee photosSee outsideFilomena RistoranteWebsiteDirections                Saved (0) Saved Save       4.62,739 Google reviews$$$Italian restaurant Reserve a tableOrder online    New! View menu and order food       Hungry? Try ordering online    Pasta made in-house plus hearty Italian classics in an upscale restaurant with over-the-top decor. Dine-in\u00b7 Curbside pickup\u00b7 No-contact deliveryWhy this ad?Ad\u00b7Free Delivery on 1st OrderFilomena Ristorante - Washington, DC - Delivered by GrubhubOrder Now \u00b7 grubhub.comAddress: 1063 Wisconsin Ave NW, Washington, DC 20007Hours: Closed \u22c5 Opens 11:30AMMartin Luther King Jr. Day might affect these hoursMonday(Martin Luther King Jr. Day)11:30AM\u201310PMHours might differTuesday11:30AM\u201310PMWednesday11:30AM\u201310PMThursday11:30AM\u201310PMFriday11:30AM\u201311PMSaturday11:30AM\u201311PMSunday11:30AM\u201310PMSuggest an editUnable to add this file. Please check that it is a valid photo.Health & safety:\u00a0Reservations required\u00a0\u00b7\u00a0Mask required\u00a0\u00b7\u00a0More detailsMenu:\u00a0files.constantcontact.comReservations:\u00a0opentable.comOrder:\u00a0seamless.com, doordash.com, trycaviar.com, grubhub.com, postmates.com, ubereats.comPhone: (202) 338-8800Place name: Website: : : : : : : Category: Suggest an editUnable to add this file. Please check that it is a valid photo.Unable to add this file. Please check that it is a valid photo. \u00b7 Own this business?COVID-19 updates from businessFilomena Ristoranteon GoogleDine in has been ordered for all restaurants in DC to stop from 12-24 thru 1-15. We are so sorry but have no choice. We still offer curbside pickup, delivery and carryout options.Dec 23, 2020Questions & answersAsk a questionSee all questions (24)Reviews from the web4.9/5OpenTable \u00b7 13,093 reviewsCritic reviewsFor an old-school Italian experience in DC, go to Filomena in Georgetown. Full reviewJoe BrantlingerThe InfatuationWith simple dishes that pack a big creative punch, you will want to dine at this D.C. staple. Full reviewGina Gallucci White10BEST\"Pasta mamas\" make noodles in the window and \"kitschy\" holiday decorations are a staple at this \"old-school\" Georgetown Italian, a cavernous affair where everything\u2019s \"over-the-top\", starting with... Full reviewZagatYour best chance of catching a celebrity sighting in DC? Getting dinner at Filomena. The Georgetown stalwart has been around for over 30 years, and in that time countless stars\u2014and multiple U... Full reviewHolley SimmonsTime OutPopular timesBased on visits to this place.MonTueWedThuFriSatSun7 PM:\u00a0Usually a little busy9a12p3p6p9p     ReviewsReviews are automatically processed to detect inappropriate content like fake reviews and spam. We may take down reviews that are flagged in order to comply with Google policies or legal obligations.Write a reviewAdd a photoThanks for sharing!Your photo will be posted publicly on Google.Contribute MoreDoneUpload public photos of Filomena RistorantePosting publicly on the Web\"Bustling Italian bistro with homemade pasta and desserts with excellent service.\"\"Its an experience a bit quirky place with a high price tag.\"\"The food was pretty tasty, some dishes very highly priced for the dish.\"View all Google reviews        From Filomena Ristorante        Unable to add this file. Please check that it is a valid photo.       \"Now open for dine in finally!! Curbside pickup and delivery will continue as well!\"      ProfilesTwitterFacebookPeople also search forView 15+ moreCafe MilanoItalianil CanaleItalianFlavio Restaurant DCItalianRistorante PiccoloItalianPizzeria ParadisoPizza",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/maps/uv?pb=!1s0x89b7b64bfd853a3d:0x603d1999c9518ff6!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipNYeym3bwc2qoDsFj-zQiG1Q1970ENUpxn7YixV%3Dw213-h160-k-no!5sFilomena+-+Google+Search!15zQ2dJZ0FRPT0&imagekey=!1e10!2sAF1QipNYeym3bwc2qoDsFj-zQiG1Q1970ENUpxn7YixV&hl=en&sa=X&ved=2ahUKEwiX6NKKjaXuAhUPTKwKHfhZC4QQoiowH3oECEgQAw",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/maps/uv?pb=!1s0x89b7b64bfd853a3d:0x603d1999c9518ff6!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipNYeym3bwc2qoDsFj-zQiG1Q1970ENUpxn7YixV%3Dw213-h160-k-no!5sFilomena+-+Google+Search!15zQ2dJZ0FRPT0&imagekey=!1e10!2sAF1QipNYeym3bwc2qoDsFj-zQiG1Q1970ENUpxn7YixV&hl=en&sa=X&ved=2ahUKEwiX6NKKjaXuAhUPTKwKHfhZC4QQoiowH3oECEgQAw",
+                    "text": "Knowledge ResultSee photosSee outsideFilomena RistoranteWebsiteDirections                Saved (0) Saved Save       4.62,739 Google reviews$$$Italian restaurant Reserve a tableOrder online    New! View menu and order food       Hungry? Try ordering online    Pasta made in-house plus hearty Italian classics in an upscale restaurant with over-the-top decor. Dine-in\u00b7 Curbside pickup\u00b7 No-contact deliveryWhy this ad?Ad\u00b7Free Delivery on 1st OrderFilomena Ristorante - Washington, DC - Delivered by GrubhubOrder Now \u00b7 grubhub.comAddress: 1063 Wisconsin Ave NW, Washington, DC 20007Hours: Closed \u22c5 Opens 11:30AMMartin Luther King Jr. Day might affect these hoursMonday(Martin Luther King Jr. Day)11:30AM\u201310PMHours might differTuesday11:30AM\u201310PMWednesday11:30AM\u201310PMThursday11:30AM\u201310PMFriday11:30AM\u201311PMSaturday11:30AM\u201311PMSunday11:30AM\u201310PMSuggest an editUnable to add this file. Please check that it is a valid photo.Health & safety:\u00a0Reservations required\u00a0\u00b7\u00a0Mask required\u00a0\u00b7\u00a0More detailsMenu:\u00a0files.constantcontact.comReservations:\u00a0opentable.comOrder:\u00a0seamless.com, doordash.com, trycaviar.com, grubhub.com, postmates.com, ubereats.comPhone: (202) 338-8800Place name: Website: : : : : : : Category: Suggest an editUnable to add this file. Please check that it is a valid photo.Unable to add this file. Please check that it is a valid photo. \u00b7 Own this business?COVID-19 updates from businessFilomena Ristoranteon GoogleDine in has been ordered for all restaurants in DC to stop from 12-24 thru 1-15. We are so sorry but have no choice. We still offer curbside pickup, delivery and carryout options.Dec 23, 2020Questions & answersAsk a questionSee all questions (24)Reviews from the web4.9/5OpenTable \u00b7 13,093 reviewsCritic reviewsFor an old-school Italian experience in DC, go to Filomena in Georgetown. Full reviewJoe BrantlingerThe InfatuationWith simple dishes that pack a big creative punch, you will want to dine at this D.C. staple. Full reviewGina Gallucci White10BEST\"Pasta mamas\" make noodles in the window and \"kitschy\" holiday decorations are a staple at this \"old-school\" Georgetown Italian, a cavernous affair where everything\u2019s \"over-the-top\", starting with... Full reviewZagatYour best chance of catching a celebrity sighting in DC? Getting dinner at Filomena. The Georgetown stalwart has been around for over 30 years, and in that time countless stars\u2014and multiple U... Full reviewHolley SimmonsTime OutPopular timesBased on visits to this place.MonTueWedThuFriSatSun7 PM:\u00a0Usually a little busy9a12p3p6p9p     ReviewsReviews are automatically processed to detect inappropriate content like fake reviews and spam. We may take down reviews that are flagged in order to comply with Google policies or legal obligations.Write a reviewAdd a photoThanks for sharing!Your photo will be posted publicly on Google.Contribute MoreDoneUpload public photos of Filomena RistorantePosting publicly on the Web\"Bustling Italian bistro with homemade pasta and desserts with excellent service.\"\"Its an experience a bit quirky place with a high price tag.\"\"The food was pretty tasty, some dishes very highly priced for the dish.\"View all Google reviews        From Filomena Ristorante        Unable to add this file. Please check that it is a valid photo.       \"Now open for dine in finally!! Curbside pickup and delivery will continue as well!\"      ProfilesTwitterFacebookPeople also search forView 15+ moreCafe MilanoItalianil CanaleItalianFlavio Restaurant DCItalianRistorante PiccoloItalianPizzeria ParadisoPizza"
+                }
+            ]
+        }
+    ]
+}

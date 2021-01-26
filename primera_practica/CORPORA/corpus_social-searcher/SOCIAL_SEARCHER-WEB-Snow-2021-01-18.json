@@ -1,0 +1,209 @@
+{
+    "meta": {
+        "requestid": "151d805cd2824863b5e696cccbecd0b0",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askIs it going to snow in Georgia 2020?What is snow slang for?Can it snow at 40 degrees?Which country is snowing now?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Snow",
+            "text": "Snow comprises individual ice crystals that grow while suspended in the atmosphere\u2014usually within clouds\u2014and then fall, accumulating on the ground where\u00a0...Melting temperature (Tm): 0 \u00b0CCompressive strength (\u03c3c): 3\u20137 MPaDensity (\u03c1): 0.1\u20130.8 g/cm3Tensile strength (\u03c3t): 1.5\u20133.5 kPa\u200eDisambiguation \u00b7 \u200eSnowflake \u00b7 \u200eClassifications of snow \u00b7 \u200eSnow science",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://en.wikipedia.org/wiki/Snow",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Snow",
+                    "text": "Snow - Wikipediaen.wikipedia.org \u203a wiki \u203a Snow"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Snow_(musician)",
+            "text": "Darrin Kenneth O'Brien (born October 30, 1969), known by his stage name Snow, is a Canadian singer. His 1992 single \"Informer\" spent seven weeks at No.Born: October 30, 1969 (age 51); Toronto, Ont...\u200eGenres: Reggae fusion; \u200edancehall\u200e; \u200ehip hop\u200eYears active: 1989\u2013presentLabels: Virgin; \u200eEMI\u200e; \u200eTrue North\u200e; \u200eEast West\u200e; BME\u200e",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/Snow_(musician)",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Snow_(musician)",
+                    "text": "Snow (musician) - Wikipediaen.wikipedia.org \u203a wiki \u203a Snow_(musician)"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://www.trysnow.com/",
+            "text": "Snow's at-home teeth whitening kit is used by hundreds of top celebrities for a reason. It's incredibly effective and there's nothing like it on the market.\u200eContact \u00b7 \u200eReviews \u00b7 \u200eShop \u00b7 \u200eAbout Us",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.trysnow.com/",
+            "user": {
+                "name": "www.trysnow.com",
+                "url": "https:://www.trysnow.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.trysnow.com/",
+                    "text": "Snow\u00ae At-Home Teeth Whitening Kit | Results Guaranteed ...www.trysnow.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://finance.yahoo.com/quote/SNOW/",
+            "text": "Snowflake Computing (NYSE: SNOW), the leading cloud data warehouse company, and Saturn Cloud, the leader in lightning-fast data science, have\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://finance.yahoo.com/quote/SNOW/",
+            "user": {
+                "name": "finance.yahoo.com",
+                "url": "https:://finance.yahoo.com"
+            },
+            "urls": [
+                {
+                    "url": "https://finance.yahoo.com/quote/SNOW/",
+                    "text": "Snowflake Inc. (SNOW) Stock Price, News, Quote & History ...finance.yahoo.com \u203a quote \u203a SNOW"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://www.snow.edu/",
+            "text": "Snow College provides quality educational 2 and 4 year degree programs, with campuses in Ephraim and Richfield, Utah. Snow College is ranked as the\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.snow.edu/",
+            "user": {
+                "name": "www.snow.edu",
+                "url": "https:://www.snow.edu"
+            },
+            "urls": [
+                {
+                    "url": "https://www.snow.edu/",
+                    "text": "Snow College: Home of the Badgers - Ephraimwww.snow.edu"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://www.snow.com/",
+            "text": "PASS HOLDER RESERVATIONS. For your safety, we are managing on-mountain access this season. Reservations will be required, and our pass holders will get\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.snow.com/",
+            "user": {
+                "name": "www.snow.com",
+                "url": "https:://www.snow.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.snow.com/",
+                    "text": "Snow.com: Homewww.snow.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://seekingalpha.com/symbol/SNOW",
+            "text": "A high-level overview of Snowflake Inc. (SNOW) stock. Stay up to date on the latest stock price, chart, news, analysis, fundamentals, trading and investment\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://seekingalpha.com/symbol/SNOW",
+            "user": {
+                "name": "seekingalpha.com",
+                "url": "https:://seekingalpha.com"
+            },
+            "urls": [
+                {
+                    "url": "https://seekingalpha.com/symbol/SNOW",
+                    "text": "Snowflake Inc. (SNOW) Stock Price Today, Quote & News ...seekingalpha.com \u203a symbol \u203a SNOW"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "https://www.snowflake.com/",
+            "text": "Snowflake is the only data platform built for the cloud for all your data and all your users. Mobilize your data to advance your business.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.snowflake.com/",
+            "user": {
+                "name": "www.snowflake.com",
+                "url": "https:://www.snowflake.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.snowflake.com/",
+                    "text": "The Data Cloud | Snowflake | Enable the Most Critical ...www.snowflake.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:47:59 +00000",
+            "postid": "/search?q=Snow&stick=H4sIAAAAAAAAAONgecQ4g5Fb4OWPe8JSfYyT1py8xtjOyMUVnJFf7ppXkllSKaTCxQZlSXHxSHHo5-obmMWn5GkwSHFxwXlKwUbuuy5NO8fmKMgABDdmhTpIaWoJcbF7FvvkJyfmCIpJ_7uf9Pa9vZYwF0dIYkV-Xn5uJVgpA8MHeyVOTiCtcHM2UJ6had-KQ2wsHIwCDDyLWFmC8_LLAV5Yq5ilAAAA&sa=X&ved=2ahUKEwjmv_24jKXuAhVBT6wKHS5_DqwQ6RMwPHoECEEQAg",
+            "text": "See results aboutSnowSnow comprises individual ice crystals that grow while ...Snow comprises individual ice crystals that grow while suspended in the ...SnowVideo gameVideo game",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=Snow&stick=H4sIAAAAAAAAAONgecQ4g5Fb4OWPe8JSfYyT1py8xtjOyMUVnJFf7ppXkllSKaTCxQZlSXHxSHHo5-obmMWn5GkwSHFxwXlKwUbuuy5NO8fmKMgABDdmhTpIaWoJcbF7FvvkJyfmCIpJ_7uf9Pa9vZYwF0dIYkV-Xn5uJVgpA8MHeyVOTiCtcHM2UJ6had-KQ2wsHIwCDDyLWFmC8_LLAV5Yq5ilAAAA&sa=X&ved=2ahUKEwjmv_24jKXuAhVBT6wKHS5_DqwQ6RMwPHoECEEQAg",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=Snow&stick=H4sIAAAAAAAAAONgecQ4g5Fb4OWPe8JSfYyT1py8xtjOyMUVnJFf7ppXkllSKaTCxQZlSXHxSHHo5-obmMWn5GkwSHFxwXlKwUbuuy5NO8fmKMgABDdmhTpIaWoJcbF7FvvkJyfmCIpJ_7uf9Pa9vZYwF0dIYkV-Xn5uJVgpA8MHeyVOTiCtcHM2UJ6had-KQ2wsHIwCDDyLWFmC8_LLAV5Yq5ilAAAA&sa=X&ved=2ahUKEwjmv_24jKXuAhVBT6wKHS5_DqwQ6RMwPHoECEEQAg",
+                    "text": "See results aboutSnowSnow comprises individual ice crystals that grow while ...Snow comprises individual ice crystals that grow while suspended in the ...SnowVideo gameVideo game"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,408 @@
+{
+  "created_at": "Thu Jan 14 15:46:08 +0000 2021",
+  "id": 1349744616757747717,
+  "id_str": "1349744616757747717",
+  "full_text": "RT @astro_duque: Orgulloso del posicionamiento destacado de la I+D+I espa\u00f1ola en los esfuerzos globales contra el #COVID19.\n\nLa @OECD recon\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "COVID19",
+        "indices": [
+          114,
+          122
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "astro_duque",
+        "name": "Pedro Duque",
+        "id": 311979693,
+        "id_str": "311979693",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "OECD",
+        "name": "OECD \u27a1\ufe0f Better policies for better lives",
+        "id": 25390350,
+        "id_str": "25390350",
+        "indices": [
+          128,
+          133
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68740712,
+    "id_str": "68740712",
+    "name": "Pedro S\u00e1nchez",
+    "screen_name": "sanchezcastejon",
+    "location": "",
+    "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+    "url": "https://t.co/f7tJrIKtIo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/f7tJrIKtIo",
+            "expanded_url": "http://www.lamoncloa.gob.es",
+            "display_url": "lamoncloa.gob.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1536955,
+    "friends_count": 6038,
+    "listed_count": 5920,
+    "created_at": "Tue Aug 25 16:45:56 +0000 2009",
+    "favourites_count": 4536,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 28687,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "94D487",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68740712/1610312124",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Jan 14 15:39:23 +0000 2021",
+    "id": 1349742920572821504,
+    "id_str": "1349742920572821504",
+    "full_text": "Orgulloso del posicionamiento destacado de la I+D+I espa\u00f1ola en los esfuerzos globales contra el #COVID19.\n\nLa @OECD reconoce nuestras pol\u00edticas para mejorar las condiciones del personal investigador, apoyar a las empresas y aumentar la financiaci\u00f3n. https://t.co/lJYBztLOPo https://t.co/ABXLsvdy2S",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "COVID19",
+          "indices": [
+            97,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "OECD",
+          "name": "OECD \u27a1\ufe0f Better policies for better lives",
+          "id": 25390350,
+          "id_str": "25390350",
+          "indices": [
+            111,
+            116
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lJYBztLOPo",
+          "expanded_url": "https://bit.ly/3icsJ2k",
+          "display_url": "bit.ly/3icsJ2k",
+          "indices": [
+            251,
+            274
+          ]
+        },
+        {
+          "url": "https://t.co/ABXLsvdy2S",
+          "expanded_url": "https://twitter.com/CienciaGob/status/1349701319796404226",
+          "display_url": "twitter.com/CienciaGob/sta\u2026",
+          "indices": [
+            275,
+            298
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 311979693,
+      "id_str": "311979693",
+      "name": "Pedro Duque",
+      "screen_name": "astro_duque",
+      "location": "Espa\u00f1a",
+      "description": "Ingeniero Aeron\u00e1utico de @La_UPM. Astronauta @ESA desde 1992. Ministro de Ciencia e Innovaci\u00f3n de Espa\u00f1a. Science & Innovation Minister - Spain @CienciaGob",
+      "url": "https://t.co/wvDTa5Bllm",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wvDTa5Bllm",
+              "expanded_url": "http://www.ciencia.gob.es",
+              "display_url": "ciencia.gob.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 527006,
+      "friends_count": 461,
+      "listed_count": 1421,
+      "created_at": "Mon Jun 06 11:43:43 +0000 2011",
+      "favourites_count": 653,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3834,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1236997349425197058/BCYfIWLb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236997349425197058/BCYfIWLb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/311979693/1354565725",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1349701319796404226,
+    "quoted_status_id_str": "1349701319796404226",
+    "quoted_status_permalink": {
+      "url": "https://t.co/ABXLsvdy2S",
+      "expanded": "https://twitter.com/CienciaGob/status/1349701319796404226",
+      "display": "twitter.com/CienciaGob/sta\u2026"
+    },
+    "quoted_status": {
+      "created_at": "Thu Jan 14 12:54:05 +0000 2021",
+      "id": 1349701319796404226,
+      "id_str": "1349701319796404226",
+      "full_text": "\ud83d\udcca Espa\u00f1a se sit\u00faa como uno de los pa\u00edses con mayor n\u00famero de contribuciones en publicaciones cient\u00edficas relacionadas con el #COVID19 en el \u00faltimo informe de la @OECD. #OECDSTIO https://t.co/QK3jSze49g",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        177
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "COVID19",
+            "indices": [
+              125,
+              133
+            ]
+          },
+          {
+            "text": "OECDSTIO",
+            "indices": [
+              168,
+              177
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OECD",
+            "name": "OECD \u27a1\ufe0f Better policies for better lives",
+            "id": 25390350,
+            "id_str": "25390350",
+            "indices": [
+              161,
+              166
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QK3jSze49g",
+            "expanded_url": "https://twitter.com/OECD/status/1349356037980221441",
+            "display_url": "twitter.com/OECD/status/13\u2026",
+            "indices": [
+              178,
+              201
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 818776501617393665,
+        "id_str": "818776501617393665",
+        "name": "Ministerio de Ciencia e Innovaci\u00f3n",
+        "screen_name": "CienciaGob",
+        "location": "Espa\u00f1a",
+        "description": "Ministerio de \ud83d\udd2cCiencia e \ud83d\udca1Innovaci\u00f3n del Gobierno de Espa\u00f1a Spain\u2019s Ministry of Science and Innovation",
+        "url": "https://t.co/dwhqtpN5l6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/dwhqtpN5l6",
+                "expanded_url": "http://www.ciencia.gob.es/",
+                "display_url": "ciencia.gob.es",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 79995,
+        "friends_count": 995,
+        "listed_count": 866,
+        "created_at": "Tue Jan 10 11:08:24 +0000 2017",
+        "favourites_count": 3795,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 3271,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1269049921363214341/iowSLSDv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269049921363214341/iowSLSDv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818776501617393665/1610313732",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1349356037980221441,
+      "quoted_status_id_str": "1349356037980221441",
+      "quoted_status_permalink": {
+        "url": "https://t.co/QK3jSze49g",
+        "expanded": "https://twitter.com/OECD/status/1349356037980221441",
+        "display": "twitter.com/OECD/status/13\u2026"
+      },
+      "retweet_count": 150,
+      "favorite_count": 344,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    "retweet_count": 127,
+    "favorite_count": 284,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "is_quote_status": true,
+  "quoted_status_id": 1349701319796404226,
+  "quoted_status_id_str": "1349701319796404226",
+  "quoted_status_permalink": {
+    "url": "https://t.co/ABXLsvdy2S",
+    "expanded": "https://twitter.com/CienciaGob/status/1349701319796404226",
+    "display": "twitter.com/CienciaGob/sta\u2026"
+  },
+  "retweet_count": 127,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

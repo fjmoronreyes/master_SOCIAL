@@ -1,0 +1,249 @@
+{
+    "meta": {
+        "requestid": "8e9ee943b9684a3daf35d52e1ce928d3",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:49 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askWhat is the simple meaning of literature?What is literature and types?What are examples of literature?What are the 3 types of literature?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Literature",
+            "text": "Literature broadly is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially prose fiction, drama, and poetry. In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed.\u200eEnglish literature \u00b7 \u200eHistory \u00b7 \u200eOutline \u00b7 \u200eOral literature",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/Literature",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Literature",
+                    "text": "Literature - Wikipediaen.wikipedia.org \u203a wiki \u203a Literature"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://www.britannica.com/art/literature",
+            "text": "Oct 30, 2020 \u2014 Literature, a body of written works. The name has traditionally been applied to those imaginative works of poetry and prose distinguished by the\u00a0...\u200eEnglish literature \u00b7 \u200eAmerican literature \u00b7 \u200eWritings on literature \u00b7 \u200eAfrican literature",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.britannica.com/art/literature",
+            "user": {
+                "name": "www.britannica.com",
+                "url": "https:://www.britannica.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.britannica.com/art/literature",
+                    "text": "literature | Definition, Characteristics, Genres, Types, & Facts ...www.britannica.com \u203a Literature \u203a Literary Terms"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://www.thoughtco.com/what-is-literature-740531",
+            "text": "Jan 31, 2020 \u2014 Literature is a term used to describe written and sometimes spoken material. Derived from the Latin word literature meaning \"writing formed with letters,\" literature most commonly refers to works of the creative imagination, including poetry, drama, fiction, nonfiction, and in some instances, journalism, and song.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.thoughtco.com/what-is-literature-740531",
+            "user": {
+                "name": "www.thoughtco.com",
+                "url": "https:://www.thoughtco.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.thoughtco.com/what-is-literature-740531",
+                    "text": "What Literature Can Teach Us - ThoughtCowww.thoughtco.com \u203a Classic Literature \u203a Terms"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://www.merriam-webster.com/dictionary/literature",
+            "text": "Literature definition is - writings in prose or verse; especially : writings having excellence of form or expression and expressing ideas of permanent or universal\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.merriam-webster.com/dictionary/literature",
+            "user": {
+                "name": "www.merriam-webster.com",
+                "url": "https:://www.merriam-webster.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.merriam-webster.com/dictionary/literature",
+                    "text": "Literature | Definition of Literature by Merriam-Websterwww.merriam-webster.com \u203a dictionary \u203a literature"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://www.dictionary.com/browse/literature",
+            "text": "Literature definition, writings in which expression and form, in connection with ideas of permanent and universal interest, are characteristic or essential features,\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.dictionary.com/browse/literature",
+            "user": {
+                "name": "www.dictionary.com",
+                "url": "https:://www.dictionary.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.dictionary.com/browse/literature",
+                    "text": "Literature | Definition of Literature at Dictionary.comwww.dictionary.com \u203a browse \u203a literature"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://courses.lumenlearning.com/introliterature/chapter/defining-literature/",
+            "text": "Defining Literature. Literature, in its broadest sense, is any written work. Etymologically, the term derives from Latin litaritura/litteratura \u201cwriting formed with letters,\u201d\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://courses.lumenlearning.com/introliterature/chapter/defining-literature/",
+            "user": {
+                "name": "courses.lumenlearning.com",
+                "url": "https:://courses.lumenlearning.com"
+            },
+            "urls": [
+                {
+                    "url": "https://courses.lumenlearning.com/introliterature/chapter/defining-literature/",
+                    "text": "Defining Literature | Introduction to Literature - Lumen Learningcourses.lumenlearning.com \u203a introliterature \u203a chapter"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://www.ancient.eu/literature/",
+            "text": "Sep 2, 2009 \u2014 Literature (from the Latin Littera meaning 'letters' and referring to an acquaintance with the written word) is the written work of a specific culture,\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.ancient.eu/literature/",
+            "user": {
+                "name": "www.ancient.eu",
+                "url": "https:://www.ancient.eu"
+            },
+            "urls": [
+                {
+                    "url": "https://www.ancient.eu/literature/",
+                    "text": "Literature - Ancient History Encyclopediawww.ancient.eu \u203a literature"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://www.literature.org/",
+            "text": "'On this site you will find classic works of English literature. Fiction from writers like Lewis Carroll, the Bronte sisters (Anne, Charlotte...' - literature.org.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.literature.org/",
+            "user": {
+                "name": "www.literature.org",
+                "url": "https:://www.literature.org"
+            },
+            "urls": [
+                {
+                    "url": "https://www.literature.org/",
+                    "text": "Literature.orgwww.literature.org"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://writingcenter.unc.edu/tips-and-tools/literature-fiction/",
+            "text": "Literature. What this handout is about. This handout describes some steps for planning and writing papers about literary texts. For additional information on writing\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://writingcenter.unc.edu/tips-and-tools/literature-fiction/",
+            "user": {
+                "name": "writingcenter.unc.edu",
+                "url": "https:://writingcenter.unc.edu"
+            },
+            "urls": [
+                {
+                    "url": "https://writingcenter.unc.edu/tips-and-tools/literature-fiction/",
+                    "text": "Literature \u2013 The Writing Center \u2022 University of North Carolina ...writingcenter.unc.edu \u203a tips-and-tools \u203a literature-fiction"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "https://www.ted.com/topics/literature",
+            "text": "Video playlists about Literature \u00b7 Talks for lifelong readers \u00b7 The power of fiction \u00b7 Talks that inspired TED Books \u00b7 Talks for when you wish you had time to read.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.ted.com/topics/literature",
+            "user": {
+                "name": "www.ted.com",
+                "url": "https:://www.ted.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.ted.com/topics/literature",
+                    "text": "Ideas about Literature - TED Talkswww.ted.com \u203a topics \u203a literature"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:42:50 +00000",
+            "postid": "/search?q=literature&tbm=isch&source=iu&ictx=1&fir=Ix6UOnPWtPlxCM%252ClJCkUXGYN8F3mM%252C%252Fm%252F04g51&vet=1&usg=AI4_-kRna6qYYn7xcRea1tLlTBnpTS-5RA&sa=X&ved=2ahUKEwiOnsvamKXuAhWwmq0KHb5uAckQ_B16BAg1EAE#imgrc=Ix6UOnPWtPlxCM",
+            "text": "Feedback",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=literature&tbm=isch&source=iu&ictx=1&fir=Ix6UOnPWtPlxCM%252ClJCkUXGYN8F3mM%252C%252Fm%252F04g51&vet=1&usg=AI4_-kRna6qYYn7xcRea1tLlTBnpTS-5RA&sa=X&ved=2ahUKEwiOnsvamKXuAhWwmq0KHb5uAckQ_B16BAg1EAE#imgrc=Ix6UOnPWtPlxCM",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=literature&tbm=isch&source=iu&ictx=1&fir=Ix6UOnPWtPlxCM%252ClJCkUXGYN8F3mM%252C%252Fm%252F04g51&vet=1&usg=AI4_-kRna6qYYn7xcRea1tLlTBnpTS-5RA&sa=X&ved=2ahUKEwiOnsvamKXuAhWwmq0KHb5uAckQ_B16BAg1EAE#imgrc=Ix6UOnPWtPlxCM",
+                    "text": "ImagesMore imagesLiterature"
+                }
+            ]
+        }
+    ]
+}

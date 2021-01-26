@@ -1,0 +1,291 @@
+{
+  "created_at": "Thu Jan 14 00:20:44 +0000 2021",
+  "id": 1349511731622670336,
+  "id_str": "1349511731622670336",
+  "full_text": "RT @hora25: \ud83d\udd34 DIRECTO | Hablamos del Efecto Matilda: el prejuicio que hace que no nos enteremos de los logros de las mujeres cient\u00edficas, c\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "hora25",
+        "name": "Hora 25",
+        "id": 14814402,
+        "id_str": "14814402",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92415862,
+    "id_str": "92415862",
+    "name": "Rosa Montero",
+    "screen_name": "BrunaHusky",
+    "location": "Madrid",
+    "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj",
+    "url": "https://t.co/BNS4CN8yJd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/BNS4CN8yJd",
+            "expanded_url": "http://www.rosamontero.es",
+            "display_url": "rosamontero.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/Hl9mM9RSIj",
+            "expanded_url": "http://bit.ly/3l13Ck3",
+            "display_url": "bit.ly/3l13Ck3",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164036,
+    "friends_count": 600,
+    "listed_count": 1463,
+    "created_at": "Wed Nov 25 01:17:12 +0000 2009",
+    "favourites_count": 70939,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 35286,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/92415862/1597906940",
+    "profile_link_color": "598AEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 13 20:07:00 +0000 2021",
+    "id": 1349447877911867393,
+    "id_str": "1349447877911867393",
+    "full_text": "\ud83d\udd34 DIRECTO | Hablamos del Efecto Matilda: el prejuicio que hace que no nos enteremos de los logros de las mujeres cient\u00edficas, con @cfenoll_UCLM de @twitamit_es y @NoMoreMatildas, @BrunaHusky y @ClaraGrima en @hora25 con @PepaBueno https://t.co/1G3ZFzK0yP",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      254
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "cfenoll_UCLM",
+          "name": "Carmen Fenoll",
+          "id": 885272605,
+          "id_str": "885272605",
+          "indices": [
+            130,
+            143
+          ]
+        },
+        {
+          "screen_name": "twitamit_es",
+          "name": "AMIT",
+          "id": 1485077618,
+          "id_str": "1485077618",
+          "indices": [
+            147,
+            159
+          ]
+        },
+        {
+          "screen_name": "NoMoreMatildas",
+          "name": "NoMoreMatildas",
+          "id": 1325777314806947845,
+          "id_str": "1325777314806947845",
+          "indices": [
+            162,
+            177
+          ]
+        },
+        {
+          "screen_name": "BrunaHusky",
+          "name": "Rosa Montero",
+          "id": 92415862,
+          "id_str": "92415862",
+          "indices": [
+            179,
+            190
+          ]
+        },
+        {
+          "screen_name": "ClaraGrima",
+          "name": "Clara Grima",
+          "id": 108099486,
+          "id_str": "108099486",
+          "indices": [
+            193,
+            204
+          ]
+        },
+        {
+          "screen_name": "hora25",
+          "name": "Hora 25",
+          "id": 14814402,
+          "id_str": "14814402",
+          "indices": [
+            208,
+            215
+          ]
+        },
+        {
+          "screen_name": "PepaBueno",
+          "name": "Pepa Bueno",
+          "id": 796684728,
+          "id_str": "796684728",
+          "indices": [
+            220,
+            230
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1G3ZFzK0yP",
+          "expanded_url": "https://twitter.com/i/broadcasts/1lPKqXzbgpAxb",
+          "display_url": "twitter.com/i/broadcasts/1\u2026",
+          "indices": [
+            231,
+            254
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14814402,
+      "id_str": "14814402",
+      "name": "Hora 25",
+      "screen_name": "hora25",
+      "location": "",
+      "description": "De lunes a viernes, de 20:00 a 23:30h en la @La_SER, con @PepaBueno. M\u00e1ndanos tus notas de voz al \ud83d\udcde 638 77 47 43",
+      "url": "https://t.co/WISqzaCmqD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/WISqzaCmqD",
+              "expanded_url": "http://www.hora25.es",
+              "display_url": "hora25.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 156522,
+      "friends_count": 872,
+      "listed_count": 1936,
+      "created_at": "Sat May 17 20:35:48 +0000 2008",
+      "favourites_count": 1250,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 24957,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1048217047354753025/g9Q6tW7i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048217047354753025/g9Q6tW7i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14814402/1567369690",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 115,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "is_quote_status": false,
+  "retweet_count": 41,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

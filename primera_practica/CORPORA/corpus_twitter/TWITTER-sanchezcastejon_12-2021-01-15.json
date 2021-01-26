@@ -1,0 +1,425 @@
+{
+  "created_at": "Wed Jan 13 11:25:05 +0000 2021",
+  "id": 1349316535660269569,
+  "id_str": "1349316535660269569",
+  "full_text": "RT @desdelamoncloa: El PG, @sanchezcastejon, preside esta ma\u00f1ana una nueva reuni\u00f3n del CECOD donde se analizan la situaci\u00f3n actual y previs\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "desdelamoncloa",
+        "name": "La Moncloa",
+        "id": 58417540,
+        "id_str": "58417540",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "sanchezcastejon",
+        "name": "Pedro S\u00e1nchez",
+        "id": 68740712,
+        "id_str": "68740712",
+        "indices": [
+          27,
+          43
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68740712,
+    "id_str": "68740712",
+    "name": "Pedro S\u00e1nchez",
+    "screen_name": "sanchezcastejon",
+    "location": "",
+    "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+    "url": "https://t.co/f7tJrIKtIo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/f7tJrIKtIo",
+            "expanded_url": "http://www.lamoncloa.gob.es",
+            "display_url": "lamoncloa.gob.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1536955,
+    "friends_count": 6038,
+    "listed_count": 5920,
+    "created_at": "Tue Aug 25 16:45:56 +0000 2009",
+    "favourites_count": 4536,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 28687,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "94D487",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68740712/1610312124",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Wed Jan 13 11:16:51 +0000 2021",
+    "id": 1349314463791534080,
+    "id_str": "1349314463791534080",
+    "full_text": "El PG, @sanchezcastejon, preside esta ma\u00f1ana una nueva reuni\u00f3n del CECOD donde se analizan la situaci\u00f3n actual y previsiones ante la #OlaDeFr\u00edo.\n\nTras ella, recorrer\u00e1 las instalaciones de @proteccioncivil desde las que se est\u00e1n coordinando las actuaciones de las administraciones. https://t.co/Rnna6Z4v8G",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OlaDeFr\u00edo",
+          "indices": [
+            133,
+            143
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sanchezcastejon",
+          "name": "Pedro S\u00e1nchez",
+          "id": 68740712,
+          "id_str": "68740712",
+          "indices": [
+            7,
+            23
+          ]
+        },
+        {
+          "screen_name": "proteccioncivil",
+          "name": "DG Protecci\u00f3n Civil y Emergencias. Espa\u00f1a",
+          "id": 1065544873145769984,
+          "id_str": "1065544873145769984",
+          "indices": [
+            188,
+            204
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1349313723173916674,
+          "id_str": "1349313723173916674",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/Erm5rqhXUAIbJAQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Erm5rqhXUAIbJAQ.jpg",
+          "url": "https://t.co/Rnna6Z4v8G",
+          "display_url": "pic.twitter.com/Rnna6Z4v8G",
+          "expanded_url": "https://twitter.com/desdelamoncloa/status/1349314463791534080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1349313723173916674,
+          "id_str": "1349313723173916674",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/Erm5rqhXUAIbJAQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Erm5rqhXUAIbJAQ.jpg",
+          "url": "https://t.co/Rnna6Z4v8G",
+          "display_url": "pic.twitter.com/Rnna6Z4v8G",
+          "expanded_url": "https://twitter.com/desdelamoncloa/status/1349314463791534080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1349313733022126080,
+          "id_str": "1349313733022126080",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/Erm5sPNXEAAi-0T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Erm5sPNXEAAi-0T.jpg",
+          "url": "https://t.co/Rnna6Z4v8G",
+          "display_url": "pic.twitter.com/Rnna6Z4v8G",
+          "expanded_url": "https://twitter.com/desdelamoncloa/status/1349314463791534080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1349313740357951488,
+          "id_str": "1349313740357951488",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/Erm5sqiW4AAjo-J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Erm5sqiW4AAjo-J.jpg",
+          "url": "https://t.co/Rnna6Z4v8G",
+          "display_url": "pic.twitter.com/Rnna6Z4v8G",
+          "expanded_url": "https://twitter.com/desdelamoncloa/status/1349314463791534080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1349313747932868611,
+          "id_str": "1349313747932868611",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/Erm5tGwW8AMQMtJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Erm5tGwW8AMQMtJ.jpg",
+          "url": "https://t.co/Rnna6Z4v8G",
+          "display_url": "pic.twitter.com/Rnna6Z4v8G",
+          "expanded_url": "https://twitter.com/desdelamoncloa/status/1349314463791534080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 58417540,
+      "id_str": "58417540",
+      "name": "La Moncloa",
+      "screen_name": "desdelamoncloa",
+      "location": "Madrid (Spain)",
+      "description": "Bienvenidos a la cuenta oficial en Twitter del Gobierno de #Espa\u00f1a \ud83c\uddea\ud83c\uddf8\n\n#YoMeVacuno",
+      "url": "https://t.co/f7tJrJ24zW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/f7tJrJ24zW",
+              "expanded_url": "http://www.lamoncloa.gob.es",
+              "display_url": "lamoncloa.gob.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 753724,
+      "friends_count": 188,
+      "listed_count": 6347,
+      "created_at": "Mon Jul 20 07:32:11 +0000 2009",
+      "favourites_count": 1011,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 44309,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269184892363059200/lnAwzO-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269184892363059200/lnAwzO-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/58417540/1610312036",
+      "profile_link_color": "185F93",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 124,
+    "favorite_count": 267,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "is_quote_status": false,
+  "retweet_count": 124,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

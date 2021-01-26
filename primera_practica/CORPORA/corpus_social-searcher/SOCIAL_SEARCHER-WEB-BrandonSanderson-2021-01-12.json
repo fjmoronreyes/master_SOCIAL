@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "requestid": "13041097a05a4d80999567b1c17d00cd",
+    "http_code": 200,
+    "network": "web",
+    "query_type": "realtime",
+    "limit": 20,
+    "page": 0
+  },
+  "posts": [
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:26:27 +00000",
+      "postid": "https://www.brandonsanderson.com/",
+      "text": "Dawnshard is Out! Dawnshard is Out! Adam here. The long-anticipated novella is finally out today! For those of you who haven't been following Brandon on social\u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "neutral",
+      "url": "https://www.brandonsanderson.com/",
+      "user": {
+        "name": "www.brandonsanderson.com",
+        "url": "https:://www.brandonsanderson.com"
+      },
+      "urls": [
+        {
+          "url": "https://www.brandonsanderson.com/",
+          "text": "Brandon Sanderson: Home"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:26:27 +00000",
+      "postid": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+      "text": "Brandon Sanderson (born December 19, 1975) is an American author of epic fantasy and science fiction. He is best known for the Cosmere fictional universe,\u00a0...Genre: Fantasy, \u200escience fiction\u200eNotable works: Mistborn; \u200eThe Stormlight Archiv...\u200eBorn: December 19, 1975 (age 45); Lincoln, N...\u200eChildren: 3\u200eLife and career \u00b7 \u200eCosmere \u00b7 \u200eSanderson's Laws of Magic",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "positive",
+      "url": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+      "user": {
+        "name": "en.wikipedia.org",
+        "url": "https:://en.wikipedia.org"
+      },
+      "urls": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Brandon_Sanderson",
+          "text": "Brandon Sanderson - Wikipedia"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:26:27 +00000",
+      "postid": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+      "text": "Brandon Sanderson was born in 1975 in Lincoln, Nebraska. As a child Brandon enjoyed reading, but he lost interest in the types of titles often\u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "neutral",
+      "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+      "user": {
+        "name": "www.goodreads.com",
+        "url": "https:://www.goodreads.com"
+      },
+      "urls": [
+        {
+          "url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+          "text": "Brandon Sanderson (Author of The Final Empire) - Goodreads"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:26:27 +00000",
+      "postid": "https://www.youtube.com/channel/UC3g-w83Cb5pEAu5UmRrge-A",
+      "text": "I'm Brandon Sanderson, and I write stories of the fantastic: fantasy, science fiction, and thrillers.",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "positive",
+      "url": "https://www.youtube.com/channel/UC3g-w83Cb5pEAu5UmRrge-A",
+      "user": {
+        "name": "www.youtube.com",
+        "url": "https:://www.youtube.com"
+      },
+      "urls": [
+        {
+          "url": "https://www.youtube.com/channel/UC3g-w83Cb5pEAu5UmRrge-A",
+          "text": "Brandon Sanderson - YouTube"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:26:27 +00000",
+      "postid": "https://www.amazon.com/Brandon-Sanderson/e/B001IGFHW6",
+      "text": "From #1 New York Times bestselling author Brandon Sanderson, the Mistborn series is a heist story of political intrigue and magical, martial-arts action. Who is the\u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "neutral",
+      "url": "https://www.amazon.com/Brandon-Sanderson/e/B001IGFHW6",
+      "user": {
+        "name": "www.amazon.com",
+        "url": "https:://www.amazon.com"
+      },
+      "urls": [
+        {
+          "url": "https://www.amazon.com/Brandon-Sanderson/e/B001IGFHW6",
+          "text": "Brandon Sanderson - Amazon.com"
+        }
+      ]
+    }
+  ]
+}

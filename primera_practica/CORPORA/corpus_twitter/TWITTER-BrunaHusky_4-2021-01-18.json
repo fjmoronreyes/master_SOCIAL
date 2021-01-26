@@ -1,0 +1,248 @@
+{
+  "created_at": "Fri Jan 15 23:53:18 +0000 2021",
+  "id": 1350229602971615240,
+  "id_str": "1350229602971615240",
+  "full_text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f https://t.co/CKCxXcR0TM",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    6
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/CKCxXcR0TM",
+        "expanded_url": "https://twitter.com/homeopodcast/status/1350214882864586752",
+        "display_url": "twitter.com/homeopodcast/s\u2026",
+        "indices": [
+          7,
+          30
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 92415862,
+    "id_str": "92415862",
+    "name": "Rosa Montero",
+    "screen_name": "BrunaHusky",
+    "location": "Madrid",
+    "description": "Twitter oficial. Escritora, periodista, animalista, superviviente (\u00a1por ahora!). \u00daltima novela: 'La buena suerte' https://t.co/Hl9mM9RSIj",
+    "url": "https://t.co/BNS4CN8yJd",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/BNS4CN8yJd",
+            "expanded_url": "http://www.rosamontero.es",
+            "display_url": "rosamontero.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/Hl9mM9RSIj",
+            "expanded_url": "http://bit.ly/3l13Ck3",
+            "display_url": "bit.ly/3l13Ck3",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 164036,
+    "friends_count": 600,
+    "listed_count": 1463,
+    "created_at": "Wed Nov 25 01:17:12 +0000 2009",
+    "favourites_count": 70939,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 35286,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772812020269903876/A3o3vEyp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/92415862/1597906940",
+    "profile_link_color": "598AEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1350214882864586752,
+  "quoted_status_id_str": "1350214882864586752",
+  "quoted_status_permalink": {
+    "url": "https://t.co/CKCxXcR0TM",
+    "expanded": "https://twitter.com/homeopodcast/status/1350214882864586752",
+    "display": "twitter.com/homeopodcast/s\u2026"
+  },
+  "quoted_status": {
+    "created_at": "Fri Jan 15 22:54:48 +0000 2021",
+    "id": 1350214882864586752,
+    "id_str": "1350214882864586752",
+    "full_text": "En el primer episodio nos tocan las despedidas y el elegido es \u201cla rid\u00edcula idea de no volver a verte\u201d de la gran @BrunaHusky. Un libro que te acompa\u00f1a en ese dolor indecible y que te lleva de paseo por la vida de Marie Curie\ud83d\udc9c\ud83d\udc47 https://t.co/99sNvGWYSn",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      251
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BrunaHusky",
+          "name": "Rosa Montero",
+          "id": 92415862,
+          "id_str": "92415862",
+          "indices": [
+            114,
+            125
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/99sNvGWYSn",
+          "expanded_url": "https://open.spotify.com/episode/3IZfDcQTuW8crJUprml99q?si=rZKZbgRvSuyQ-aqD5uL-VA",
+          "display_url": "open.spotify.com/episode/3IZfDc\u2026",
+          "indices": [
+            228,
+            251
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1350214807954337798,
+    "in_reply_to_status_id_str": "1350214807954337798",
+    "in_reply_to_user_id": 1245765599013240840,
+    "in_reply_to_user_id_str": "1245765599013240840",
+    "in_reply_to_screen_name": "HomeOPodcast",
+    "user": {
+      "id": 1245765599013240840,
+      "id_str": "1245765599013240840",
+      "name": "Home Office Podcast \ud83c\udfe0\ud83c\udf99\ud83d\ude42",
+      "screen_name": "HomeOPodcast",
+      "location": "",
+      "description": "\ud83d\udcf2Estamos en Instagram \ud83d\udc49\ud83c\udffb https://t.co/XVk4MeWnj0   \ud83c\udfa7 Pod\u00e9s escucharnos ac\u00e1\ud83d\udc47\ud83c\udffb",
+      "url": "https://t.co/2rUaRw14fc",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2rUaRw14fc",
+              "expanded_url": "https://linktr.ee/homeofficepodcast",
+              "display_url": "linktr.ee/homeofficepodc\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/XVk4MeWnj0",
+              "expanded_url": "https://instagram.com/homeofficepodcast?igshid=136i0a7yte2eo",
+              "display_url": "instagram.com/homeofficepodc\u2026",
+              "indices": [
+                25,
+                48
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 76,
+      "friends_count": 33,
+      "listed_count": 0,
+      "created_at": "Thu Apr 02 17:30:55 +0000 2020",
+      "favourites_count": 102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 176,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245765858724581378/1Yyd0_xb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245765858724581378/1Yyd0_xb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245765599013240840/1599061982",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "retweet_count": 2,
+  "favorite_count": 24,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}

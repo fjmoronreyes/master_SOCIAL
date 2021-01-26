@@ -1,0 +1,288 @@
+{
+  "created_at": "Mon Jan 11 14:52:53 +0000 2021",
+  "id": 1348644054372904962,
+  "id_str": "1348644054372904962",
+  "full_text": "RT @fpradosroa: Hemos empezado la vacunaci\u00f3n de todo el personal en el Hospital Enfermera Isabel Zendal. Un motivo m\u00e1s para felicitar al pe\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "fpradosroa",
+        "name": "Fernando Prados Roa",
+        "id": 193390532,
+        "id_str": "193390532",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 140034129,
+    "id_str": "140034129",
+    "name": "Isabel D\u00edaz Ayuso",
+    "screen_name": "IdiazAyuso",
+    "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+    "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 393316,
+    "friends_count": 10939,
+    "listed_count": 1217,
+    "created_at": "Tue May 04 11:17:06 +0000 2010",
+    "favourites_count": 13730,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 23262,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/140034129/1610019577",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Jan 10 19:38:57 +0000 2021",
+    "id": 1348353655188172801,
+    "id_str": "1348353655188172801",
+    "full_text": "Hemos empezado la vacunaci\u00f3n de todo el personal en el Hospital Enfermera Isabel Zendal. Un motivo m\u00e1s para felicitar al personal de enfermer\u00eda de este hospital. Enfermer\u00eda y vacunaci\u00f3n es Isabel Zendal. https://t.co/eMVhbqKKdP",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      203
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1348353649181925383,
+          "id_str": "1348353649181925383",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErZQgAMXIAcPTYJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErZQgAMXIAcPTYJ.jpg",
+          "url": "https://t.co/eMVhbqKKdP",
+          "display_url": "pic.twitter.com/eMVhbqKKdP",
+          "expanded_url": "https://twitter.com/fpradosroa/status/1348353655188172801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 913,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 913,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 606,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1348353649181925383,
+          "id_str": "1348353649181925383",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErZQgAMXIAcPTYJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErZQgAMXIAcPTYJ.jpg",
+          "url": "https://t.co/eMVhbqKKdP",
+          "display_url": "pic.twitter.com/eMVhbqKKdP",
+          "expanded_url": "https://twitter.com/fpradosroa/status/1348353655188172801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 913,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 913,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 606,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1348353649165135873,
+          "id_str": "1348353649165135873",
+          "indices": [
+            204,
+            227
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErZQgAIW8AEAwaw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErZQgAIW8AEAwaw.jpg",
+          "url": "https://t.co/eMVhbqKKdP",
+          "display_url": "pic.twitter.com/eMVhbqKKdP",
+          "expanded_url": "https://twitter.com/fpradosroa/status/1348353655188172801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 193390532,
+      "id_str": "193390532",
+      "name": "Fernando Prados Roa",
+      "screen_name": "fpradosroa",
+      "location": "Madrid, Espa\u00f1a",
+      "description": "M\u00e9dico de Emergencias, #especialidadMUE \ud83c\uddea\ud83c\uddf8 Coordinador General del Hospital de Emergencias Enfermera Isabel Zendal. Orgulloso de #HospitalIFEMA",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6477,
+      "friends_count": 1875,
+      "listed_count": 55,
+      "created_at": "Tue Sep 21 18:11:07 +0000 2010",
+      "favourites_count": 8401,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7707,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1259450283647696896/sePofgGJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259450283647696896/sePofgGJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/193390532/1609432532",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 256,
+    "favorite_count": 1233,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "is_quote_status": false,
+  "retweet_count": 256,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

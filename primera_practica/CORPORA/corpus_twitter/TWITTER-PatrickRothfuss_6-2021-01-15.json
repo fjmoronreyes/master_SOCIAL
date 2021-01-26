@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Jan 13 23:42:26 +0000 2021",
+  "id": 1349502093636341761,
+  "id_str": "1349502093636341761",
+  "full_text": "@travismcelroy Good idea. While nobody's looking, I can come clean and admit my favorite Beatles song is, \"I'm a believer.\"",
+  "truncated": false,
+  "display_text_range": [
+    15,
+    123
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "travismcelroy",
+        "name": "Lord Travis McElroy, The Internet's Best Friend",
+        "id": 19844987,
+        "id_str": "19844987",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1349501390431916032,
+  "in_reply_to_status_id_str": "1349501390431916032",
+  "in_reply_to_user_id": 19844987,
+  "in_reply_to_user_id_str": "19844987",
+  "in_reply_to_screen_name": "travismcelroy",
+  "user": {
+    "id": 490039192,
+    "id_str": "490039192",
+    "name": "Pat Rothfuss",
+    "screen_name": "PatrickRothfuss",
+    "location": "Wisconsin",
+    "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc",
+    "url": "https://t.co/rJ9Jhrc88E",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/rJ9Jhrc88E",
+            "expanded_url": "http://blog.patrickrothfuss.com/",
+            "display_url": "blog.patrickrothfuss.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/qJvmkq9oSc",
+            "expanded_url": "https://www.twitch.tv/patrickrothfuss",
+            "display_url": "twitch.tv/patrickrothfuss",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 273696,
+    "friends_count": 244,
+    "listed_count": 2187,
+    "created_at": "Sun Feb 12 04:57:24 +0000 2012",
+    "favourites_count": 11217,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16041,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/490039192/1390571149",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 195,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

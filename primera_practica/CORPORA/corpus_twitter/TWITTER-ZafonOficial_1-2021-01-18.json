@@ -1,0 +1,222 @@
+{
+  "created_at": "Tue Dec 29 08:47:44 +0000 2020",
+  "id": 1343841118065201153,
+  "id_str": "1343841118065201153",
+  "full_text": "#As\u00edEmpieza \u00abSin nombre\u00bb, uno de los once relatos que componen \u00abLa Ciudad de Vapor\u00bb, de Carlos Ruiz Zaf\u00f3n. Volver\u00e9is a vivir el fascinante universo de \u00abEl Cementerio de los Libros Olvidados\u00bb.\u00a0\n\n\ud83d\udd17 https://t.co/TfVQdxIItI https://t.co/kwf3mHWa9C",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    219
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "As\u00edEmpieza",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/TfVQdxIItI",
+        "expanded_url": "http://ow.ly/S5wx50CVjpO",
+        "display_url": "ow.ly/S5wx50CVjpO",
+        "indices": [
+          196,
+          219
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1343841067670663168,
+        "id_str": "1343841067670663168",
+        "indices": [
+          220,
+          243
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343841067670663168/pu/img/ZDW12bxpxOskQADd.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343841067670663168/pu/img/ZDW12bxpxOskQADd.jpg",
+        "url": "https://t.co/kwf3mHWa9C",
+        "display_url": "pic.twitter.com/kwf3mHWa9C",
+        "expanded_url": "https://twitter.com/ZafonOficial/status/1343841118065201153/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1343841067670663168,
+        "id_str": "1343841067670663168",
+        "indices": [
+          220,
+          243
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343841067670663168/pu/img/ZDW12bxpxOskQADd.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343841067670663168/pu/img/ZDW12bxpxOskQADd.jpg",
+        "url": "https://t.co/kwf3mHWa9C",
+        "display_url": "pic.twitter.com/kwf3mHWa9C",
+        "expanded_url": "https://twitter.com/ZafonOficial/status/1343841118065201153/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 33600,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1343841067670663168/pu/pl/xWrF1u1yfCHrdNXk.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1343841067670663168/pu/vid/480x270/kloUHcg3FY8RFu3k.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1343841067670663168/pu/vid/1280x720/oL7XlNEGC8SDmrTH.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1343841067670663168/pu/vid/640x360/JKLeJCKppYSa6d3h.mp4?tag=10"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 228780473,
+    "id_str": "228780473",
+    "name": "Carlos Ruiz Zaf\u00f3n",
+    "screen_name": "ZafonOficial",
+    "location": "",
+    "description": "Cuenta oficial del escritor Carlos Ruiz Zaf\u00f3n. Gestionada por Editorial Planeta.",
+    "url": "http://t.co/xCb5xYBV5l",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/xCb5xYBV5l",
+            "expanded_url": "http://www.carlosruizzafon.com",
+            "display_url": "carlosruizzafon.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 115077,
+    "friends_count": 8,
+    "listed_count": 542,
+    "created_at": "Mon Dec 20 17:17:03 +0000 2010",
+    "favourites_count": 5359,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 686,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/778168676377849856/m79mQ26I_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/778168676377849856/m79mQ26I_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/228780473/1600692498",
+    "profile_link_color": "062F56",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 41,
+  "favorite_count": 264,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

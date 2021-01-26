@@ -1,0 +1,191 @@
+{
+  "created_at": "Wed Jan 13 11:29:37 +0000 2021",
+  "id": 1349317673084182528,
+  "id_str": "1349317673084182528",
+  "full_text": "La Real Casa de Correos se convierte en un gran centro de donaci\u00f3n de sangre.\n\nPor favor, acude solo si puedes hacerlo en condiciones de seguridad. https://t.co/9KHP6wMzTB",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    147
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1349317617065095168,
+        "id_str": "1349317617065095168",
+        "indices": [
+          148,
+          171
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349317617065095168/pu/img/zqOVzbGVnV9LpXdR.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349317617065095168/pu/img/zqOVzbGVnV9LpXdR.jpg",
+        "url": "https://t.co/9KHP6wMzTB",
+        "display_url": "pic.twitter.com/9KHP6wMzTB",
+        "expanded_url": "https://twitter.com/IdiazAyuso/status/1349317673084182528/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1349317617065095168,
+        "id_str": "1349317617065095168",
+        "indices": [
+          148,
+          171
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349317617065095168/pu/img/zqOVzbGVnV9LpXdR.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349317617065095168/pu/img/zqOVzbGVnV9LpXdR.jpg",
+        "url": "https://t.co/9KHP6wMzTB",
+        "display_url": "pic.twitter.com/9KHP6wMzTB",
+        "expanded_url": "https://twitter.com/IdiazAyuso/status/1349317673084182528/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 23067,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1349317617065095168/pu/vid/1280x720/aGejjzrO967nQF7B.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1349317617065095168/pu/pl/lX1V4SKRA5xt3KYx.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1349317617065095168/pu/vid/480x270/L1MMkMpyrS-ltRYP.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1349317617065095168/pu/vid/640x360/P23IEXFzPySVg5QF.mp4?tag=10"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 140034129,
+    "id_str": "140034129",
+    "name": "Isabel D\u00edaz Ayuso",
+    "screen_name": "IdiazAyuso",
+    "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+    "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 393316,
+    "friends_count": 10939,
+    "listed_count": 1217,
+    "created_at": "Tue May 04 11:17:06 +0000 2010",
+    "favourites_count": 13730,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 23262,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/140034129/1610019577",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1049,
+  "favorite_count": 4257,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

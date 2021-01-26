@@ -1,0 +1,123 @@
+{
+  "created_at": "Mon Jan 11 20:25:30 +0000 2021",
+  "id": 1348727758235561984,
+  "id_str": "1348727758235561984",
+  "full_text": "Muchos trabajadores de @metro_madrid, @SaludMadrid o del Canal de Isabel II han doblado (y triplicado) turnos y caminado kil\u00f3metros para que @ComunidadMadrid siga funcionando.\n\nEl compromiso de nuestros trabajadores esenciales es impresionante.\n\nGracias. \nhttps://t.co/5CUBxibQjG",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    279
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "metro_madrid",
+        "name": "Metro de Madrid",
+        "id": 182764833,
+        "id_str": "182764833",
+        "indices": [
+          23,
+          36
+        ]
+      },
+      {
+        "screen_name": "SaludMadrid",
+        "name": "SaludMadrid",
+        "id": 953996688670314496,
+        "id_str": "953996688670314496",
+        "indices": [
+          38,
+          50
+        ]
+      },
+      {
+        "screen_name": "ComunidadMadrid",
+        "name": "Comunidad de Madrid",
+        "id": 122353251,
+        "id_str": "122353251",
+        "indices": [
+          141,
+          157
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/5CUBxibQjG",
+        "expanded_url": "https://www.elmundo.es/madrid/2021/01/11/5ffc6b77fc6c83bb028b4583.html",
+        "display_url": "elmundo.es/madrid/2021/01\u2026",
+        "indices": [
+          256,
+          279
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 140034129,
+    "id_str": "140034129",
+    "name": "Isabel D\u00edaz Ayuso",
+    "screen_name": "IdiazAyuso",
+    "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+    "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 393316,
+    "friends_count": 10939,
+    "listed_count": 1217,
+    "created_at": "Tue May 04 11:17:06 +0000 2010",
+    "favourites_count": 13730,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 23262,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/140034129/1610019577",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 683,
+  "favorite_count": 3591,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

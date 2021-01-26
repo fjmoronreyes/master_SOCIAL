@@ -1,0 +1,331 @@
+{
+  "created_at": "Tue Jan 12 16:00:35 +0000 2021",
+  "id": 1349023476758282244,
+  "id_str": "1349023476758282244",
+  "full_text": "RT @desdelamoncloa: Esta ma\u00f1ana han llegado a Espa\u00f1a desde B\u00e9lgica las primeras vacunas de Moderna.\n \n\ud83d\udd3835.700 dosis que ya est\u00e1n en el alma\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "desdelamoncloa",
+        "name": "La Moncloa",
+        "id": 58417540,
+        "id_str": "58417540",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68740712,
+    "id_str": "68740712",
+    "name": "Pedro S\u00e1nchez",
+    "screen_name": "sanchezcastejon",
+    "location": "",
+    "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+    "url": "https://t.co/f7tJrIKtIo",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/f7tJrIKtIo",
+            "expanded_url": "http://www.lamoncloa.gob.es",
+            "display_url": "lamoncloa.gob.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1536955,
+    "friends_count": 6038,
+    "listed_count": 5920,
+    "created_at": "Tue Aug 25 16:45:56 +0000 2009",
+    "favourites_count": 4536,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 28687,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "94D487",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68740712/1610312124",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Jan 12 13:31:36 +0000 2021",
+    "id": 1348985985913282561,
+    "id_str": "1348985985913282561",
+    "full_text": "Esta ma\u00f1ana han llegado a Espa\u00f1a desde B\u00e9lgica las primeras vacunas de Moderna.\n \n\ud83d\udd3835.700 dosis que ya est\u00e1n en el almac\u00e9n de @sanidadgob en el centro de la pen\u00ednsula y que en los pr\u00f3ximos d\u00edas ser\u00e1n distribuidas de forma equitativa entre las CC.AA.\n \n#YoMeVacuno https://t.co/4KvXjbnuXB",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      263
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "YoMeVacuno",
+          "indices": [
+            252,
+            263
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sanidadgob",
+          "name": "Ministerio de Sanidad",
+          "id": 232124120,
+          "id_str": "232124120",
+          "indices": [
+            126,
+            137
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1348971623035133953,
+          "id_str": "1348971623035133953",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/EriPMXlXAAItDAV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EriPMXlXAAItDAV.jpg",
+          "url": "https://t.co/4KvXjbnuXB",
+          "display_url": "pic.twitter.com/4KvXjbnuXB",
+          "expanded_url": "https://twitter.com/desdelamoncloa/status/1348985985913282561/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1348971623035133953,
+          "id_str": "1348971623035133953",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/media/EriPMXlXAAItDAV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EriPMXlXAAItDAV.jpg",
+          "url": "https://t.co/4KvXjbnuXB",
+          "display_url": "pic.twitter.com/4KvXjbnuXB",
+          "expanded_url": "https://twitter.com/desdelamoncloa/status/1348985985913282561/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 50120,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1348971623035133953/pl/k6WCYjA2VMCzklfW.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1348971623035133953/vid/480x270/s8dtmTNmeaQsvwBh.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1348971623035133953/vid/1280x720/N-F81TJ0WW4WXwpG.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1348971623035133953/vid/640x360/YF1cz94Sws3_UoGP.mp4?tag=13"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 58417540,
+      "id_str": "58417540",
+      "name": "La Moncloa",
+      "screen_name": "desdelamoncloa",
+      "location": "Madrid (Spain)",
+      "description": "Bienvenidos a la cuenta oficial en Twitter del Gobierno de #Espa\u00f1a \ud83c\uddea\ud83c\uddf8\n\n#YoMeVacuno",
+      "url": "https://t.co/f7tJrJ24zW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/f7tJrJ24zW",
+              "expanded_url": "http://www.lamoncloa.gob.es",
+              "display_url": "lamoncloa.gob.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 753724,
+      "friends_count": 188,
+      "listed_count": 6347,
+      "created_at": "Mon Jul 20 07:32:11 +0000 2009",
+      "favourites_count": 1011,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 44309,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269184892363059200/lnAwzO-i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269184892363059200/lnAwzO-i_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/58417540/1610312036",
+      "profile_link_color": "185F93",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 259,
+    "favorite_count": 552,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "is_quote_status": false,
+  "retweet_count": 259,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

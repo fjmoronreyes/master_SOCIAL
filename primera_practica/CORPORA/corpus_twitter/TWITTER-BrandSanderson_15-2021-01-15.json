@@ -1,0 +1,267 @@
+{
+  "created_at": "Thu Dec 10 20:13:29 +0000 2020",
+  "id": 1337128323017658369,
+  "id_str": "1337128323017658369",
+  "full_text": "RT @dragonmount: Reminder: Live Zoom chat TODAY with @BrandSanderson at 6:30 pm U.S. eastern. Details on how to join:\n\nhttps://t.co/Zq00e2E\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "dragonmount",
+        "name": "Dragonmount.com",
+        "id": 36751532,
+        "id_str": "36751532",
+        "indices": [
+          3,
+          15
+        ]
+      },
+      {
+        "screen_name": "BrandSanderson",
+        "name": "Brandon Sanderson",
+        "id": 28187205,
+        "id_str": "28187205",
+        "indices": [
+          53,
+          68
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 28187205,
+    "id_str": "28187205",
+    "name": "Brandon Sanderson",
+    "screen_name": "BrandSanderson",
+    "location": "Utah",
+    "description": "Mistborn, Reckoners, Stormlight, Evil Librarians, Warbreaker, Elantris,  and The Wheel of Time.",
+    "url": "http://t.co/Rr9oCBi21g",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/Rr9oCBi21g",
+            "expanded_url": "http://brandonsanderson.com",
+            "display_url": "brandonsanderson.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 257137,
+    "friends_count": 244,
+    "listed_count": 3215,
+    "created_at": "Wed Apr 01 20:27:55 +0000 2009",
+    "favourites_count": 295,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16386,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000679754879/96b16315892a85cbef77b4bfb237e1cf_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000679754879/96b16315892a85cbef77b4bfb237e1cf_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/28187205/1597865886",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Dec 10 15:40:51 +0000 2020",
+    "id": 1337059713050144769,
+    "id_str": "1337059713050144769",
+    "full_text": "Reminder: Live Zoom chat TODAY with @BrandSanderson at 6:30 pm U.S. eastern. Details on how to join:\n\nhttps://t.co/Zq00e2EvXy\n\n#twitteroftime #wheeloftime #brandonsanderson #stormlightarchive #mistborn",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      201
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "twitteroftime",
+          "indices": [
+            127,
+            141
+          ]
+        },
+        {
+          "text": "wheeloftime",
+          "indices": [
+            142,
+            154
+          ]
+        },
+        {
+          "text": "brandonsanderson",
+          "indices": [
+            155,
+            172
+          ]
+        },
+        {
+          "text": "stormlightarchive",
+          "indices": [
+            173,
+            191
+          ]
+        },
+        {
+          "text": "mistborn",
+          "indices": [
+            192,
+            201
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BrandSanderson",
+          "name": "Brandon Sanderson",
+          "id": 28187205,
+          "id_str": "28187205",
+          "indices": [
+            36,
+            51
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Zq00e2EvXy",
+          "expanded_url": "https://dragonmount.com/news/events/brandonsanderson2020/",
+          "display_url": "dragonmount.com/news/events/br\u2026",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36751532,
+      "id_str": "36751532",
+      "name": "Dragonmount.com",
+      "screen_name": "dragonmount",
+      "location": "Randland",
+      "description": "A Wheel of Time community. Writer Jason Denzel (@JasonDenzel), Rebecca Aslam (@PatternReading), & JordanCon chair Jennifer Liang (@JordanConInc). #twitteroftime",
+      "url": "https://t.co/LzzxbnRS00",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/LzzxbnRS00",
+              "expanded_url": "https://linktr.ee/dragonmount",
+              "display_url": "linktr.ee/dragonmount",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17904,
+      "friends_count": 236,
+      "listed_count": 383,
+      "created_at": "Thu Apr 30 19:42:51 +0000 2009",
+      "favourites_count": 1867,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9763,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1297984627294928896/77n5canB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297984627294928896/77n5canB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36751532/1598918553",
+      "profile_link_color": "8F1F1F",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 122,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 17,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,228 @@
+{
+    "meta": {
+        "requestid": "0edaa1bc33d749e288fd1a1d448796d7",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Carlos_Ruiz_Zaf%C3%B3n",
+            "text": "Carlos Ruiz Zaf\u00f3n (Spanish pronunciation: [\u02c8ka\u027elos rwi\u03b8 \u03b8a\u02c8fon]; 25 September 1964 \u2013 19 June 2020) was a Spanish novelist best known for his 2001 novel La sombra del viento (The Shadow of the Wind).Language: SpanishDied: 19 June 2020 (aged 55); Los Angeles, C...\u200ePeriod: 1994\u20132020Born: 25 September 1964; Barcelona\u200e, Spain\u200e\u200eThe Shadow of the Wind \u00b7 \u200eThe Labyrinth of Spirits \u00b7 \u200eThe Angel's Game",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/Carlos_Ruiz_Zaf%C3%B3n",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Carlos_Ruiz_Zaf%C3%B3n",
+                    "text": "Carlos Ruiz Zaf\u00f3n - Wikipediaen.wikipedia.org \u203a wiki \u203a Carlos_Ruiz_Zaf\u00f3n"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.carlosruizzafon.co.uk/",
+            "text": "Carlos Ruiz Zaf\u00f3n is the author of six novels, including the international phenomenon The Shadow of the Wind, and The Angel's Game. His work has been\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.carlosruizzafon.co.uk/",
+            "user": {
+                "name": "www.carlosruizzafon.co.uk",
+                "url": "https:://www.carlosruizzafon.co.uk"
+            },
+            "urls": [
+                {
+                    "url": "https://www.carlosruizzafon.co.uk/",
+                    "text": "Carlos Ruiz Zafon | Carlos Ruiz Zaf\u00f3n Author - Official UK sitewww.carlosruizzafon.co.uk"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.nytimes.com/2020/06/20/books/carlos-ruiz-zafon-dead.html",
+            "text": "Jun 20, 2020 \u2014 MADRID \u2014 Carlos Ruiz Zaf\u00f3n, whose mystery novel \u201cThe Shadow of the Wind\u201d became one of the best-selling Spanish books of all time, died\u00a0...Spouse: Mari Carmen Bellver",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.nytimes.com/2020/06/20/books/carlos-ruiz-zafon-dead.html",
+            "user": {
+                "name": "www.nytimes.com",
+                "url": "https:://www.nytimes.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.nytimes.com/2020/06/20/books/carlos-ruiz-zafon-dead.html",
+                    "text": "Carlos Ruiz Zaf\u00f3n, Author of 'The Shadow of the Wind,' Dies at ...www.nytimes.com \u203a books \u203a carlos-ruiz-zafon-dead"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.carlosruizzafon.com/en/carlos-ruiz-zafon.php",
+            "text": "Carlos Ruiz Zaf\u00f3n is one of the most famous and best read authors throughout the world. Carlos Ruiz Zaf\u00f3n's most recent book is The Prisoner of Heaven.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.carlosruizzafon.com/en/carlos-ruiz-zafon.php",
+            "user": {
+                "name": "www.carlosruizzafon.com",
+                "url": "https:://www.carlosruizzafon.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.carlosruizzafon.com/en/carlos-ruiz-zafon.php",
+                    "text": "Biography of Carlos Ruiz Zaf\u00f3nwww.carlosruizzafon.com \u203a carlos-ruiz-zafon"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.amazon.com/Carlos-Ruiz-Zaf%25C3%25B3n/e/B001JOSYGI%3Fref=dbs_a_mng_rwt_scns_share",
+            "text": "Carlos Ruiz Zaf\u00f3n is the author of six novels, including the international phenomenon The Shadow of the Wind. His work has been published in more than forty\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.amazon.com/Carlos-Ruiz-Zaf%25C3%25B3n/e/B001JOSYGI%3Fref=dbs_a_mng_rwt_scns_share",
+            "user": {
+                "name": "www.amazon.com",
+                "url": "https:://www.amazon.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.amazon.com/Carlos-Ruiz-Zaf%25C3%25B3n/e/B001JOSYGI%3Fref=dbs_a_mng_rwt_scns_share",
+                    "text": "Carlos Ruiz Zaf\u00f3n - Amazon.comwww.amazon.com \u203a ..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.publishersweekly.com/pw/authorpage/carlos-ruiz-zafon.html",
+            "text": "A Barcelona-born novelist based in Los Angeles, Ruiz Zafon was a finalist for the Spanish Fernando Lara de Novela award with this fifth novel. This thriller follows\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.publishersweekly.com/pw/authorpage/carlos-ruiz-zafon.html",
+            "user": {
+                "name": "www.publishersweekly.com",
+                "url": "https:://www.publishersweekly.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.publishersweekly.com/pw/authorpage/carlos-ruiz-zafon.html",
+                    "text": "Books by Carlos Ruiz Zafon and Complete Book Reviewswww.publishersweekly.com \u203a authorpage \u203a carlos-ruiz-..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.theguardian.com/books/2020/jun/19/carlos-ruiz-zafon-author-of-the-shadow-of-the-wind-dies-aged-55",
+            "text": "Jun 19, 2020 \u2014 Carlos Ruiz Zaf\u00f3n, author of The Shadow of the Wind, dies aged 55. This article is more than 6 months old. The bestselling novelist, frequently\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.theguardian.com/books/2020/jun/19/carlos-ruiz-zafon-author-of-the-shadow-of-the-wind-dies-aged-55",
+            "user": {
+                "name": "www.theguardian.com",
+                "url": "https:://www.theguardian.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.theguardian.com/books/2020/jun/19/carlos-ruiz-zafon-author-of-the-shadow-of-the-wind-dies-aged-55",
+                    "text": "Carlos Ruiz Zaf\u00f3n, author of The Shadow of the Wind, dies ...www.theguardian.com \u203a books \u203a jun \u203a carlos-ruiz-zafo..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.theguardian.com/books/2020/jun/21/carlos-ruiz-zafon-obituary",
+            "text": "Jun 21, 2020 \u2014 Carlos Ruiz Zaf\u00f3n, who has died of colon cancer aged 55, became famous with his 2001 literary thriller set in melancholy 1940s Barcelona,\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "https://www.theguardian.com/books/2020/jun/21/carlos-ruiz-zafon-obituary",
+            "user": {
+                "name": "www.theguardian.com",
+                "url": "https:://www.theguardian.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.theguardian.com/books/2020/jun/21/carlos-ruiz-zafon-obituary",
+                    "text": "Carlos Ruiz Zaf\u00f3n obituary | Fiction in translation | The Guardianwww.theguardian.com \u203a books \u203a jun \u203a carlos-ruiz-zafo..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "https://www.goodreads.com/author/show/815.Carlos_Ruiz_Zaf_n",
+            "text": "Carlos Ruiz Zaf\u00f3n was a Spanish novelist. Born in Barcelona in 1964, he lived in Los \u00c1ngeles, United States, since 1994, and worked as a scriptwriter aside\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.goodreads.com/author/show/815.Carlos_Ruiz_Zaf_n",
+            "user": {
+                "name": "www.goodreads.com",
+                "url": "https:://www.goodreads.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.goodreads.com/author/show/815.Carlos_Ruiz_Zaf_n",
+                    "text": "Carlos Ruiz Zaf\u00f3n (Author of The Shadow of the Wind)www.goodreads.com \u203a show \u203a 815.Carlos_Ruiz_Zaf_n"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askWhat order do you read the Cemetery of Forgotten Books?When did Carlos Ruiz Zafon die?Where was Carlos Zafon born?Who wrote Shadow of the Wind?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:13:44 +00000",
+            "postid": "/search?q=CarlosRuizZafon&tbm=isch&source=iu&ictx=1&fir=XJRqcLjQLGOjVM%252Cqtpg7A-yXe2ZaM%252C%252Fm%252F05n6fg&vet=1&usg=AI4_-kRPRBrKx3URze45wUfRDAfwmwbXjw&sa=X&ved=2ahUKEwiF3eWVkqXuAhUFYawKHYepCN0Q_B16BAgbEAE#imgrc=XJRqcLjQLGOjVM",
+            "text": "Feedback",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=CarlosRuizZafon&tbm=isch&source=iu&ictx=1&fir=XJRqcLjQLGOjVM%252Cqtpg7A-yXe2ZaM%252C%252Fm%252F05n6fg&vet=1&usg=AI4_-kRPRBrKx3URze45wUfRDAfwmwbXjw&sa=X&ved=2ahUKEwiF3eWVkqXuAhUFYawKHYepCN0Q_B16BAgbEAE#imgrc=XJRqcLjQLGOjVM",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=CarlosRuizZafon&tbm=isch&source=iu&ictx=1&fir=XJRqcLjQLGOjVM%252Cqtpg7A-yXe2ZaM%252C%252Fm%252F05n6fg&vet=1&usg=AI4_-kRPRBrKx3URze45wUfRDAfwmwbXjw&sa=X&ved=2ahUKEwiF3eWVkqXuAhUFYawKHYepCN0Q_B16BAgbEAE#imgrc=XJRqcLjQLGOjVM",
+                    "text": "ImagesMore imagesCarlos Ruiz Zaf\u00f3nSpanish novelist"
+                }
+            ]
+        }
+    ]
+}

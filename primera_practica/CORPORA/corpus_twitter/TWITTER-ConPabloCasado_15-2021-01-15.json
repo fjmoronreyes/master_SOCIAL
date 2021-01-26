@@ -1,0 +1,294 @@
+{
+  "created_at": "Sun Apr 21 08:39:03 +0000 2019",
+  "id": 1119883229987778561,
+  "id_str": "1119883229987778561",
+  "full_text": "RT @jaimedeolano: Muchas gracias a Suso Varela y @lavozdegalicia por la entrevista de hoy.\n\n\ud83d\udc49A Lugo, a Galicia, no le interesa un gobierno\u2026",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jaimedeolano",
+        "name": "\u26ab\ufe0f Jaime de Olano",
+        "id": 1637483929,
+        "id_str": "1637483929",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "lavozdegalicia",
+        "name": "La Voz de Galicia",
+        "id": 38640768,
+        "id_str": "38640768",
+        "indices": [
+          49,
+          64
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1005052063921909760,
+    "id_str": "1005052063921909760",
+    "name": "Casado Presidente PP",
+    "screen_name": "ConPabloCasado",
+    "location": "",
+    "description": "Cuenta de Twitter de @pablocasado_ para apoyar al Presidente del  @PPopular Para una Espa\u00f1a mejor. #Ilusi\u00f3nPorElFuturo  @PabloCasadoPPG",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2227,
+    "friends_count": 1378,
+    "listed_count": 3,
+    "created_at": "Fri Jun 08 11:40:59 +0000 2018",
+    "favourites_count": 4519,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 14531,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1042741847368577025/02-xFIns_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042741847368577025/02-xFIns_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005052063921909760/1537444078",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Sun Apr 21 08:20:55 +0000 2019",
+    "id": 1119878667633659904,
+    "id_str": "1119878667633659904",
+    "full_text": "Muchas gracias a Suso Varela y @lavozdegalicia por la entrevista de hoy.\n\n\ud83d\udc49A Lugo, a Galicia, no le interesa un gobierno de S\u00e1nchez que destruye empleo, nos quita inversiones, pone en riesgo Alcoa, no cree en el rural..\n\n\ud83d\udc49S\u00famate a @pablocasado_un #ValorSeguro para Galicia. https://t.co/81RfyoiUtr",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      273
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ValorSeguro",
+          "indices": [
+            247,
+            259
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "lavozdegalicia",
+          "name": "La Voz de Galicia",
+          "id": 38640768,
+          "id_str": "38640768",
+          "indices": [
+            31,
+            46
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1119878661023383552,
+          "id_str": "1119878661023383552",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4qbtXXWwAAnnHo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4qbtXXWwAAnnHo.jpg",
+          "url": "https://t.co/81RfyoiUtr",
+          "display_url": "pic.twitter.com/81RfyoiUtr",
+          "expanded_url": "https://twitter.com/jaimedeolano/status/1119878667633659904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1031,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1031,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1119878661023383552,
+          "id_str": "1119878661023383552",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4qbtXXWwAAnnHo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4qbtXXWwAAnnHo.jpg",
+          "url": "https://t.co/81RfyoiUtr",
+          "display_url": "pic.twitter.com/81RfyoiUtr",
+          "expanded_url": "https://twitter.com/jaimedeolano/status/1119878667633659904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1031,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1031,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1637483929,
+      "id_str": "1637483929",
+      "name": "\u26ab\ufe0f Jaime de Olano",
+      "screen_name": "jaimedeolano",
+      "location": "",
+      "description": "Diputado por Lugo @GPPopular Vicesecretario Nacional de Participaci\u00f3n \ud83c\udd7f\ufe0f\ud83c\udd7f\ufe0f Abogado. Gallego, por lo tanto, espa\u00f1ol. Instagram: jaimedeolanopp \ud83d\udc4d",
+      "url": "https://t.co/dIyXNg5zDH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/dIyXNg5zDH",
+              "expanded_url": "http://www.gppopular.es/",
+              "display_url": "gppopular.es",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14687,
+      "friends_count": 1711,
+      "listed_count": 204,
+      "created_at": "Thu Aug 01 08:16:29 +0000 2013",
+      "favourites_count": 91017,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 141031,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347877209017610244/wN5TmDqq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347877209017610244/wN5TmDqq_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1637483929/1595584655",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 58,
+    "favorite_count": 80,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  "is_quote_status": false,
+  "retweet_count": 58,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

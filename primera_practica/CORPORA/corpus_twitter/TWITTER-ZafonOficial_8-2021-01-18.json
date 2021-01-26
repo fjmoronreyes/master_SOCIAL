@@ -1,0 +1,219 @@
+{
+  "created_at": "Tue Nov 17 08:32:53 +0000 2020",
+  "id": 1328617088714502145,
+  "id_str": "1328617088714502145",
+  "full_text": "Hoy llega a las librer\u00edas \u00abLa Ciudad de Vapor\u00bb, de Carlos Ruiz Zaf\u00f3n.\n\nEl eco de los personajes de las novelas de El Cementerio de los Libros Olvidados en un libro que re\u00fane por primera vez todos sus relatos.\n\n\ud83d\udd17 https://t.co/sKhH6rgd7F https://t.co/hkkukBmpZs",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    235
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/sKhH6rgd7F",
+        "expanded_url": "http://ow.ly/2fDN50CmvSB",
+        "display_url": "ow.ly/2fDN50CmvSB",
+        "indices": [
+          212,
+          235
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1328616890818842625,
+        "id_str": "1328616890818842625",
+        "indices": [
+          236,
+          259
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnAyBdvXUAEPfgI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnAyBdvXUAEPfgI.jpg",
+        "url": "https://t.co/hkkukBmpZs",
+        "display_url": "pic.twitter.com/hkkukBmpZs",
+        "expanded_url": "https://twitter.com/ZafonOficial/status/1328617088714502145/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2000,
+            "h": 2000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1328616890818842625,
+        "id_str": "1328616890818842625",
+        "indices": [
+          236,
+          259
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnAyBdvXUAEPfgI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnAyBdvXUAEPfgI.jpg",
+        "url": "https://t.co/hkkukBmpZs",
+        "display_url": "pic.twitter.com/hkkukBmpZs",
+        "expanded_url": "https://twitter.com/ZafonOficial/status/1328617088714502145/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2000,
+            "h": 2000,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1328616920397058048,
+        "id_str": "1328616920397058048",
+        "indices": [
+          236,
+          259
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnAyDL7XEAAMHXJ.png",
+        "media_url_https": "https://pbs.twimg.com/media/EnAyDL7XEAAMHXJ.png",
+        "url": "https://t.co/hkkukBmpZs",
+        "display_url": "pic.twitter.com/hkkukBmpZs",
+        "expanded_url": "https://twitter.com/ZafonOficial/status/1328617088714502145/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 792,
+            "h": 788,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 677,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 792,
+            "h": 788,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 228780473,
+    "id_str": "228780473",
+    "name": "Carlos Ruiz Zaf\u00f3n",
+    "screen_name": "ZafonOficial",
+    "location": "",
+    "description": "Cuenta oficial del escritor Carlos Ruiz Zaf\u00f3n. Gestionada por Editorial Planeta.",
+    "url": "http://t.co/xCb5xYBV5l",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/xCb5xYBV5l",
+            "expanded_url": "http://www.carlosruizzafon.com",
+            "display_url": "carlosruizzafon.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 115077,
+    "friends_count": 8,
+    "listed_count": 542,
+    "created_at": "Mon Dec 20 17:17:03 +0000 2010",
+    "favourites_count": 5359,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 686,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/778168676377849856/m79mQ26I_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/778168676377849856/m79mQ26I_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/228780473/1600692498",
+    "profile_link_color": "062F56",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 257,
+  "favorite_count": 1039,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

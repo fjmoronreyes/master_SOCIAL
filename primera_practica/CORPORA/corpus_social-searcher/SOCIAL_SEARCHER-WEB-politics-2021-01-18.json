@@ -1,0 +1,190 @@
+{
+    "meta": {
+        "requestid": "eed71de8cf714ba59e3a059aa15965c6",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askWhat is the actual meaning of politics?What are the 4 types of politics?What does AP stand for in politics?What is the subject matter of political science?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Politics",
+            "text": "Politics is the set of activities that are associated with making decisions in groups, or other forms of power relations between individuals, such as the distribution\u00a0...\u200ePolitical science \u00b7 \u200ePolitical system \u00b7 \u200eLevels of politics \u00b7 \u200ePolitical values",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/Politics",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Politics",
+                    "text": "Politics - Wikipediaen.wikipedia.org \u203a wiki \u203a Politics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "https://www.npr.org/sections/politics/",
+            "text": "NPR's expanded coverage of U.S. and world politics, the latest news from Congress and the White House, and elections.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.npr.org/sections/politics/",
+            "user": {
+                "name": "www.npr.org",
+                "url": "https:://www.npr.org"
+            },
+            "urls": [
+                {
+                    "url": "https://www.npr.org/sections/politics/",
+                    "text": "Politics : NPRwww.npr.org \u203a sections \u203a politics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "https://apnews.com/hub/politics",
+            "text": "8 hours ago \u2014 News from The Associated Press, the definitive source for independent journalism from every corner of the globe.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://apnews.com/hub/politics",
+            "user": {
+                "name": "apnews.com",
+                "url": "https:://apnews.com"
+            },
+            "urls": [
+                {
+                    "url": "https://apnews.com/hub/politics",
+                    "text": "Politics - AP Newsapnews.com \u203a hub \u203a politics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "https://www.washingtonpost.com/politics/",
+            "text": "8 hours ago \u2014 Post Politics from The Washington Post is the source for political news headlines, in-depth politics coverage and political opinion, plus breaking news on the\u00a0...",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.washingtonpost.com/politics/",
+            "user": {
+                "name": "www.washingtonpost.com",
+                "url": "https:://www.washingtonpost.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.washingtonpost.com/politics/",
+                    "text": "Politics - The Washington Postwww.washingtonpost.com \u203a politics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "https://www.pbs.org/newshour/politics",
+            "text": "9 hours ago \u2014 Follow PBS NewsHour's complete coverage of politics, Congress, the Supreme court and the presidency.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.pbs.org/newshour/politics",
+            "user": {
+                "name": "www.pbs.org",
+                "url": "https:://www.pbs.org"
+            },
+            "urls": [
+                {
+                    "url": "https://www.pbs.org/newshour/politics",
+                    "text": "Politics | PBS NewsHourwww.pbs.org \u203a newshour \u203a politics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "https://www.cnn.com/politics",
+            "text": "Politics at CNN has news, opinion and analysis of American and global politics Find news and video about elections, the White House, the U.N and much more.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.cnn.com/politics",
+            "user": {
+                "name": "www.cnn.com",
+                "url": "https:://www.cnn.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.cnn.com/politics",
+                    "text": "CNNPolitics - Political News, Analysis and Opinion - CNN.comwww.cnn.com \u203a politics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "https://www.reddit.com/r/politics/",
+            "text": "5 hours ago \u2014 r/politics: /r/Politics is for news and discussion about U.S. politics.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.reddit.com/r/politics/",
+            "user": {
+                "name": "www.reddit.com",
+                "url": "https:://www.reddit.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.reddit.com/r/politics/",
+                    "text": "Politics - Redditwww.reddit.com \u203a politics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 09:43:23 +00000",
+            "postid": "/search?q=politics&stick=H4sIAAAAAAAAAONgecQ4nZFb4OWPe8JSvYyT1py8xtjGyMXnmVuQk5mcWeKSmpaZlyqkxMUSklqUKyTFxSPFUZCfk1mSmVyswSDFxQXnKXkZ2e26NO0cm4UgAxC42QQ6SGlqCXGxexb75Ccn5gja_Xp5_9TB9_ZawlwcIYkV-Xn5uZUgpQ3__7-3V2LQYmjat-IQGwsHowCDFYsSU2oezyJWuOkAM0XYfagAAAA&sa=X&ved=2ahUKEwi06pbqmKXuAhUIQ6wKHdytC8UQ6RMwJ3oECE4QAg",
+            "text": "See results aboutpoliticsDictionary definitionDictionary definition",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=politics&stick=H4sIAAAAAAAAAONgecQ4nZFb4OWPe8JSvYyT1py8xtjGyMXnmVuQk5mcWeKSmpaZlyqkxMUSklqUKyTFxSPFUZCfk1mSmVyswSDFxQXnKXkZ2e26NO0cm4UgAxC42QQ6SGlqCXGxexb75Ccn5gja_Xp5_9TB9_ZawlwcIYkV-Xn5uZUgpQ3__7-3V2LQYmjat-IQGwsHowCDFYsSU2oezyJWuOkAM0XYfagAAAA&sa=X&ved=2ahUKEwi06pbqmKXuAhUIQ6wKHdytC8UQ6RMwJ3oECE4QAg",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=politics&stick=H4sIAAAAAAAAAONgecQ4nZFb4OWPe8JSvYyT1py8xtjGyMXnmVuQk5mcWeKSmpaZlyqkxMUSklqUKyTFxSPFUZCfk1mSmVyswSDFxQXnKXkZ2e26NO0cm4UgAxC42QQ6SGlqCXGxexb75Ccn5gja_Xp5_9TB9_ZawlwcIYkV-Xn5uZUgpQ3__7-3V2LQYmjat-IQGwsHowCDFYsSU2oezyJWuOkAM0XYfagAAAA&sa=X&ved=2ahUKEwi06pbqmKXuAhUIQ6wKHdytC8UQ6RMwJ3oECE4QAg",
+                    "text": "See results aboutpoliticsDictionary definitionDictionary definition"
+                }
+            ]
+        }
+    ]
+}

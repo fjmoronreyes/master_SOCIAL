@@ -1,0 +1,169 @@
+{
+    "meta": {
+        "requestid": "e19e19cadbec400598c5a25233821f70",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:45 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Madrid",
+            "text": "Community of MadridThe Community of Madrid is one of the seventeen autonomous ...Jos\u00e9 Luis Mart\u00ednez-AlmeidaJos\u00e9 Luis Mart\u00ednez-Almeida Navasq\u00fc\u00e9s (born 17 April 1975 ...Climate of MadridMadrid and its metropolitan area has a Mediterranean climate ...Demographics of MadridIn January 2020, the municipality of Madrid, capital of Spain, had ...More results from wikipedia.org\u00a0\u00bb",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/Madrid",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Madrid",
+                    "text": "Madrid - Wikipediaen.wikipedia.org \u203a wiki \u203a Madriden.wikipedia.org \u203a wiki \u203a MadridCachedSimilarMadrid is home to two world-famous football clubs, Real Madrid and Atl\u00e9tico Madrid. Due to its economic output, high standard of living, and market size, Madrid is considered the major financial centre and the leading economic hub of the Iberian Peninsula and of Southern Europe.Country\u200e: \u200eSpainDemonym(s)\u200e: \u200eMadrilenian, Madrilene; madrile...Autonomous community\u200e: \u200eCommunity of MadridFounded\u200e: \u200e9th century"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:45 +00000",
+            "postid": "https://en.wikipedia.org/wiki/Madrid,_New_Mexico",
+            "text": "Madrid is a census-designated place (CDP) in Santa Fe County, New Mexico, United States. It is part of the Santa Fe, New Mexico Metropolitan Statistical Area.Elevation: 6,020 ft (1,835 m)Area code(s): 505County: Santa Fe",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://en.wikipedia.org/wiki/Madrid,_New_Mexico",
+            "user": {
+                "name": "en.wikipedia.org",
+                "url": "https:://en.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://en.wikipedia.org/wiki/Madrid,_New_Mexico",
+                    "text": "Madrid, New Mexico - Wikipediaen.wikipedia.org \u203a wiki \u203a Madrid,_New_Mexico"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:45 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "negative",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also askWhat should I avoid in Madrid?Is Madrid a dangerous city?Is it expensive in Madrid?What are the coldest months in Madrid Spain?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:45 +00000",
+            "postid": "https://www.esmadrid.com/en",
+            "text": "Welcome to the official city guide to Madrid, Spain. Discover the city's must-sees and check out which events are taking place during your stay.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.esmadrid.com/en",
+            "user": {
+                "name": "www.esmadrid.com",
+                "url": "https:://www.esmadrid.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.esmadrid.com/en",
+                    "text": "Turismo Madrid | Official tourism websitewww.esmadrid.com \u203a ..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:45 +00000",
+            "postid": "https://www.realmadrid.com/en",
+            "text": "Real Madrid official website with news, photos, videos and sale of tickets for the next matches. Experience of belonging to Real Madrid!Wed, Jan 20\ud83c\udfdf\u26bdAlcoyano - Real MadridSat, Jan 23\ud83c\udfdf\u26bdAlav\u00e9s - Real MadridSat, Jan 30\ud83c\udfdf\u26bdReal Madrid - Levante",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.realmadrid.com/en",
+            "user": {
+                "name": "www.realmadrid.com",
+                "url": "https:://www.realmadrid.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.realmadrid.com/en",
+                    "text": "Real Madrid CF | Official Websitewww.realmadrid.com \u203a ..."
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:46 +00000",
+            "postid": "https://www.tripadvisor.com/Tourism-g187514-Madrid-Vacations.html",
+            "text": "Madrid Tourism: Tripadvisor has 2408673 reviews of Madrid Hotels, Attractions, and Restaurants making it your best Madrid resource.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.tripadvisor.com/Tourism-g187514-Madrid-Vacations.html",
+            "user": {
+                "name": "www.tripadvisor.com",
+                "url": "https:://www.tripadvisor.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.tripadvisor.com/Tourism-g187514-Madrid-Vacations.html",
+                    "text": "Madrid 2021: Best of Madrid, Spain Tourism - Tripadvisorwww.tripadvisor.com \u203a ... \u203a Community of Madrid"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:46 +00000",
+            "postid": "/search?q=Madrid&tbm=isch&source=iu&ictx=1&fir=MO9RoohkZfWN3M%252CEFo23MjMSqal7M%252C%252Fm%252F056_y&vet=1&usg=AI4_-kSzUoJcNw1j2jM7NzB0tXrTfjcVqQ&sa=X&ved=2ahUKEwiL8fCuiKXuAhVFRa0KHQnjD98Q_B16BAgmEAE#imgrc=MO9RoohkZfWN3M",
+            "text": "FeedbackUnable to add this file. Please check that it is a valid photo.Unable to add this file. Please check that it is a valid photo.",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=Madrid&tbm=isch&source=iu&ictx=1&fir=MO9RoohkZfWN3M%252CEFo23MjMSqal7M%252C%252Fm%252F056_y&vet=1&usg=AI4_-kSzUoJcNw1j2jM7NzB0tXrTfjcVqQ&sa=X&ved=2ahUKEwiL8fCuiKXuAhVFRa0KHQnjD98Q_B16BAgmEAE#imgrc=MO9RoohkZfWN3M",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=Madrid&tbm=isch&source=iu&ictx=1&fir=MO9RoohkZfWN3M%252CEFo23MjMSqal7M%252C%252Fm%252F056_y&vet=1&usg=AI4_-kSzUoJcNw1j2jM7NzB0tXrTfjcVqQ&sa=X&ved=2ahUKEwiL8fCuiKXuAhVFRa0KHQnjD98Q_B16BAgmEAE#imgrc=MO9RoohkZfWN3M",
+                    "text": "MadridCapital of Spain "
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:29:46 +00000",
+            "postid": "/search?q=Real+Madrid+C.F.+Soccer+club&stick=H4sIAAAAAAAAAJVUz2sTQRROoMb1tYdkili3rabpD2uQpgQppagVxIpioVo9D7O7k-zo7M4yM9sYL4L_gR70Lgge_As8ePDmQQ8eRDxIVRDUg0c9WWeTKJtEI11YmHnve_N-fN-MNfQh-xWG859_vBu138Pdx89fZ98CwKYvGmdDzXQTzUCus7JhxLYqQWVxiVer8xkb4M-u9BCqp568uvcyt1zImG_txKXT9tEygr3n1UXhEl7YrpT9q5N3VsujYF0hN0QogmYhs7Nz6-fOt9VSppxZebMP8puRkFqtE-3656SII_TdgpENIjVzWURCrdAnC320oJCybXDSpB56YcFwyjqoWvu-hY5BueIKzqmrmQgrRLo-02YTS8Kx0jJOlhSLRkilQrMw3YVWiiltsmBJAxZ6BlIhnKMJsLtgDSI9bDplIaUKTcHhtNeJlbErhUVEJUlMCh2A_WkIDSIumkkBh2Ciy9FiBLNQU0mVGUsVFtP-66FocOrVKTazoNxUF2tfyCQmEjqJJhwdgdmBMb8L_O_hrk9YiIWsk5Dd7HQyD3MDY3xW97n5NVqB5YFIUasZTg0rDeoow5HCjYQqbhhAS3B8cGy6JlMhdiQJPYVW4eQu4iIpaox3JV6GpV0c0GDax60pKTQNU-lILrFqid4Yg4gaWoWhexLG_w7SlAR9Z6ST4ZqIW4JE43DwX6A-Z0RFxCmuJ3euT6hGnkx4zE0uRuxcM1aF5mCmCyLZFjGjaWKfcg8nrZhkRvM2jKVxSrgulbjdRY-mOx2aXtvq7pVQxy-UjLAhoc4cU3H7pN4sLWTH19OMagaO4DgkAcVKxNKlaiW3TjzJvO1stmRZmXx2LFPMlS50PWhbX9Z3-6DdfvroWW7IyuZTq5EHeyYuU8KL7YzFMwtrC8XN1lCKLo-dX5CxBN6QBQAA&sa=X&ved=2ahUKEwiL8fCuiKXuAhVFRa0KHQnjD98Q6RMwO3oECCQQAg",
+            "text": "See results aboutReal Madrid C.F.Soccer clubSoccer club",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=Real+Madrid+C.F.+Soccer+club&stick=H4sIAAAAAAAAAJVUz2sTQRROoMb1tYdkili3rabpD2uQpgQppagVxIpioVo9D7O7k-zo7M4yM9sYL4L_gR70Lgge_As8ePDmQQ8eRDxIVRDUg0c9WWeTKJtEI11YmHnve_N-fN-MNfQh-xWG859_vBu138Pdx89fZ98CwKYvGmdDzXQTzUCus7JhxLYqQWVxiVer8xkb4M-u9BCqp568uvcyt1zImG_txKXT9tEygr3n1UXhEl7YrpT9q5N3VsujYF0hN0QogmYhs7Nz6-fOt9VSppxZebMP8puRkFqtE-3656SII_TdgpENIjVzWURCrdAnC320oJCybXDSpB56YcFwyjqoWvu-hY5BueIKzqmrmQgrRLo-02YTS8Kx0jJOlhSLRkilQrMw3YVWiiltsmBJAxZ6BlIhnKMJsLtgDSI9bDplIaUKTcHhtNeJlbErhUVEJUlMCh2A_WkIDSIumkkBh2Ciy9FiBLNQU0mVGUsVFtP-66FocOrVKTazoNxUF2tfyCQmEjqJJhwdgdmBMb8L_O_hrk9YiIWsk5Dd7HQyD3MDY3xW97n5NVqB5YFIUasZTg0rDeoow5HCjYQqbhhAS3B8cGy6JlMhdiQJPYVW4eQu4iIpaox3JV6GpV0c0GDax60pKTQNU-lILrFqid4Yg4gaWoWhexLG_w7SlAR9Z6ST4ZqIW4JE43DwX6A-Z0RFxCmuJ3euT6hGnkx4zE0uRuxcM1aF5mCmCyLZFjGjaWKfcg8nrZhkRvM2jKVxSrgulbjdRY-mOx2aXtvq7pVQxy-UjLAhoc4cU3H7pN4sLWTH19OMagaO4DgkAcVKxNKlaiW3TjzJvO1stmRZmXx2LFPMlS50PWhbX9Z3-6DdfvroWW7IyuZTq5EHeyYuU8KL7YzFMwtrC8XN1lCKLo-dX5CxBN6QBQAA&sa=X&ved=2ahUKEwiL8fCuiKXuAhVFRa0KHQnjD98Q6RMwO3oECCQQAg",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=Real+Madrid+C.F.+Soccer+club&stick=H4sIAAAAAAAAAJVUz2sTQRROoMb1tYdkili3rabpD2uQpgQppagVxIpioVo9D7O7k-zo7M4yM9sYL4L_gR70Lgge_As8ePDmQQ8eRDxIVRDUg0c9WWeTKJtEI11YmHnve_N-fN-MNfQh-xWG859_vBu138Pdx89fZ98CwKYvGmdDzXQTzUCus7JhxLYqQWVxiVer8xkb4M-u9BCqp568uvcyt1zImG_txKXT9tEygr3n1UXhEl7YrpT9q5N3VsujYF0hN0QogmYhs7Nz6-fOt9VSppxZebMP8puRkFqtE-3656SII_TdgpENIjVzWURCrdAnC320oJCybXDSpB56YcFwyjqoWvu-hY5BueIKzqmrmQgrRLo-02YTS8Kx0jJOlhSLRkilQrMw3YVWiiltsmBJAxZ6BlIhnKMJsLtgDSI9bDplIaUKTcHhtNeJlbErhUVEJUlMCh2A_WkIDSIumkkBh2Ciy9FiBLNQU0mVGUsVFtP-66FocOrVKTazoNxUF2tfyCQmEjqJJhwdgdmBMb8L_O_hrk9YiIWsk5Dd7HQyD3MDY3xW97n5NVqB5YFIUasZTg0rDeoow5HCjYQqbhhAS3B8cGy6JlMhdiQJPYVW4eQu4iIpaox3JV6GpV0c0GDax60pKTQNU-lILrFqid4Yg4gaWoWhexLG_w7SlAR9Z6ST4ZqIW4JE43DwX6A-Z0RFxCmuJ3euT6hGnkx4zE0uRuxcM1aF5mCmCyLZFjGjaWKfcg8nrZhkRvM2jKVxSrgulbjdRY-mOx2aXtvq7pVQxy-UjLAhoc4cU3H7pN4sLWTH19OMagaO4DgkAcVKxNKlaiW3TjzJvO1stmRZmXx2LFPMlS50PWhbX9Z3-6DdfvroWW7IyuZTq5EHeyYuU8KL7YzFMwtrC8XN1lCKLo-dX5CxBN6QBQAA&sa=X&ved=2ahUKEwiL8fCuiKXuAhVFRa0KHQnjD98Q6RMwO3oECCQQAg",
+                    "text": "See results aboutReal Madrid C.F.Soccer clubSoccer club"
+                }
+            ]
+        }
+    ]
+}

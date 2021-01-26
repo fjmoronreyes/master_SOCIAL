@@ -1,0 +1,1663 @@
+{
+    "posts": [
+        {
+            "text": "RT @eossoriocrespo: La plataforma educativa digital de la @ComunidadMadrid, Educamadrid, fue ayer la cuarta web de Espa\u00f1a por n\u00famero de p\u00e1ginas servidas, solo superada por Google, YouTube y Facebook. https://t.co/T24tzdoyVp",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349806083926335490",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349806083926335490",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                },
+                {
+                    "url": "https://twitter.com/eossoriocrespo",
+                    "text": "eossoriocrespo"
+                }
+            ],
+            "posted": "2021-01-14 19:50:23",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Los padres y profesores del colegio Valdefuentes, en Sanchinarro, est\u00e1n haciendo turnos para quitar la nieve y el hielo y que el lunes puedan empezar las clases.  En situaciones excepcionales, la colaboraci\u00f3n de todos es maravillosa.   Felicidades a todo el colegio. https://t.co/gsxFIoUyrn",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349774817378111489",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349774817378111489",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/Ertc_RmXIAAvgSQ.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 738
+                },
+                {
+                    "name": "likes",
+                    "count": 3861
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 17:46:08",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Nunca se hab\u00eda visto semejante campa\u00f1a de desprestigio contra un hospital p\u00fablico.   El Zendal est\u00e1 dotado con los mejores recursos t\u00e9cnicos y humanos y ya es el centro que alberga m\u00e1s pacientes COVID de toda la Comunidad de Madrid.  Basta de bulos. https://t.co/ofyGTl90Pm",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349740431597330432",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349740431597330432",
+            "tags": [],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349740322092421120/pu/img/rs_KhGBNTSo2CTQZ.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2631
+                },
+                {
+                    "name": "likes",
+                    "count": 7701
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 15:29:30",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Propondremos al Gobierno de Espa\u00f1a que toda la Comunidad de Madrid sea declarada zona catastr\u00f3fica.  La regi\u00f3n est\u00e1 gravemente afectada y muchos servicios p\u00fablicos esenciales se han visto paralizados.   Cumplimos con los requisitos legales para acogernos a esta declaraci\u00f3n. https://t.co/a09g4PZv8X",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349691440885071881",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349691440885071881",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErsRNOTXIAEFVIm.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 711
+                },
+                {
+                    "name": "likes",
+                    "count": 2646
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 12:14:50",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Ofertamos la mayor convocatoria de empleo de la historia para la educaci\u00f3n p\u00fablica: 3.700 plazas, incluidos inspectores educativos.  Es la gran oportunidad para todos aquellos profesores que ahora refuerzan excepcionalmente nuestra Educaci\u00f3n con motivo de la pandemia. https://t.co/ql39BtzEIQ",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349666052553240577",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349666052553240577",
+            "tags": [],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349665971468963841/pu/img/LMfQXANJ1a5XaJ00.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 722
+                },
+                {
+                    "name": "likes",
+                    "count": 2901
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 10:33:57",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Despejando caminos en tierra y repartiendo alimento por aire. Extraordinario trabajo de #BomberosCM y #BrigadasForestalesCM, tambi\u00e9n en las explotaciones ganaderas.  #PlanInclemenciasCM https://t.co/ZjCZC5jqu7",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349648429253853185",
+            "type": "link",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349648429253853185",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BomberosCM",
+                    "text": "BomberosCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23BrigadasForestalesCM",
+                    "text": "BrigadasForestalesCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 403
+                },
+                {
+                    "name": "likes",
+                    "count": 1760
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-14 09:23:55",
+            "urls": [
+                {
+                    "url": "https://twitter.com/112cmadrid/status/1349420774646566912",
+                    "text": "twitter.com/112cmadrid/sta\u2026",
+                    "short_url": "https://t.co/ZjCZC5jqu7"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "La Real Casa de Correos se convierte en un gran centro de donaci\u00f3n de sangre.  Por favor, acude solo si puedes hacerlo en condiciones de seguridad. https://t.co/9KHP6wMzTB",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349317673084182528",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349317673084182528",
+            "tags": [],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1349317617065095168/pu/img/zqOVzbGVnV9LpXdR.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1049
+                },
+                {
+                    "name": "likes",
+                    "count": 4257
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 11:29:37",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "A partir de ma\u00f1ana convertiremos la Real Casa de Correos en un gran centro de donaci\u00f3n de sangre.  Necesitamos aproximadamente 3.000 donaciones para llegar al nivel de reservas \u00f3ptimo.   M\u00e1s informaci\u00f3n en @Madridonasangre.  https://t.co/8HKmssVkZH",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349050684595990528",
+            "type": "link",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1349050684595990528",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1180
+                },
+                {
+                    "name": "likes",
+                    "count": 2790
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Madridonasangre",
+                    "text": "Madridonasangre"
+                }
+            ],
+            "posted": "2021-01-12 17:48:42",
+            "urls": [
+                {
+                    "url": "https://bit.ly/2LKRVRb",
+                    "text": "bit.ly/2LKRVRb",
+                    "short_url": "https://t.co/8HKmssVkZH"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Hoy @pablocasado_ ha visitado las instalaciones del @112cmadrid, donde ha conocido de primera mano todos los detalles del #PlanInclemenciasCM.  Trabajamos a contrarreloj para devolver la normalidad a la regi\u00f3n.  Gracias, una vez m\u00e1s, por estar al lado de los madrile\u00f1os. https://t.co/uwFzZpt9Bp",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348977959361781761",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348977959361781761",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/EriITVPW8AceCwP.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 258
+                },
+                {
+                    "name": "likes",
+                    "count": 1266
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/pablocasado_",
+                    "text": "pablocasado_"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-12 12:59:42",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "La declaraci\u00f3n de zona catastr\u00f3fica es imprescindible para recuperar muchas localidades que est\u00e1n muy afectadas.  Apoyaremos a cualquier alcalde, de cualquier municipio y de cualquier signo pol\u00edtico que lo solicite.  @ComunidadMadrid est\u00e1 con ellos.  #PlanInclemenciasCM",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1348932961362702337",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348932961362702337",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1361
+                },
+                {
+                    "name": "likes",
+                    "count": 5216
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                }
+            ],
+            "posted": "2021-01-12 10:00:54",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "El hist\u00f3rico pabell\u00f3n \u201cLa Nevera\u201d del IES Ramiro de Maeztu ha sufrido el desplome de su cubierta por el peso de la nieve acumulada.   Vamos a demolerlo de inmediato y lo reconstruiremos para recuperar lo antes posible uno de los iconos del baloncesto madrile\u00f1o. https://t.co/8uWz264O4a",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348922417624846339",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348922417624846339",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErhVyWSXYAE9Vm0.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 610
+                },
+                {
+                    "name": "likes",
+                    "count": 3079
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-12 09:19:00",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Muchos trabajadores de @metro_madrid, @SaludMadrid o del Canal de Isabel II han doblado (y triplicado) turnos y caminado kil\u00f3metros para que @ComunidadMadrid siga funcionando.  El compromiso de nuestros trabajadores esenciales es impresionante.  Gracias.  https://t.co/5CUBxibQjG",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348727758235561984",
+            "type": "link",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348727758235561984",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 683
+                },
+                {
+                    "name": "likes",
+                    "count": 3591
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/metro_madrid",
+                    "text": "metro_madrid"
+                },
+                {
+                    "url": "https://twitter.com/SaludMadrid",
+                    "text": "SaludMadrid"
+                },
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                }
+            ],
+            "posted": "2021-01-11 20:25:30",
+            "urls": [
+                {
+                    "url": "https://www.elmundo.es/madrid/2021/01/11/5ffc6b77fc6c83bb028b4583.html",
+                    "text": "elmundo.es/madrid/2021/01\u2026",
+                    "short_url": "https://t.co/5CUBxibQjG"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "La Escuela municipal de Hosteler\u00eda Santa Eugenia vuelve a ser un ejemplo de solidaridad.  Preparar\u00e1n 7.000 men\u00fas para sanitarios, personal de emergencias y personas vulnerables de Villa de Vallecas.  Extraordinario trabajo de Pepa @QuencodePepa y @WCKitchen del @chefjoseandres. https://t.co/m8Z3vuIKsT",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348694777739489282",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348694777739489282",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/EreGwCUXIAcCOYU.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 356
+                },
+                {
+                    "name": "likes",
+                    "count": 1582
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/QuencodePepa",
+                    "text": "QuencodePepa"
+                },
+                {
+                    "url": "https://twitter.com/WCKitchen",
+                    "text": "WCKitchen"
+                },
+                {
+                    "url": "https://twitter.com/chefjoseandres",
+                    "text": "chefjoseandres"
+                }
+            ],
+            "posted": "2021-01-11 18:14:27",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "\ud83d\udd34 Suspendemos todas las clases presenciales en la Comunidad de Madrid hasta el lunes 18. Ser\u00e1n telem\u00e1ticas desde este mi\u00e9rcoles 13.  Es necesario arreglar desperfectos y garantizar una vuelta segura a las aulas tras el temporal de nieve y fr\u00edo.",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348676071470862336",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348676071470862336",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 3498
+                },
+                {
+                    "name": "likes",
+                    "count": 11237
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 17:00:07",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @fpradosroa: Hemos empezado la vacunaci\u00f3n de todo el personal en el Hospital Enfermera Isabel Zendal. Un motivo m\u00e1s para felicitar al personal de enfermer\u00eda de este hospital. Enfermer\u00eda y vacunaci\u00f3n es Isabel Zendal. https://t.co/eMVhbqKKdP",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348644054372904962",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348644054372904962",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/fpradosroa",
+                    "text": "fpradosroa"
+                }
+            ],
+            "posted": "2021-01-11 14:52:53",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: Un helic\u00f3ptero sanitario del #SUMMA112 ha atendido y trasladado a un paciente con COVID positivo.   Ha aterrizado en la plaza de toros de #CadalsodelosVidrios para recoger al paciente y trasladarlo al hospital de #Alcorc\u00f3n.  #ASEM https://t.co/ftNMeQE0kI",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348636533839040518",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348636533839040518",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23SUMMA112",
+                    "text": "SUMMA112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23CadalsodelosVidrios",
+                    "text": "CadalsodelosVidrios"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Alcorc\u00f3n",
+                    "text": "Alcorc\u00f3n"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM",
+                    "text": "ASEM"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-11 14:23:00",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "La Comunidad de Madrid est\u00e1 con sus 179 municipios y apoyaremos a los alcaldes que soliciten para su localidad la declaraci\u00f3n de zona catastr\u00f3fica.  Los da\u00f1os son enormes y vamos a pelear juntos esas ayudas.  #PlanInclemenciasCM https://t.co/vMIUqNfSL3",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1348584209254932480",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348584209254932480",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1348584112349712386/pu/img/IjXKEGbQW6vho1_2.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 836
+                },
+                {
+                    "name": "likes",
+                    "count": 3156
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-11 10:55:05",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "@ACOM_es \u00a1Cu\u00e1nto os hemos echado de menos! \u00a1Cu\u00e1nto te vamos a a\u00f1orar!",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348568366236246016",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348568366236246016",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 8
+                },
+                {
+                    "name": "likes",
+                    "count": 70
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/ACOM_es",
+                    "text": "ACOM_es"
+                }
+            ],
+            "posted": "2021-01-11 09:52:08",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @112cmadrid: \ud83d\udea8 Reuni\u00f3n del Comit\u00e9 Asesor del #PlanInclemenciasCM para evaluar la situaci\u00f3n de \u00faltima hora y seguir planificando los trabajos a realizar durante la jornada. Preside @IdiazAyuso.   #Madrid112  #ASEM112 https://t.co/Ke0O9sKImO",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348552111546626049",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348552111546626049",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Madrid112",
+                    "text": "Madrid112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23ASEM112",
+                    "text": "ASEM112"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/IdiazAyuso",
+                    "text": "IdiazAyuso"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-11 08:47:32",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Quiero reconocer el extraordinario trabajo de #AgentesForestalesCM, @guardiacivil, polic\u00edas locales, @proteccioncivil, @CruzRojaEsp, @UMEgob, @policia, operadores del @112cmadrid, sanitarios, #SUMMA112, @metro_madrid y #BomberosCM.  En nombre de todos los madrile\u00f1os: GRACIAS. https://t.co/iOd26IJB5F",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348380095233327106",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348380095233327106",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23AgentesForestalesCM",
+                    "text": "AgentesForestalesCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23SUMMA112",
+                    "text": "SUMMA112"
+                },
+                {
+                    "url": "http://twitter.com/search/%23BomberosCM",
+                    "text": "BomberosCM"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/ErZojCHXUAI52sd.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 944
+                },
+                {
+                    "name": "likes",
+                    "count": 4974
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/guardiacivil",
+                    "text": "guardiacivil"
+                },
+                {
+                    "url": "https://twitter.com/proteccioncivil",
+                    "text": "proteccioncivil"
+                },
+                {
+                    "url": "https://twitter.com/CruzRojaEsp",
+                    "text": "CruzRojaEsp"
+                },
+                {
+                    "url": "https://twitter.com/UMEgob",
+                    "text": "UMEgob"
+                },
+                {
+                    "url": "https://twitter.com/policia",
+                    "text": "policia"
+                },
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                },
+                {
+                    "url": "https://twitter.com/metro_madrid",
+                    "text": "metro_madrid"
+                }
+            ],
+            "posted": "2021-01-10 21:24:01",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Los #BomberosCM llevan trabajando desde el pasado d\u00eda 4 en el #PlanInclemenciasCM.   Hoy hemos supervisado juntos el estado de las principales v\u00edas de comunicaci\u00f3n. https://t.co/0jOmmb6GsI",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348371551595458560",
+            "type": "link",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348371551595458560",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BomberosCM",
+                    "text": "BomberosCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 323
+                },
+                {
+                    "name": "likes",
+                    "count": 1501
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 20:50:04",
+            "urls": [
+                {
+                    "url": "https://twitter.com/ComunidadMadrid/status/1348359744302567431",
+                    "text": "twitter.com/ComunidadMadri\u2026",
+                    "short_url": "https://t.co/0jOmmb6GsI"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Nos llegan noticias de vecinos de toda la regi\u00f3n que est\u00e1n colaborando en la retirada de nieve.   Las dificultades nos vuelven a demostrar que actuando juntos somos mejores.   Gracias. https://t.co/WvZEWylPxa",
+            "lang": "es",
+            "sentiment": "negative",
+            "network": "twitter",
+            "postid": "1348279271148695556",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348279271148695556",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErYM2VBXMAIkzq4.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1822
+                },
+                {
+                    "name": "likes",
+                    "count": 10148
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 14:43:22",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Una vez despejadas las principales v\u00edas de comunicaci\u00f3n, la prioridad es mejorar accesos a hospitales y zonas cr\u00edticas y garantizar suministros.  Es importante retirar toda la nieve posible, una tarea en la que todos podemos colaborar.   #PlanInclemenciasCM https://t.co/sM6aq6yykL",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348256417325740033",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348256417325740033",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1348256311591497728/pu/img/kj5um8VGSuCD40l5.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 777
+                },
+                {
+                    "name": "likes",
+                    "count": 3175
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 13:12:33",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "@JoseLHerranz \ud83d\udc4d\ud83d\udc4d",
+            "lang": null,
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348016024566853634",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348016024566853634",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 9
+                },
+                {
+                    "name": "likes",
+                    "count": 214
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/JoseLHerranz",
+                    "text": "JoseLHerranz"
+                }
+            ],
+            "posted": "2021-01-09 21:17:19",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Si vas a salir a jugar con la nieve o a esquiar por la calle te pedimos colaboraci\u00f3n.   Quedan horas cr\u00edticas para que esta nieve se convierta en una gran pista de hielo.    Ayuda a despejar rampas, portales y dem\u00e1s lugares transitables.  O bien, #Qu\u00e9dateEnCasa.",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348011681407004673",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1348011681407004673",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Qu\u00e9dateEnCasa",
+                    "text": "Qu\u00e9dateEnCasa"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2871
+                },
+                {
+                    "name": "likes",
+                    "count": 10911
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 21:00:04",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "@CarrefourES @CruzRojaEsp @CruzRojaMadrid @ComunidadMadrid @MADRID @BorjaFanjul @AlmeidaPP_ @ignacioaguado \u00a1Gracias @CarrefourES, @CruzRojaEsp @CruzRojaMadrid por vuestro trabajo!",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347978431540113408",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347978431540113408",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 45
+                },
+                {
+                    "name": "likes",
+                    "count": 418
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/CarrefourES",
+                    "text": "CarrefourES"
+                },
+                {
+                    "url": "https://twitter.com/CruzRojaEsp",
+                    "text": "CruzRojaEsp"
+                },
+                {
+                    "url": "https://twitter.com/CruzRojaMadrid",
+                    "text": "CruzRojaMadrid"
+                },
+                {
+                    "url": "https://twitter.com/ComunidadMadrid",
+                    "text": "ComunidadMadrid"
+                },
+                {
+                    "url": "https://twitter.com/MADRID",
+                    "text": "MADRID"
+                },
+                {
+                    "url": "https://twitter.com/BorjaFanjul",
+                    "text": "BorjaFanjul"
+                },
+                {
+                    "url": "https://twitter.com/AlmeidaPP_",
+                    "text": "AlmeidaPP_"
+                },
+                {
+                    "url": "https://twitter.com/ignacioaguado",
+                    "text": "ignacioaguado"
+                },
+                {
+                    "url": "https://twitter.com/CarrefourES",
+                    "text": "CarrefourES"
+                },
+                {
+                    "url": "https://twitter.com/CruzRojaEsp",
+                    "text": "CruzRojaEsp"
+                },
+                {
+                    "url": "https://twitter.com/CruzRojaMadrid",
+                    "text": "CruzRojaMadrid"
+                }
+            ],
+            "posted": "2021-01-09 18:47:56",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @fpradosroa: @_InakiLopez_ @SextaNocheTV Estimado I\u00f1aki, en este hospital hay pacientes cuyos familiares no pueden visitarles por lo que pueden inquietarse al entender que no van a ser atendidos o tratados correctamente. El catering est\u00e1 asegurado y estamos el personal suficiente para atenderles como se merecen https://t.co/7m0ztaHXxT",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347949392150589446",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347949392150589446",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/_InakiLopez_",
+                    "text": "_InakiLopez_"
+                },
+                {
+                    "url": "https://twitter.com/SextaNocheTV",
+                    "text": "SextaNocheTV"
+                },
+                {
+                    "url": "https://twitter.com/fpradosroa",
+                    "text": "fpradosroa"
+                }
+            ],
+            "posted": "2021-01-09 16:52:33",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Acabo de recibir una llamada del presidente @sanchezcastejon ofreciendo la colaboraci\u00f3n del Gobierno.   Nuestro Ej\u00e9rcito, y en particular la @UMEgob, est\u00e1 haciendo una gran labor en nuestra regi\u00f3n.  #PlanInclemenciasCM",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347929024765566976",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347929024765566976",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 838
+                },
+                {
+                    "name": "likes",
+                    "count": 5559
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/UMEgob",
+                    "text": "UMEgob"
+                }
+            ],
+            "posted": "2021-01-09 15:31:37",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Estamos despejando el acceso a los hospitales, habilitando albergues y otros espacios y proporcionando mantas y alimentos a los rescatados y a las personas sin hogar.  Colabora con los profesionales de emergencias: #Qu\u00e9dateEnCasa  #PlanInclemenciasCM https://t.co/mIqoWh9ZqS",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347925803338706944",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347925803338706944",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Qu\u00e9dateEnCasa",
+                    "text": "Qu\u00e9dateEnCasa"
+                },
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1347925764059127811/pu/img/wnFSl6-m4gHV7cCm.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 514
+                },
+                {
+                    "name": "likes",
+                    "count": 1765
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 15:18:49",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Enhorabuena, equipo. https://t.co/hZbRIZi90L",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1347912982274174976",
+            "type": "link",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347912982274174976",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 416
+                },
+                {
+                    "name": "likes",
+                    "count": 2896
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 14:27:52",
+            "urls": [
+                {
+                    "url": "https://twitter.com/anluquintana/status/1347738044200321028",
+                    "text": "twitter.com/anluquintana/s\u2026",
+                    "short_url": "https://t.co/hZbRIZi90L"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Bomberos de la Comunidad de Madrid, UME y voluntarios de Protecci\u00f3n Civil ya han rescatado a m\u00e1s de 1.000 personas atrapadas en veh\u00edculos y autobuses.  Gracias a todos los que trabajan en seguridad y emergencias, siempre protegi\u00e9ndonos.  #PlanInclemenciasCM",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1347891070122795013",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347891070122795013",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 639
+                },
+                {
+                    "name": "likes",
+                    "count": 3071
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 13:00:48",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "La movilidad en la superficie es imposible y las carreteras son intransitables.   Afortunadamente contamos con uno de los mejores suburbanos del mundo que  funcionar\u00e1 ininterrumpidamente.  #PlanInclemenciasCM https://t.co/6C1hbgxpgK",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1347887166274330624",
+            "type": "link",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347887166274330624",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 342
+                },
+                {
+                    "name": "likes",
+                    "count": 1249
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 12:45:17",
+            "urls": [
+                {
+                    "url": "https://twitter.com/comunidadmadrid/status/1347881770289672192",
+                    "text": "twitter.com/comunidadmadri\u2026",
+                    "short_url": "https://t.co/6C1hbgxpgK"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Gracias a Su Majestad el Rey por su llamada y por interesarse por la situaci\u00f3n del temporal en la Comunidad de Madrid.    #PlanInclemenciasCM #Qu\u00e9dateEnCasa",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347883553292492801",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347883553292492801",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23PlanInclemenciasCM",
+                    "text": "PlanInclemenciasCM"
+                },
+                {
+                    "url": "http://twitter.com/search/%23Qu\u00e9dateEnCasa",
+                    "text": "Qu\u00e9dateEnCasa"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1665
+                },
+                {
+                    "name": "likes",
+                    "count": 9324
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 12:30:56",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Gracias a @elcorteingles y a su presidenta Marta \u00c1lvarez por ofrecer su ayuda para llevar alimentos, ropa y otros productos de necesidad a las personas que a\u00fan quedan atrapadas en sus veh\u00edculos, albergues o residencias.  #BorrascaFilomena  #QuedateEnCasa",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347870667782422529",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347870667782422529",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                },
+                {
+                    "url": "http://twitter.com/search/%23QuedateEnCasa",
+                    "text": "QuedateEnCasa"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1962
+                },
+                {
+                    "name": "likes",
+                    "count": 8721
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/elcorteingles",
+                    "text": "elcorteingles"
+                }
+            ],
+            "posted": "2021-01-09 11:39:44",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "La Comunidad de Madrid cierra colegios, institutos y universidades el lunes y el martes.   Los funcionarios seguir\u00e1n teletrabajando excepto aquellos cuya presencia sea esencial. https://t.co/k1y9zByS0s",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347856441101717512",
+            "type": "video",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347856441101717512",
+            "tags": [],
+            "image": "https://pbs.twimg.com/ext_tw_video_thumb/1347856411854827523/pu/img/rhMLYnx8603aMIqD.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 1878
+                },
+                {
+                    "name": "likes",
+                    "count": 4807
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 10:43:12",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Supervisando las actuaciones del Plan de Inclemencias Invernales desde @112cmadrid.  En breves momentos anunciamos novedades. https://t.co/iBxCcsPGjk",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347852280821854209",
+            "type": "photo",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347852280821854209",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/ErSIgJ0XIAE5rK1.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 456
+                },
+                {
+                    "name": "likes",
+                    "count": 1869
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/112cmadrid",
+                    "text": "112cmadrid"
+                }
+            ],
+            "posted": "2021-01-09 10:26:40",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "He dado la orden de dejar la calefacci\u00f3n puesta en todos los colegios, institutos, escuelas infantiles y dem\u00e1s centros durante todo el fin de semana, de cara al lunes.   La nieve nos dir\u00e1 c\u00f3mo evolucionan calles y caminos durante el fin de semana.",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347595633088200704",
+            "type": "status",
+            "user": {
+                "userid": "140034129",
+                "url": "https://twitter.com/IdiazAyuso",
+                "name": "Isabel D\u00edaz Ayuso",
+                "image": "https://pbs.twimg.com/profile_images/1304824297748393985/rKBnz_YF_normal.jpg",
+                "location": "Entre Chamber\u00ed y Malasa\u00f1a",
+                "influence": {
+                    "name": "followers",
+                    "count": 393316
+                },
+                "description": "Presidenta de la Comunidad de Madrid, la regi\u00f3n m\u00e1s libre y casa de todos los espa\u00f1oles. Libertad y despu\u00e9s, todo lo dem\u00e1s."
+            },
+            "url": "https://twitter.com/IdiazAyuso/status/1347595633088200704",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 2586
+                },
+                {
+                    "name": "likes",
+                    "count": 13992
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-08 17:26:50",
+            "urls": [],
+            "place": null
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "requestid": "0b5c440d66e0440db70da575336dac87",
+    "http_code": 200,
+    "network": "web",
+    "query_type": "realtime",
+    "limit": 20,
+    "page": 0
+  },
+  "posts": [
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://www.patrickrothfuss.com/",
+      "text": "THE NAME OF THE WIND by Patrick Rothfuss turns out to be just as good as the galley blurb says it is.\u201d -Locus. Read more reviews. THE POWERFUL DEBUT\u00a0...\u200ePatrick Rothfuss \u2013 Blog \u00b7 \u200eThe Books \u00b7 \u200eTour Schedule \u00b7 \u200eContact Info",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "positive",
+      "url": "https://www.patrickrothfuss.com/",
+      "user": {
+        "name": "www.patrickrothfuss.com",
+        "url": "https:://www.patrickrothfuss.com"
+      },
+      "urls": [
+        {
+          "url": "https://www.patrickrothfuss.com/",
+          "text": "Patrick Rothfuss - Official Website"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://blog.patrickrothfuss.com/",
+      "text": "Yesterday, on the final day of the Worldbuilders Fundraiser, we crossed the line into a million dollars. For real. Despite the trash fire of 2020, this year's fundraiser \u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "negative",
+      "url": "https://blog.patrickrothfuss.com/",
+      "user": {
+        "name": "blog.patrickrothfuss.com",
+        "url": "https:://blog.patrickrothfuss.com"
+      },
+      "urls": [
+        {
+          "url": "https://blog.patrickrothfuss.com/",
+          "text": "Patrick Rothfuss \u2013 Blog"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://en.wikipedia.org/wiki/Patrick_Rothfuss",
+      "text": "Website. patrickrothfuss.com. Patrick James Rothfuss (born June 6, 1973) is an American writer of epic fantasy. He is best known for his projected trilogy The Kingkiller Chronicle, which has won him several awards, including the 2007 Quill Award for his debut novel, The Name of the Wind.Notable awards: Quill Award (2007), \u200eDavid Ge...\u200eGenre: FantasyChildren: 2Nationality: American\u200eEarly life \u00b7 \u200eCareer \u00b7 \u200eWriting \u00b7 \u200eWorks",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "positive",
+      "url": "https://en.wikipedia.org/wiki/Patrick_Rothfuss",
+      "user": {
+        "name": "en.wikipedia.org",
+        "url": "https:://en.wikipedia.org"
+      },
+      "urls": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Patrick_Rothfuss",
+          "text": "Patrick Rothfuss - Wikipedia"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://winteriscoming.net/2020/12/26/patrick-rothfuss-drops-the-doors-of-stone-details/",
+      "text": "What characters get explored more in the next Kingkiller Chronicle book? Will there be a time jump? What of the Fae? Patrick Rothfuss answers\u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "neutral",
+      "url": "https://winteriscoming.net/2020/12/26/patrick-rothfuss-drops-the-doors-of-stone-details/",
+      "user": {
+        "name": "winteriscoming.net",
+        "url": "https:://winteriscoming.net"
+      },
+      "urls": [
+        {
+          "url": "https://winteriscoming.net/2020/12/26/patrick-rothfuss-drops-the-doors-of-stone-details/",
+          "text": "Patrick Rothfuss drops details about The Doors of Stone"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://winteriscoming.net/2020/12/04/patrick-rothfuss-explains-why-the-doors-of-stone-taking-long-write/",
+      "text": "Straight from the author's lips to your ears: Kingkiller Chronicle author Patrick Rothfuss is out there helping raise money for Worldbuilders, a geek-\u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "positive",
+      "url": "https://winteriscoming.net/2020/12/04/patrick-rothfuss-explains-why-the-doors-of-stone-taking-long-write/",
+      "user": {
+        "name": "winteriscoming.net",
+        "url": "https:://winteriscoming.net"
+      },
+      "urls": [
+        {
+          "url": "https://winteriscoming.net/2020/12/04/patrick-rothfuss-explains-why-the-doors-of-stone-taking-long-write/",
+          "text": "Patrick Rothfuss explains why The Doors of Stone is taking so ..."
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://www.twitch.tv/patrickrothfuss",
+      "text": "Check out this Torment: Tides of Numenera stream from 19 hours ago. Turn on Notifications. Pat Rothfuss plays time travel in Numenera. Playthrough #7\u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "neutral",
+      "url": "https://www.twitch.tv/patrickrothfuss",
+      "user": {
+        "name": "www.twitch.tv",
+        "url": "https:://www.twitch.tv"
+      },
+      "urls": [
+        {
+          "url": "https://www.twitch.tv/patrickrothfuss",
+          "text": "patrickrothfuss - Twitch"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+      "text": "Goodreads Author. Born. in Madison, Wisconsin, The United States. Website. http ://www.patrickrothfuss.com/content/index\u00a0...Books: The Adventures of the Princess and Mr. ...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "positive",
+      "url": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+      "user": {
+        "name": "www.goodreads.com",
+        "url": "https:://www.goodreads.com"
+      },
+      "urls": [
+        {
+          "url": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+          "text": "Patrick Rothfuss (Author of The Name of the Wind) - Goodreads"
+        }
+      ]
+    },
+    {
+      "network": "web",
+      "posted": "2021-01-13 16:23:19 +00000",
+      "postid": "https://www.amazon.com/Patrick-Rothfuss/e/B001DAHXZQ",
+      "text": "About Patrick Rothfuss. Patrick Rothfuss always wanted to be fantasy author when he grew up. Now that his first novel is published it's generally agreed that he\u00a0...",
+      "lang": "en",
+      "type": "link",
+      "sentiment": "positive",
+      "url": "https://www.amazon.com/Patrick-Rothfuss/e/B001DAHXZQ",
+      "user": {
+        "name": "www.amazon.com",
+        "url": "https:://www.amazon.com"
+      },
+      "urls": [
+        {
+          "url": "https://www.amazon.com/Patrick-Rothfuss/e/B001DAHXZQ",
+          "text": "Patrick Rothfuss - Amazon.com"
+        }
+      ]
+    }
+  ]
+}

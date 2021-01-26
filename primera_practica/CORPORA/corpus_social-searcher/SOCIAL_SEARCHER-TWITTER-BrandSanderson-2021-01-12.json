@@ -1,0 +1,189 @@
+{
+  "posts": [
+    {
+      "text": "With my university class starting back up this week we've needed to move our livestreams to Wednesday. So you'll be able to catch me and @Steve_Argyle tomorrow night starting around 6:00 MST. I'll be taking questions from here as well as the chat. https://t.co/D7cAVQxzzV",
+      "lang": "en",
+      "sentiment": "neutral",
+      "network": "twitter",
+      "postid": "1349117156441677825",
+      "type": "video",
+      "user": {
+        "userid": "28187205",
+        "url": "https://twitter.com/BrandSanderson",
+        "name": "Brandon Sanderson",
+        "image": "https://pbs.twimg.com/profile_images/378800000679754879/96b16315892a85cbef77b4bfb237e1cf_normal.jpeg",
+        "location": "Utah",
+        "influence": {
+          "name": "followers",
+          "count": 257008
+        },
+        "description": "Mistborn, Reckoners, Stormlight, Evil Librarians, Warbreaker, Elantris,  and The Wheel of Time."
+      },
+      "url": "https://twitter.com/BrandSanderson/status/1349117156441677825",
+      "tags": [],
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 17
+        },
+        {
+          "name": "likes",
+          "count": 429
+        }
+      ],
+      "user_mentions": [
+        {
+          "url": "https://twitter.com/Steve_Argyle",
+          "text": "Steve_Argyle"
+        }
+      ],
+      "posted": "2021-01-12 22:12:50",
+      "urls": [
+        {
+          "url": "https://www.youtube.com/c/BrandSanderson/",
+          "text": "youtube.com/c/BrandSanders\u2026",
+          "short_url": "https://t.co/D7cAVQxzzV"
+        }
+      ],
+      "place": null
+    },
+    {
+      "text": "Today is your last chance to get The Original for just $2.75! @mainframe_ww @MaryRobinette @justjuliawhelan @recordedbooks  https://t.co/VsjNfQljQu",
+      "lang": "en",
+      "sentiment": "positive",
+      "network": "twitter",
+      "postid": "1347638168900706305",
+      "type": "link",
+      "user": {
+        "userid": "28187205",
+        "url": "https://twitter.com/BrandSanderson",
+        "name": "Brandon Sanderson",
+        "image": "https://pbs.twimg.com/profile_images/378800000679754879/96b16315892a85cbef77b4bfb237e1cf_normal.jpeg",
+        "location": "Utah",
+        "influence": {
+          "name": "followers",
+          "count": 257008
+        },
+        "description": "Mistborn, Reckoners, Stormlight, Evil Librarians, Warbreaker, Elantris,  and The Wheel of Time."
+      },
+      "url": "https://twitter.com/BrandSanderson/status/1347638168900706305",
+      "tags": [],
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 16
+        },
+        {
+          "name": "likes",
+          "count": 123
+        }
+      ],
+      "user_mentions": [
+        {
+          "url": "https://twitter.com/mainframe_ww",
+          "text": "mainframe_ww"
+        },
+        {
+          "url": "https://twitter.com/MaryRobinette",
+          "text": "MaryRobinette"
+        },
+        {
+          "url": "https://twitter.com/justjuliawhelan",
+          "text": "justjuliawhelan"
+        },
+        {
+          "url": "https://twitter.com/recordedbooks",
+          "text": "recordedbooks"
+        }
+      ],
+      "posted": "2021-01-08 20:15:52",
+      "urls": [
+        {
+          "url": "https://www.audiobooks.com/promotions/promotedBook/443040?refId=39134#.X_i8oZP0aGs.twitter",
+          "text": "audiobooks.com/promotions/pro\u2026",
+          "short_url": "https://t.co/VsjNfQljQu"
+        }
+      ],
+      "place": null
+    },
+    {
+      "text": "The kind folks at Recorded Books were nice enough to extend the sale on The Original through January 10th! So, if you've been looking for a good time to try this audio original, this may be it. https://t.co/4nUrIy0gSy",
+      "lang": "en",
+      "sentiment": "positive",
+      "network": "twitter",
+      "postid": "1346928530513301510",
+      "type": "link",
+      "user": {
+        "userid": "28187205",
+        "url": "https://twitter.com/BrandSanderson",
+        "name": "Brandon Sanderson",
+        "image": "https://pbs.twimg.com/profile_images/378800000679754879/96b16315892a85cbef77b4bfb237e1cf_normal.jpeg",
+        "location": "Utah",
+        "influence": {
+          "name": "followers",
+          "count": 257008
+        },
+        "description": "Mistborn, Reckoners, Stormlight, Evil Librarians, Warbreaker, Elantris,  and The Wheel of Time."
+      },
+      "url": "https://twitter.com/BrandSanderson/status/1346928530513301510",
+      "tags": [],
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 13
+        },
+        {
+          "name": "likes",
+          "count": 214
+        }
+      ],
+      "user_mentions": [],
+      "posted": "2021-01-06 21:16:01",
+      "urls": [
+        {
+          "url": "https://www.audiobooks.com/promotions/promotedBook/443040?refId=39134#.X_YoeUB5Z04.twitter",
+          "text": "audiobooks.com/promotions/pro\u2026",
+          "short_url": "https://t.co/4nUrIy0gSy"
+        }
+      ],
+      "place": null
+    },
+    {
+      "text": "First draft of Skyward 3 (working title Nowhere) is done as of last night! It needs a solid revision, so I'm saving celebration for the 2.0 draft. Goal is to have that done by next week to give to the publisher. Happy New Year, all! https://t.co/GZCKhcSGTl",
+      "lang": "en",
+      "sentiment": "positive",
+      "network": "twitter",
+      "postid": "1346875904224493568",
+      "type": "photo",
+      "user": {
+        "userid": "28187205",
+        "url": "https://twitter.com/BrandSanderson",
+        "name": "Brandon Sanderson",
+        "image": "https://pbs.twimg.com/profile_images/378800000679754879/96b16315892a85cbef77b4bfb237e1cf_normal.jpeg",
+        "location": "Utah",
+        "influence": {
+          "name": "followers",
+          "count": 257008
+        },
+        "description": "Mistborn, Reckoners, Stormlight, Evil Librarians, Warbreaker, Elantris,  and The Wheel of Time."
+      },
+      "url": "https://twitter.com/BrandSanderson/status/1346875904224493568",
+      "tags": [],
+      "image": "https://pbs.twimg.com/media/ErEQe1dUUAAddbt.png",
+      "popularity": [
+        {
+          "name": "retweets",
+          "count": 184
+        },
+        {
+          "name": "likes",
+          "count": 3527
+        }
+      ],
+      "user_mentions": [],
+      "posted": "2021-01-06 17:46:53",
+      "urls": [],
+      "place": null
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "created_at": "Tue Jan 12 08:25:49 +0000 2021",
+  "id": 1348909033881821184,
+  "id_str": "1348909033881821184",
+  "full_text": "RT @cisgenderhaver: yet another unrealistic body standard for women https://t.co/oJ3INITaqk",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    91
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "cisgenderhaver",
+        "name": "the priory of the \u1e29\u0105\u0291\u0119\u0142 tree",
+        "id": 921938588308267013,
+        "id_str": "921938588308267013",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1348483870086344710,
+        "id_str": "1348483870086344710",
+        "indices": [
+          68,
+          91
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+        "url": "https://t.co/oJ3INITaqk",
+        "display_url": "pic.twitter.com/oJ3INITaqk",
+        "expanded_url": "https://twitter.com/cisgenderhaver/status/1348483871990558720/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 448,
+            "h": 597,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 448,
+            "h": 597,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 448,
+            "h": 597,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1348483871990558720,
+        "source_status_id_str": "1348483871990558720",
+        "source_user_id": 921938588308267013,
+        "source_user_id_str": "921938588308267013"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1348483870086344710,
+        "id_str": "1348483870086344710",
+        "indices": [
+          68,
+          91
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+        "url": "https://t.co/oJ3INITaqk",
+        "display_url": "pic.twitter.com/oJ3INITaqk",
+        "expanded_url": "https://twitter.com/cisgenderhaver/status/1348483871990558720/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 448,
+            "h": 597,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 448,
+            "h": 597,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 448,
+            "h": 597,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1348483871990558720,
+        "source_status_id_str": "1348483871990558720",
+        "source_user_id": 921938588308267013,
+        "source_user_id_str": "921938588308267013"
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 490039192,
+    "id_str": "490039192",
+    "name": "Pat Rothfuss",
+    "screen_name": "PatrickRothfuss",
+    "location": "Wisconsin",
+    "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc",
+    "url": "https://t.co/rJ9Jhrc88E",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/rJ9Jhrc88E",
+            "expanded_url": "http://blog.patrickrothfuss.com/",
+            "display_url": "blog.patrickrothfuss.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/qJvmkq9oSc",
+            "expanded_url": "https://www.twitch.tv/patrickrothfuss",
+            "display_url": "twitch.tv/patrickrothfuss",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 273696,
+    "friends_count": 244,
+    "listed_count": 2187,
+    "created_at": "Sun Feb 12 04:57:24 +0000 2012",
+    "favourites_count": 11217,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16041,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/490039192/1390571149",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Mon Jan 11 04:16:23 +0000 2021",
+    "id": 1348483871990558720,
+    "id_str": "1348483871990558720",
+    "full_text": "yet another unrealistic body standard for women https://t.co/oJ3INITaqk",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      47
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1348483870086344710,
+          "id_str": "1348483870086344710",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+          "url": "https://t.co/oJ3INITaqk",
+          "display_url": "pic.twitter.com/oJ3INITaqk",
+          "expanded_url": "https://twitter.com/cisgenderhaver/status/1348483871990558720/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 448,
+              "h": 597,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 448,
+              "h": 597,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 448,
+              "h": 597,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1348483870086344710,
+          "id_str": "1348483870086344710",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErbG723XMAYFwYa.jpg",
+          "url": "https://t.co/oJ3INITaqk",
+          "display_url": "pic.twitter.com/oJ3INITaqk",
+          "expanded_url": "https://twitter.com/cisgenderhaver/status/1348483871990558720/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 448,
+              "h": 597,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 448,
+              "h": 597,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 448,
+              "h": 597,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 921938588308267013,
+      "id_str": "921938588308267013",
+      "name": "he\u026az(\u0259)l",
+      "screen_name": "cisgenderhaver",
+      "location": "she/her",
+      "description": "number of people I turned trans: 0 \nvenmo: @woadleaves\ncashapp: $hazelsyrup\nlet's get those numbers up",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1268,
+      "friends_count": 637,
+      "listed_count": 4,
+      "created_at": "Sun Oct 22 03:17:43 +0000 2017",
+      "favourites_count": 15890,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10287,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1341450082521104387/4ERSFB6M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341450082521104387/4ERSFB6M_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/921938588308267013/1596236191",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 166732,
+    "favorite_count": 1327056,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 166732,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

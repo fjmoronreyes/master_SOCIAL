@@ -1,0 +1,313 @@
+{
+  "created_at": "Tue Jan 12 08:31:13 +0000 2021",
+  "id": 1348910389636063233,
+  "id_str": "1348910389636063233",
+  "full_text": "Oof. Maybe have a talk with your promotional team if they can't realize that right now, *nobody* is going to read this as \"Inflection.\" https://t.co/ekh3GKAXxv",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    135
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/ekh3GKAXxv",
+        "expanded_url": "https://twitter.com/GM/status/1346481605465010176",
+        "display_url": "twitter.com/GM/status/1346\u2026",
+        "indices": [
+          136,
+          159
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 490039192,
+    "id_str": "490039192",
+    "name": "Pat Rothfuss",
+    "screen_name": "PatrickRothfuss",
+    "location": "Wisconsin",
+    "description": "Manic Pixie Dream Hobo. Iconoclast. He/Him https://t.co/qJvmkq9oSc",
+    "url": "https://t.co/rJ9Jhrc88E",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/rJ9Jhrc88E",
+            "expanded_url": "http://blog.patrickrothfuss.com/",
+            "display_url": "blog.patrickrothfuss.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/qJvmkq9oSc",
+            "expanded_url": "https://www.twitch.tv/patrickrothfuss",
+            "display_url": "twitch.tv/patrickrothfuss",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 273696,
+    "friends_count": 244,
+    "listed_count": 2187,
+    "created_at": "Sun Feb 12 04:57:24 +0000 2012",
+    "favourites_count": 11217,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 16041,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000777262574/17489e7c4bc58e3ecb69d8305b6ba7e6_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/490039192/1390571149",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1346481605465010176,
+  "quoted_status_id_str": "1346481605465010176",
+  "quoted_status_permalink": {
+    "url": "https://t.co/ekh3GKAXxv",
+    "expanded": "https://twitter.com/GM/status/1346481605465010176",
+    "display": "twitter.com/GM/status/1346\u2026"
+  },
+  "quoted_status": {
+    "created_at": "Tue Jan 05 15:40:05 +0000 2021",
+    "id": 1346481605465010176,
+    "id_str": "1346481605465010176",
+    "full_text": "Don't miss a moment of our CES virtual showcase. \u2665\ufe0f this tweet to receive live #GMExhibitZero updates, beginning Jan. 12. https://t.co/buHuKB91ZH",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      121
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GMExhibitZero",
+          "indices": [
+            79,
+            93
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1341393226968739851,
+          "id_str": "1341393226968739851",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep2WCG2WMAsl_4X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ep2WCG2WMAsl_4X.jpg",
+          "url": "https://t.co/buHuKB91ZH",
+          "display_url": "pic.twitter.com/buHuKB91ZH",
+          "expanded_url": "https://twitter.com/GM/status/1346481605465010176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1341393226968739851,
+          "id_str": "1341393226968739851",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep2WCG2WMAsl_4X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ep2WCG2WMAsl_4X.jpg",
+          "url": "https://t.co/buHuKB91ZH",
+          "display_url": "pic.twitter.com/buHuKB91ZH",
+          "expanded_url": "https://twitter.com/GM/status/1346481605465010176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.qwvr.co\" rel=\"nofollow\">Arrow.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 10850192,
+      "id_str": "10850192",
+      "name": "General Motors",
+      "screen_name": "GM",
+      "location": "Detroit, MI",
+      "description": "We\u2019re on a journey to create a world with zero crashes, zero emissions and zero congestion. See how we\u2019ll get there. Privacy Statement: https://t.co/u3I3TbTZSR",
+      "url": "https://t.co/LFnVrYy6kW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/LFnVrYy6kW",
+              "expanded_url": "https://www.gm.com/",
+              "display_url": "gm.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/u3I3TbTZSR",
+              "expanded_url": "http://bit.ly/2klxld5",
+              "display_url": "bit.ly/2klxld5",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 755140,
+      "friends_count": 6103,
+      "listed_count": 4394,
+      "created_at": "Tue Dec 04 20:43:28 +0000 2007",
+      "favourites_count": 2290,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 17317,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F7E6F7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1347650273397919745/-CiTPU1w_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347650273397919745/-CiTPU1w_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10850192/1610130033",
+      "profile_link_color": "0066CC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0E6EF",
+      "profile_text_color": "444444",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 91,
+    "favorite_count": 503,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "retweet_count": 42,
+  "favorite_count": 739,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}

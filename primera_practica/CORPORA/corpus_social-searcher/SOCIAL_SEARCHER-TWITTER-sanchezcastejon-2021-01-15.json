@@ -1,0 +1,1760 @@
+{
+    "posts": [
+        {
+            "text": "RT @desdelamoncloa: El presidente del Gobierno, @sanchezcastejon, se re\u00fane en estos momentos en La Moncloa con el Comit\u00e9 de Seguimiento del #COVID19 para analizar la evoluci\u00f3n de pandemia en nuestro pa\u00eds.  Al encuentro tambi\u00e9n asisten el ministro de @sanidadgob y la ministra de @territorialgob. https://t.co/qGob8TLDE8",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1350018456113078272",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1350018456113078272",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23COVID19",
+                    "text": "COVID19"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/sanidadgob",
+                    "text": "sanidadgob"
+                },
+                {
+                    "url": "https://twitter.com/territorialgob",
+                    "text": "territorialgob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-15 09:54:16",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @astro_duque: Orgulloso del posicionamiento destacado de la I+D+I espa\u00f1ola en los esfuerzos globales contra el #COVID19.  La @OECD reconoce nuestras pol\u00edticas para mejorar las condiciones del personal investigador, apoyar a las empresas y aumentar la financiaci\u00f3n. https://t.co/lJYBztLOPo https://t.co/ABXLsvdy2S",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349744616757747717",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349744616757747717",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23COVID19",
+                    "text": "COVID19"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/OECD",
+                    "text": "OECD"
+                },
+                {
+                    "url": "https://twitter.com/astro_duque",
+                    "text": "astro_duque"
+                }
+            ],
+            "posted": "2021-01-14 15:46:08",
+            "urls": [
+                {
+                    "url": "https://bit.ly/3icsJ2k",
+                    "text": "bit.ly/3icsJ2k",
+                    "short_url": "https://t.co/lJYBztLOPo"
+                },
+                {
+                    "url": "https://twitter.com/CienciaGob/status/1349701319796404226",
+                    "text": "twitter.com/CienciaGob/sta\u2026",
+                    "short_url": "https://t.co/ABXLsvdy2S"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: El PG, @sanchezcastejon, ha visitado el Centro de Regulaci\u00f3n de Circulaci\u00f3n de Adif en la Estaci\u00f3n Madrid-Atocha  \u27a1\ufe0fGestiona el tr\u00e1fico ferroviario que circula por la red de alta velocidad y apenas 24h despu\u00e9s de la nevada ha logrado reanudar pr\u00e1cticamente la totalidad de l\u00edneas. https://t.co/kNfGs2plW3",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349693913796399104",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349693913796399104",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-14 12:24:39",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: El presidente del Gobierno, @sanchezcastejon, preside esta ma\u00f1ana una nueva reuni\u00f3n del CECOD, el Comit\u00e9 Estatal de Coordinaci\u00f3n y Direcci\u00f3n de @proteccioncivil.  Desde las instalaciones del @dsn realizan un seguimiento de los efectos de la #OlaDeFr\u00edo en nuestro pa\u00eds. https://t.co/jjDuZ2UM7Z",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349671297501036545",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349671297501036545",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/proteccioncivil",
+                    "text": "proteccioncivil"
+                },
+                {
+                    "url": "https://twitter.com/dsn",
+                    "text": "dsn"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-14 10:54:47",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @abalosmeco: Desde ayer por la tarde ya no existe ning\u00fan tipo de restricci\u00f3n por la nieve en toda la Red de Carreteras del Estado, dependiente de @mitmagob. Enhorabuena a los m\u00e1s de 3.000 trabajadores que con su esfuerzo lo han hecho posible. https://t.co/fMZBpRRBkD",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349639750274211841",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349639750274211841",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/abalosmeco",
+                    "text": "abalosmeco"
+                }
+            ],
+            "posted": "2021-01-14 08:49:26",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Rescatar de la injusticia del olvido a las cient\u00edficas del pasado para inspirar a las del futuro. Magn\u00edfica iniciativa la de @twitamit_es para fomentar la presencia de ni\u00f1as y adolescentes en la ciencia. Un objetivo que seguiremos impulsando desde el Gobierno.  #NoMoreMatildas https://t.co/LUvHmrlK0r",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349429187749228544",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349429187749228544",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23NoMoreMatildas",
+                    "text": "NoMoreMatildas"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/EroiIxyXYAEDpzn.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 569
+                },
+                {
+                    "name": "likes",
+                    "count": 1561
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/twitamit_es",
+                    "text": "twitamit_es"
+                }
+            ],
+            "posted": "2021-01-13 18:52:44",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @sanidadgob: Rueda de prensa posterior al Consejo Interterritorial del Sistema Nacional de Salud https://t.co/ICwwFW8ZFF",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349416630913216513",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349416630913216513",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanidadgob",
+                    "text": "sanidadgob"
+                }
+            ],
+            "posted": "2021-01-13 18:02:50",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1RDxlPwaAnjxL",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/ICwwFW8ZFF"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "En el D\u00eda Mundial de la Lucha contra la #Depresi\u00f3n es vital seguir avanzando para acabar con el estigma que rodea a miles de personas con problemas de salud mental. Trabajemos con todos los recursos disponibles para combatir una enfermedad que, adem\u00e1s, la pandemia ha agudizado. https://t.co/iqte53DI1V",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349406106930581508",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349406106930581508",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Depresi\u00f3n",
+                    "text": "Depresi\u00f3n"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/EroNhkZXUAANjxM.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 624
+                },
+                {
+                    "name": "likes",
+                    "count": 2241
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-13 17:21:01",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Hoy he mantenido un almuerzo de trabajo con la ministra de @Defensagob y los mandos militares para analizar la situaci\u00f3n de nuestros ej\u00e9rcitos. Mi gratitud por los esfuerzos que han realizado a lo largo de los \u00faltimos meses, frente al #COVID19 y ahora con la #OlaDeFr\u00edo y nieve. https://t.co/0Vk9cK46YD",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349393196254638083",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349393196254638083",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23COVID19",
+                    "text": "COVID19"
+                },
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/EroBH7EXcAADMwM.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 272
+                },
+                {
+                    "name": "likes",
+                    "count": 1053
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Defensagob",
+                    "text": "Defensagob"
+                }
+            ],
+            "posted": "2021-01-13 16:29:43",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "El Centro Nacional de Seguimiento y Coordinaci\u00f3n de Emergencias de @proteccioncivil cumple 30 a\u00f1os de servicio diario imprescindible. Les hemos visitado para agradecerles su enorme labor, especialmente frente a situaciones tan adversas como el temporal que atraviesa nuestro pa\u00eds. https://t.co/5InqLdDKeg",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1349373001888894978",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349373001888894978",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 194
+                },
+                {
+                    "name": "likes",
+                    "count": 494
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/proteccioncivil",
+                    "text": "proteccioncivil"
+                }
+            ],
+            "posted": "2021-01-13 15:09:28",
+            "urls": [
+                {
+                    "url": "https://twitter.com/proteccioncivil/status/1349329221378830347",
+                    "text": "twitter.com/proteccioncivi\u2026",
+                    "short_url": "https://t.co/5InqLdDKeg"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Rueda del prensa de la ministra de @Defensagob, Margarita Robles, y los ministros del @interiorgob, Fernando Grande-Marlaska, y @mitmagob, Jos\u00e9 Luis \u00c1balos, para actualizar datos de la #OlaDeFr\u00edo. https://t.co/WMsLuLVdwq",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349333821305606145",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349333821305606145",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Defensagob",
+                    "text": "Defensagob"
+                },
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-13 12:33:47",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1OdKrVwBOwVKX",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/WMsLuLVdwq"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: El PG, @sanchezcastejon, preside esta ma\u00f1ana una nueva reuni\u00f3n del CECOD donde se analizan la situaci\u00f3n actual y previsiones ante la #OlaDeFr\u00edo.  Tras ella, recorrer\u00e1 las instalaciones de @proteccioncivil desde las que se est\u00e1n coordinando las actuaciones de las administraciones. https://t.co/Rnna6Z4v8G",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349316535660269569",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349316535660269569",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/proteccioncivil",
+                    "text": "proteccioncivil"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-13 11:25:05",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: Esta ma\u00f1ana han llegado a Espa\u00f1a desde B\u00e9lgica las primeras vacunas de Moderna.   \ud83d\udd3835.700 dosis que ya est\u00e1n en el almac\u00e9n de @sanidadgob en el centro de la pen\u00ednsula y que en los pr\u00f3ximos d\u00edas ser\u00e1n distribuidas de forma equitativa entre las CC.AA.   #YoMeVacuno https://t.co/4KvXjbnuXB",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349023476758282244",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349023476758282244",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23YoMeVacuno",
+                    "text": "YoMeVacuno"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanidadgob",
+                    "text": "sanidadgob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-12 16:00:35",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Vivimos momentos dif\u00edciles, pero los superaremos. Hoy he visitado la base de la @UMEgob para agradecerles personalmente y en nombre de todos los espa\u00f1oles/as el trabajo realizado estos d\u00edas. Contamos con unos servicios p\u00fablicos fuertes, claves para responder ante la adversidad. https://t.co/nIQjn30qWG",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1349005219250712588",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1349005219250712588",
+            "tags": [],
+            "image": "https://pbs.twimg.com/media/Erig9CRXMAEvXYG.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 501
+                },
+                {
+                    "name": "likes",
+                    "count": 1918
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/UMEgob",
+                    "text": "UMEgob"
+                }
+            ],
+            "posted": "2021-01-12 14:48:02",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Rueda de prensa de la portavoz del Gobierno, Mar\u00eda Jes\u00fas Montero, el ministro de @interiorgob, Fernando Grande-Marlaska, y el ministro de @sanidadgob, Salvador Illa,  para informar sobre los acuerdos del #CMin. https://t.co/DPDkjhcsbz",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348972404786262018",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348972404786262018",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23CMin",
+                    "text": "CMin"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/sanidadgob",
+                    "text": "sanidadgob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-12 12:37:38",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1zqKVXpEPWXJB",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/DPDkjhcsbz"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO El presidente del Gobierno, @sanchezcastejon, acompa\u00f1ado por la ministra de @Defensagob, visita la @UMEgob.  #OlaDeFr\u00edo  https://t.co/O8fKzUKhgK",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348968412668698626",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348968412668698626",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/Defensagob",
+                    "text": "Defensagob"
+                },
+                {
+                    "url": "https://twitter.com/UMEgob",
+                    "text": "UMEgob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-12 12:21:46",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1jMKgpnwewwGL",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/O8fKzUKhgK"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Gracias a todas las personas que llevan trabajando sin descanso desde la semana pasada para paliar los efectos de #Filomena y de la #OlaDeFr\u00edo. Y gracias, tambi\u00e9n, a quienes han colaborado de forma desinteresada en muchos puntos de nuestro pa\u00eds. Vuestro ejemplo nos hace mejores. https://t.co/8oJJkO0LAk",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348908027588587522",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348908027588587522",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Filomena",
+                    "text": "Filomena"
+                },
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/ErhIsUsW8AAVY2_.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 785
+                },
+                {
+                    "name": "likes",
+                    "count": 4272
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-12 08:21:49",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Traslado mi abrazo y apoyo al presidente portugu\u00e9s, Rebelo de Sousa, tras su positivo por #COVID19. Seguimos haciendo frente a esta pandemia con la responsabilidad de todos y cada uno de nosotros, y el valioso de trabajo de la comunidad cient\u00edfica y sanitaria.",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348900650143383553",
+            "type": "status",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348900650143383553",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23COVID19",
+                    "text": "COVID19"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 339
+                },
+                {
+                    "name": "likes",
+                    "count": 1800
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-12 07:52:31",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Rueda del prensa de la ministra de @Defensagob, Margarita Robles, y los ministros del @interiorgob, Fernando Grande-Marlaska, y @mitmagob, Jos\u00e9 Luis \u00c1balos, para actualizar datos de los efectos de la #BorrascaFilomena y la #OlaDeFr\u00edo. https://t.co/Y2ve9Z6Aj0",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348693245237358595",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348693245237358595",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                },
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Defensagob",
+                    "text": "Defensagob"
+                },
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-11 18:08:21",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1YqJDeVQBMOxV",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/Y2ve9Z6Aj0"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: El Comit\u00e9 de Seguimiento del #COVID19, presidido por el PG, @sanchezcastejon, se encuentra en estos momentos reunido por videoconferencia desde La Moncloa.  \u25b6\ufe0fAl terminar, @sanidadgob ofrecer\u00e1 la habitual rueda de prensa de los lunes con la actualizaci\u00f3n de datos de la pandemia. https://t.co/mD5AnLlacm",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348665997755080705",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348665997755080705",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23COVID19",
+                    "text": "COVID19"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/sanidadgob",
+                    "text": "sanidadgob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-11 16:20:05",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO  Rueda del prensa de la ministra de @Defensagob, Margarita Robles, y los ministros del @interiorgob, Fernando Grande-Marlaska, y @mitmagob, Jos\u00e9 Luis \u00c1balos, para actualizar los datos de los efectos de la #BorrascaFilomena y la #OlaDeFr\u00edo. https://t.co/R8JX3GTPsE",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348610290657669126",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348610290657669126",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                },
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/Defensagob",
+                    "text": "Defensagob"
+                },
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-11 12:38:43",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1dRJZNVejqXJB",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/R8JX3GTPsE"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @abalosmeco: Le ofrecimos nuestra colaboraci\u00f3n al Ayuntamiento de @MADRID y fruto de ello ya estamos actuando en la ciudad. Las quitanieves de @mitmagob trabajan intensamente en los itinerarios y calles asignadas por el consistorio municipal. https://t.co/Uws4qpD9dj",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348583589282242561",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348583589282242561",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/MADRID",
+                    "text": "MADRID"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/abalosmeco",
+                    "text": "abalosmeco"
+                }
+            ],
+            "posted": "2021-01-11 10:52:37",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "Una voz indispensable de la radio y del periodismo en nuestro pa\u00eds. I\u00f1aki Gabilondo deja su editorial diario, que se hab\u00eda convertido en un referente del an\u00e1lisis de la actualidad.   \u00a1Gracias por tu trabajo todos estos a\u00f1os! Te seguiremos escuchando cada lunes en @HoyPorHoy.",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348544286036545537",
+            "type": "status",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348544286036545537",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 897
+                },
+                {
+                    "name": "likes",
+                    "count": 6379
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/HoyPorHoy",
+                    "text": "HoyPorHoy"
+                }
+            ],
+            "posted": "2021-01-11 08:16:27",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "No debemos bajar la guardia, mantengamos la alerta y previsi\u00f3n ante la llegada ma\u00f1ana de la #OlaDeFr\u00edo. Sigamos las indicaciones de los servicios de emergencia y evitemos los desplazamientos. Por nuestra seguridad y para garantizar los servicios esenciales y el abastecimiento. \ud83d\udc47 https://t.co/eef32DVXAj",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348361167614472200",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348361167614472200",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23OlaDeFr\u00edo",
+                    "text": "OlaDeFr\u00edo"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 462
+                },
+                {
+                    "name": "likes",
+                    "count": 1291
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-10 20:08:48",
+            "urls": [
+                {
+                    "url": "https://twitter.com/interiorgob/status/1348356543809540101",
+                    "text": "twitter.com/interiorgob/st\u2026",
+                    "short_url": "https://t.co/eef32DVXAj"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Rueda del prensa del ministro del @interiorgob, Fernando Grande-Marlaska, junto al ministro de @mitmagob, Jos\u00e9 Luis \u00c1balos, para actualizar los datos de los efectos de la #BorrascaFilomena. https://t.co/B0MIFXekSv",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348335530799476736",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348335530799476736",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-10 18:26:56",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1OdKrVwywMkKX",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/B0MIFXekSv"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: En la reuni\u00f3n del CECOD mantenida esta ma\u00f1ana, se han fijado las actuaciones para recuperar paulatinamente la movilidad y las comunicaciones tras la #BorrascaFilomena. Se trabaja para garantizar el suministro sanitario y los alimentos. La seguridad de las personas es prioritaria. https://t.co/ZwkDWVIQPa",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348275074789478401",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348275074789478401",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-10 14:26:42",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @salvadorilla: Todo mi reconocimiento a este joven MIR que ha recorrido 17 km por la nieve para hacer la guardia en el Hospital Puerta de Hierro. El compromiso que est\u00e1 demostrando todo el conjunto de trabajadores de la sanidad es un ejemplo de solidaridad y entrega  https://t.co/ONGuA54sec",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1348267745557753856",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348267745557753856",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/salvadorilla",
+                    "text": "salvadorilla"
+                }
+            ],
+            "posted": "2021-01-10 13:57:34",
+            "urls": [
+                {
+                    "url": "https://www.google.es/amp/s/amp.redaccionmedica.com/virico/noticias/un-mir-corre-17-kilometros-por-la-nieve-para-llegar-a-su-guardia-en-madrid-6826",
+                    "text": "google.es/amp/s/amp.reda\u2026",
+                    "short_url": "https://t.co/ONGuA54sec"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Comparecencia de los ministros del @interiorgob, Fernando Grande-Marlaska, y @mitmagob, Jos\u00e9 Luis \u00c1balos, para actualizar los datos sobre los efectos de la #BorrascaFilomena en Espa\u00f1a. https://t.co/U2WRLIeCmB",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348250816780636162",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348250816780636162",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-10 12:50:18",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1MYxNmBLWZnJw",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/U2WRLIeCmB"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Hoy me he reunido en @interiorgob con el CECOD del Sistema Nacional de Protecci\u00f3n Civil. Seguimos trabajando con todos los recursos disponibles y desde todas las instituciones para paliar los efectos de #Filomena. La coordinaci\u00f3n y la cooperaci\u00f3n son claves en estos momentos. https://t.co/6Lt9RQTzW6",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348242505402363904",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348242505402363904",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Filomena",
+                    "text": "Filomena"
+                }
+            ],
+            "image": "https://pbs.twimg.com/media/ErXrJOEXIAAxJb5.jpg",
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 517
+                },
+                {
+                    "name": "likes",
+                    "count": 1700
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                }
+            ],
+            "posted": "2021-01-10 12:17:17",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: El PG, @sanchezcastejon, preside la reuni\u00f3n del CECOD, Comit\u00e9 Estatal de Coordinaci\u00f3n y Direcci\u00f3n del Sistema Nacional de Protecci\u00f3n Civil, donde es informado de la situaci\u00f3n actual y previsiones ante la #BorrascaFilomena. Le acompa\u00f1an los ministros de  @interiorgob y @mitmagob. https://t.co/oEolIGd38X",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1348238270082252800",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1348238270082252800",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-10 12:00:27",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Comparecencia de los ministros del @interiorgob, Fernando Grande-Marlaska, y @mitmagob, Jos\u00e9 Luis \u00c1balos, para actualizar los datos sobre los efectos de la #BorrascaFilomena en Espa\u00f1a. https://t.co/iB5BzGo6Kb",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347971144150900738",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347971144150900738",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-09 18:18:59",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1RDGlPwkkRRGL",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/iB5BzGo6Kb"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Quiero reiterar el llamamiento del Gobierno a la m\u00e1xima prudencia ante la evoluci\u00f3n del tiempo en las pr\u00f3ximas horas. Cumplamos todas las recomendaciones realizadas por las Fuerzas y Cuerpos de Seguridad del Estado, Ej\u00e9rcito, Protecci\u00f3n Civil y los servicios de emergencia.",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347965345399767046",
+            "type": "status",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347965345399767046",
+            "tags": [],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 350
+                },
+                {
+                    "name": "likes",
+                    "count": 1109
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 17:55:56",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "He contactado con los responsables auton\u00f3micos y municipales para agradecerles sus esfuerzo y reiterarles el principal objetivo com\u00fan: la m\u00e1xima coordinaci\u00f3n entre las administraciones como herramienta fundamental para luchar contra los efectos de la #BorrascaFilomena.",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1347965344263135233",
+            "type": "status",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347965344263135233",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 610
+                },
+                {
+                    "name": "likes",
+                    "count": 2630
+                }
+            ],
+            "user_mentions": [],
+            "posted": "2021-01-09 17:55:56",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Los ministros del @interiorgob, Fernando Grande-Marlaska, y @mitmagob, Jos\u00e9 Luis \u00c1balos, ofrecer\u00e1n una rueda de prensa para actualizar datos sobre los efectos de la #BorrascaFilomena en nuestro pa\u00eds. https://t.co/w0QW7pCyRt",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347886050761461765",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347886050761461765",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23BorrascaFilomena",
+                    "text": "BorrascaFilomena"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/interiorgob",
+                    "text": "interiorgob"
+                },
+                {
+                    "url": "https://twitter.com/mitmagob",
+                    "text": "mitmagob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-09 12:40:51",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1YqKDeVmRbVGV",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/w0QW7pCyRt"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "Evitemos los desplazamientos y sigamos las indicaciones de los servicios de emergencia. Extrememos la precauci\u00f3n ante la borrasca #Filomena.  Una vez m\u00e1s, enorme el trabajo de la @UMEgob y los profesionales que est\u00e1n intentando rescatar a las personas atrapadas en la nieve. https://t.co/3nvdmEGoq2",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347835684200062976",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347835684200062976",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23Filomena",
+                    "text": "Filomena"
+                }
+            ],
+            "popularity": [
+                {
+                    "name": "retweets",
+                    "count": 551
+                },
+                {
+                    "name": "likes",
+                    "count": 1560
+                }
+            ],
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/UMEgob",
+                    "text": "UMEgob"
+                }
+            ],
+            "posted": "2021-01-09 09:20:43",
+            "urls": [
+                {
+                    "url": "https://twitter.com/desdelamoncloa/status/1347829943682654209",
+                    "text": "twitter.com/desdelamoncloa\u2026",
+                    "short_url": "https://t.co/3nvdmEGoq2"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: El PG, @sanchezcastejon, se ha reunido hoy con el ministro de Asuntos Exteriores turco, @MevlutCavusoglu. En su encuentro, han abordando las excelentes relaciones entre Espa\u00f1a y Turqu\u00eda, socios estrat\u00e9gicos y aliados en el seno de la OTAN. \ud83c\uddea\ud83c\uddf8  \ud83c\uddf9\ud83c\uddf7  https://t.co/91mxO3CDpu https://t.co/O7jlsp8wyZ",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347566333416906758",
+            "type": "photo",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347566333416906758",
+            "tags": [],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanchezcastejon",
+                    "text": "sanchezcastejon"
+                },
+                {
+                    "url": "https://twitter.com/MevlutCavusoglu",
+                    "text": "MevlutCavusoglu"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-08 15:30:25",
+            "urls": [
+                {
+                    "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2021/080121-turquia.aspx",
+                    "text": "lamoncloa.gob.es/presidente/act\u2026",
+                    "short_url": "https://t.co/91mxO3CDpu"
+                }
+            ],
+            "place": null
+        },
+        {
+            "text": "RT @salvadorilla: Hoy la Comisi\u00f3n Europea ha anunciado la adquisici\u00f3n de 300 millones m\u00e1s de dosis de la vacuna de Pfizer-BioNTech. Espa\u00f1a participar\u00e1 en este incremento de forma proporcional. Nuestro #SNS est\u00e1 preparado para administrar las vacunas con seguridad y eficacia  #YoMeVacuno https://t.co/lQPfy4Zzb3",
+            "lang": "es",
+            "sentiment": "positive",
+            "network": "twitter",
+            "postid": "1347526563378716679",
+            "type": "video",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347526563378716679",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23SNS",
+                    "text": "SNS"
+                },
+                {
+                    "url": "http://twitter.com/search/%23YoMeVacuno",
+                    "text": "YoMeVacuno"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/salvadorilla",
+                    "text": "salvadorilla"
+                }
+            ],
+            "posted": "2021-01-08 12:52:23",
+            "urls": [],
+            "place": null
+        },
+        {
+            "text": "RT @desdelamoncloa: \ud83d\udd34EN DIRECTO Comparecencia del ministro de @sanidadgob y la ministra de @territorialgob tras la reuni\u00f3n del Comit\u00e9 de Seguimiento del #COVID19. https://t.co/3Ifz97ND45",
+            "lang": "es",
+            "sentiment": "neutral",
+            "network": "twitter",
+            "postid": "1347489283469402112",
+            "type": "link",
+            "user": {
+                "userid": "68740712",
+                "url": "https://twitter.com/sanchezcastejon",
+                "name": "Pedro S\u00e1nchez",
+                "image": "https://pbs.twimg.com/profile_images/1236994446832664579/YkGaAffl_normal.jpg",
+                "location": "",
+                "influence": {
+                    "name": "followers",
+                    "count": 1536955
+                },
+                "description": "Presidente del Gobierno de #Espa\u00f1a. Padre. Secretario Gral del @PSOE. Trabajamos por instituciones dignas, la igualdad y la justicia."
+            },
+            "url": "https://twitter.com/sanchezcastejon/status/1347489283469402112",
+            "tags": [
+                {
+                    "url": "http://twitter.com/search/%23COVID19",
+                    "text": "COVID19"
+                }
+            ],
+            "popularity": null,
+            "user_mentions": [
+                {
+                    "url": "https://twitter.com/sanidadgob",
+                    "text": "sanidadgob"
+                },
+                {
+                    "url": "https://twitter.com/territorialgob",
+                    "text": "territorialgob"
+                },
+                {
+                    "url": "https://twitter.com/desdelamoncloa",
+                    "text": "desdelamoncloa"
+                }
+            ],
+            "posted": "2021-01-08 10:24:14",
+            "urls": [
+                {
+                    "url": "https://twitter.com/i/broadcasts/1mrGmwzOORVxy",
+                    "text": "twitter.com/i/broadcasts/1\u2026",
+                    "short_url": "https://t.co/3Ifz97ND45"
+                }
+            ],
+            "place": null
+        }
+    ]
+}

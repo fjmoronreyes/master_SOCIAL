@@ -1,0 +1,183 @@
+{
+  "created_at": "Fri Nov 13 08:13:25 +0000 2020",
+  "id": 1327162639445872640,
+  "id_str": "1327162639445872640",
+  "full_text": "El pr\u00f3ximo martes 17 de noviembre llega a las librer\u00edas \u00abLa Ciudad de Vapor\u00bb, de Carlos Ruiz Zaf\u00f3n.\n\n11 relatos que se entrelazan para proyectar el eco de los personajes y motivos de su universo literario.\n\nCompartimos con vosotros uno de ellos.\n\n\ud83d\udd17 https://t.co/0xPn3dVjvR https://t.co/6RTUp1zHOW",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    272
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/0xPn3dVjvR",
+        "expanded_url": "http://ow.ly/djYV50CiD2Z",
+        "display_url": "ow.ly/djYV50CiD2Z",
+        "indices": [
+          249,
+          272
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1327159420602773506,
+        "id_str": "1327159420602773506",
+        "indices": [
+          273,
+          296
+        ],
+        "media_url": "http://pbs.twimg.com/media/EmsEdiFXcAIgF_T.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EmsEdiFXcAIgF_T.jpg",
+        "url": "https://t.co/6RTUp1zHOW",
+        "display_url": "pic.twitter.com/6RTUp1zHOW",
+        "expanded_url": "https://twitter.com/ZafonOficial/status/1327162639445872640/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1097,
+            "h": 574,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1097,
+            "h": 574,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 356,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1327159420602773506,
+        "id_str": "1327159420602773506",
+        "indices": [
+          273,
+          296
+        ],
+        "media_url": "http://pbs.twimg.com/media/EmsEdiFXcAIgF_T.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EmsEdiFXcAIgF_T.jpg",
+        "url": "https://t.co/6RTUp1zHOW",
+        "display_url": "pic.twitter.com/6RTUp1zHOW",
+        "expanded_url": "https://twitter.com/ZafonOficial/status/1327162639445872640/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1097,
+            "h": 574,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1097,
+            "h": 574,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 356,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 228780473,
+    "id_str": "228780473",
+    "name": "Carlos Ruiz Zaf\u00f3n",
+    "screen_name": "ZafonOficial",
+    "location": "",
+    "description": "Cuenta oficial del escritor Carlos Ruiz Zaf\u00f3n. Gestionada por Editorial Planeta.",
+    "url": "http://t.co/xCb5xYBV5l",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/xCb5xYBV5l",
+            "expanded_url": "http://www.carlosruizzafon.com",
+            "display_url": "carlosruizzafon.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 115077,
+    "friends_count": 8,
+    "listed_count": 542,
+    "created_at": "Mon Dec 20 17:17:03 +0000 2010",
+    "favourites_count": 5359,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 686,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/778168676377849856/m79mQ26I_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/778168676377849856/m79mQ26I_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/228780473/1600692498",
+    "profile_link_color": "062F56",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 386,
+  "favorite_count": 1617,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}

@@ -1,0 +1,267 @@
+{
+    "meta": {
+        "requestid": "3443e9ed4bfd4d869a31d951c9aeaff5",
+        "http_code": 200,
+        "network": "web",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://es.wikipedia.org/wiki/Pol%C3%ADtica",
+            "text": "Featured snippet from the web",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://es.wikipedia.org/wiki/Pol%C3%ADtica",
+            "user": {
+                "name": "es.wikipedia.org",
+                "url": "https:://es.wikipedia.org"
+            },
+            "urls": [
+                {
+                    "url": "https://es.wikipedia.org/wiki/Pol%C3%ADtica",
+                    "text": "Featured snippet from the webLa pol\u00edtica\u200b es el conjunto de actividades que se asocian con la toma de decisiones en grupo, u otras formas de relaciones de poder entre individuos, como la distribuci\u00f3n de recursos o el estatus\u200b.Pol\u00edtica - Wikipedia, la enciclopedia librees.wikipedia.org \u203a wiki \u203a Pol\u00edticaes.wikipedia.org \u203a wiki \u203a Pol\u00edtica"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "#",
+            "text": "People also ask",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "#",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "#",
+                    "text": "People also ask\u00bfC\u00f3mo es la politica en Estados Unidos?\u00bfC\u00f3mo se hace una politica?\u00bfQu\u00e9 es una noticia pol\u00edtica?\u00bfC\u00f3mo es la situacion politica de Colombia en el mundo?"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://cnnespanol.cnn.com/category/politica/",
+            "text": "\u00daltimas noticias sobre Pol\u00edtica en CNN.com \u2705 \u00daltimas noticias, fotos, videos e informaci\u00f3n sobre Pol\u00edtica.",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://cnnespanol.cnn.com/category/politica/",
+            "user": {
+                "name": "cnnespanol.cnn.com",
+                "url": "https:://cnnespanol.cnn.com"
+            },
+            "urls": [
+                {
+                    "url": "https://cnnespanol.cnn.com/category/politica/",
+                    "text": "Pol\u00edtica \u25b7 Noticias Pol\u00edtica \u25b7 \u00daltimas noticias sobre Pol\u00edtica ...cnnespanol.cnn.com \u203a politica"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://www.politico.com/",
+            "text": "Nobody knows politics like POLITICO.\u200ePolitics \u00b7 \u200eMagazine \u00b7 \u200eAgriculture \u00b7 \u200eCannabis",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.politico.com/",
+            "user": {
+                "name": "www.politico.com",
+                "url": "https:://www.politico.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.politico.com/",
+                    "text": "Politics, Policy, Political News - POLITICOpolitico.com"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://definicion.de/politica/",
+            "text": "La pol\u00edtica es una actividad orientada en forma ideol\u00f3gica a la toma de decisiones de un grupo para alcanzar ciertos objetivos. Tambi\u00e9n puede definirse\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://definicion.de/politica/",
+            "user": {
+                "name": "definicion.de",
+                "url": "https:://definicion.de"
+            },
+            "urls": [
+                {
+                    "url": "https://definicion.de/politica/",
+                    "text": "Definici\u00f3n de pol\u00edtica - Qu\u00e9 es, Significado y Conceptodefinicion.de \u203a politica"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://dle.rae.es/pol%C3%ADtico",
+            "text": "Definici\u00f3n RAE de \u00abpol\u00edtico, pol\u00edtica\u00bb seg\u00fan el Diccionario de la lengua espa\u00f1ola: 1. adj. Perteneciente o relativo a la doctrina pol\u00edtica. 2. adj. Perteneciente o\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://dle.rae.es/pol%C3%ADtico",
+            "user": {
+                "name": "dle.rae.es",
+                "url": "https:://dle.rae.es"
+            },
+            "urls": [
+                {
+                    "url": "https://dle.rae.es/pol%C3%ADtico",
+                    "text": "pol\u00edtico, pol\u00edtica | Definici\u00f3n | Diccionario de la lengua ...dle.rae.es \u203a pol\u00edtico"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://www.elperiodico.com/es/politica/",
+            "text": "Ent\u00e9rate de las \u00faltimas noticias sobre pol\u00edtica catalana y espa\u00f1ola, con la actualidad del gobierno, los partidos y los pol\u00edticos de Catalu\u00f1a y Espa\u00f1a.",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.elperiodico.com/es/politica/",
+            "user": {
+                "name": "www.elperiodico.com",
+                "url": "https:://www.elperiodico.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.elperiodico.com/es/politica/",
+                    "text": "Pol\u00edtica | Noticias y \u00faltima hora de Pol\u00edtica - El Peri\u00f3dicoelperiodico.com \u203a politica"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://www.bbc.com/mundo/topics/c6vzy3xq10yt",
+            "text": "Andrew Johnson y Bill Clinton fueron los dos anteriores presidentes a Donald Trump sometidos a juicio pol\u00edtico; Richard Nixon dimiti\u00f3 antes del proceso de\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://www.bbc.com/mundo/topics/c6vzy3xq10yt",
+            "user": {
+                "name": "www.bbc.com",
+                "url": "https:://www.bbc.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.bbc.com/mundo/topics/c6vzy3xq10yt",
+                    "text": "Pol\u00edtica - BBC News Mundo - BBC.combbc.com \u203a mundo \u203a topics"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://concepto.de/politica/",
+            "text": "Pol\u00edtica \u2713 Te explicamos qu\u00e9 es la pol\u00edtica, sus concepciones y c\u00f3mo surgi\u00f3 esta forma de poder. Adem\u00e1s, qu\u00e9 es un sistema pol\u00edtico y algunos ejemplos...",
+            "lang": "pt",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://concepto.de/politica/",
+            "user": {
+                "name": "concepto.de",
+                "url": "https:://concepto.de"
+            },
+            "urls": [
+                {
+                    "url": "https://concepto.de/politica/",
+                    "text": "Pol\u00edtica - Concepto, concepciones, ejemplos e ideolog\u00edasconcepto.de \u203a politica"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:43 +00000",
+            "postid": "https://www.eltiempo.com/politica",
+            "text": "Juan Francisco Valbuena Gait\u00e1n naci\u00f3 en Bogot\u00e1 y trabaja en la secci\u00f3n pol\u00edtica del diario EL TIEMPO desde el 2008. All\u00ed ha cubierto temas del Congreso,\u00a0...",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "positive",
+            "url": "https://www.eltiempo.com/politica",
+            "user": {
+                "name": "www.eltiempo.com",
+                "url": "https:://www.eltiempo.com"
+            },
+            "urls": [
+                {
+                    "url": "https://www.eltiempo.com/politica",
+                    "text": "Noticias de Pol\u00edtica de Colombia y el Mundo - Noticias ...eltiempo.com \u203a politica"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:44 +00000",
+            "postid": "https://elpais.com/noticias/politica/",
+            "text": "Todas las noticias sobre Pol\u00edtica publicadas en EL PA\u00cdS. Informaci\u00f3n, novedades y \u00faltima hora sobre Pol\u00edtica.",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "https://elpais.com/noticias/politica/",
+            "user": {
+                "name": "elpais.com",
+                "url": "https:://elpais.com"
+            },
+            "urls": [
+                {
+                    "url": "https://elpais.com/noticias/politica/",
+                    "text": "Pol\u00edtica en EL PA\u00cdSelpais.com \u203a noticias \u203a politica"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:44 +00000",
+            "postid": "/search?q=Pol%C3%ADtica&tbm=isch&source=iu&ictx=1&fir=ajPfnBIvvSwbrM%252C6CQHEvC_04XNDM%252C%252Fm%252F05qt0&vet=1&usg=AI4_-kShz93WcdLrIuarllnWdZHHXci2MA&sa=X&ved=2ahUKEwjRuOrOjKXuAhUKXKwKHYavA3cQ_B16BAgyEAE#imgrc=ajPfnBIvvSwbrM",
+            "text": "Feedback",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=Pol%C3%ADtica&tbm=isch&source=iu&ictx=1&fir=ajPfnBIvvSwbrM%252C6CQHEvC_04XNDM%252C%252Fm%252F05qt0&vet=1&usg=AI4_-kShz93WcdLrIuarllnWdZHHXci2MA&sa=X&ved=2ahUKEwjRuOrOjKXuAhUKXKwKHYavA3cQ_B16BAgyEAE#imgrc=ajPfnBIvvSwbrM",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=Pol%C3%ADtica&tbm=isch&source=iu&ictx=1&fir=ajPfnBIvvSwbrM%252C6CQHEvC_04XNDM%252C%252Fm%252F05qt0&vet=1&usg=AI4_-kShz93WcdLrIuarllnWdZHHXci2MA&sa=X&ved=2ahUKEwjRuOrOjKXuAhUKXKwKHYavA3cQ_B16BAgyEAE#imgrc=ajPfnBIvvSwbrM",
+                    "text": "ImagesMore imagesPolitics (Pol\u00edtica)Field of study"
+                }
+            ]
+        },
+        {
+            "network": "web",
+            "posted": "2021-01-18 08:48:44 +00000",
+            "postid": "/search?q=Politico+Media+company&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNjMzjjcotNRikeLiQ-EoaRjK7Lk07xyYmyAAEAny-DkqcnECWgq5lhr0WQ9O-FYfYWDgYBRh4FrGKBeTnZJZkJucr-KamZCYqJOfnFiTmVQIAirImso0AAAA&sa=X&ved=2ahUKEwjRuOrOjKXuAhUKXKwKHYavA3cQ6RMwG3oECC8QAg",
+            "text": "See results aboutPoliticoMedia companyMedia company",
+            "lang": "es",
+            "type": "link",
+            "sentiment": "neutral",
+            "url": "/search?q=Politico+Media+company&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNjMzjjcotNRikeLiQ-EoaRjK7Lk07xyYmyAAEAny-DkqcnECWgq5lhr0WQ9O-FYfYWDgYBRh4FrGKBeTnZJZkJucr-KamZCYqJOfnFiTmVQIAirImso0AAAA&sa=X&ved=2ahUKEwjRuOrOjKXuAhUKXKwKHYavA3cQ6RMwG3oECC8QAg",
+            "user": {
+                "url": "null://null"
+            },
+            "urls": [
+                {
+                    "url": "/search?q=Politico+Media+company&stick=H4sIAAAAAAAAAONgecSYzy3w8sc9Yam0SWtOXmNM4OIKzsgvd80rySypFNLgYoOy5Lj4pLj0c_UNjMzjjcotNRikeLiQ-EoaRjK7Lk07xyYmyAAEAny-DkqcnECWgq5lhr0WQ9O-FYfYWDgYBRh4FrGKBeTnZJZkJucr-KamZCYqJOfnFiTmVQIAirImso0AAAA&sa=X&ved=2ahUKEwjRuOrOjKXuAhUKXKwKHYavA3cQ6RMwG3oECC8QAg",
+                    "text": "See results aboutPoliticoMedia companyMedia company"
+                }
+            ]
+        }
+    ]
+}
